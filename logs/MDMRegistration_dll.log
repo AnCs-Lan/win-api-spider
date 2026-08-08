@@ -1,0 +1,20 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：15 个
+[跳过] GetDeviceRegistrationInfo：Learn 索引中未找到
+[跳过] IsDeviceRegisteredWithManagement：Learn 索引中未找到
+[跳过] IsManagementRegistrationAllowed：Learn 索引中未找到
+[跳过] IsMdmUxWithoutAadAllowed：Learn 索引中未找到
+[跳过] SetManagedExternally：Learn 索引中未找到
+[跳过] DiscoverManagementService：Learn 索引中未找到
+[跳过] RegisterDeviceWithManagementUsingAADCredentials：Learn 索引中未找到
+[跳过] RegisterDeviceWithManagementUsingAADDeviceCredentials：Learn 索引中未找到
+[跳过] RegisterDeviceWithManagementUsingAADDeviceCredentials2：Learn 索引中未找到
+[跳过] RegisterDeviceWithManagement：Learn 索引中未找到
+[跳过] UnregisterDeviceWithManagement：Learn 索引中未找到
+[跳过] GetDeviceManagementConfigInfo：Learn 索引中未找到
+[跳过] SetDeviceManagementConfigInfo：Learn 索引中未找到
+[跳过] GetManagementAppHyperlink：Learn 索引中未找到
+[跳过] DiscoverManagementServiceEx：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 15，失败 0

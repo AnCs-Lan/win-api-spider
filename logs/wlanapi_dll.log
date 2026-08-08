@@ -1,0 +1,65 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：60 个
+[跳过] WlanOpenHandle：Learn 索引中未找到
+[跳过] WlanCloseHandle：Learn 索引中未找到
+[跳过] WlanEnumInterfaces：Learn 索引中未找到
+[跳过] WlanSetAutoConfigParameter：Learn 索引中未找到
+[跳过] WlanQueryAutoConfigParameter：Learn 索引中未找到
+[跳过] WlanGetInterfaceCapability：Learn 索引中未找到
+[跳过] WlanSetInterface：Learn 索引中未找到
+[跳过] WlanQueryInterface：Learn 索引中未找到
+[跳过] WlanIhvControl：Learn 索引中未找到
+[跳过] WlanScan：Learn 索引中未找到
+[跳过] WlanGetAvailableNetworkList：Learn 索引中未找到
+[跳过] WlanGetAvailableNetworkList2：Learn 索引中未找到
+[跳过] WlanGetNetworkBssList：Learn 索引中未找到
+[跳过] WlanConnect：Learn 索引中未找到
+[跳过] WlanConnect2：Learn 索引中未找到
+[跳过] WlanDisconnect：Learn 索引中未找到
+[跳过] WlanRegisterNotification：Learn 索引中未找到
+[跳过] WlanGetProfile：Learn 索引中未找到
+[跳过] WlanSetProfileEapUserData：Learn 索引中未找到
+[跳过] WlanSetProfileEapXmlUserData：Learn 索引中未找到
+[跳过] WlanSetProfile：Learn 索引中未找到
+[跳过] WlanDeleteProfile：Learn 索引中未找到
+[跳过] WlanRenameProfile：Learn 索引中未找到
+[跳过] WlanGetProfileList：Learn 索引中未找到
+[跳过] WlanSetProfileList：Learn 索引中未找到
+[跳过] WlanSetProfilePosition：Learn 索引中未找到
+[跳过] WlanSetProfileCustomUserData：Learn 索引中未找到
+[跳过] WlanGetProfileCustomUserData：Learn 索引中未找到
+[跳过] WlanSetFilterList：Learn 索引中未找到
+[跳过] WlanGetFilterList：Learn 索引中未找到
+[跳过] WlanSetPsdIEDataList：Learn 索引中未找到
+[跳过] WlanSaveTemporaryProfile：Learn 索引中未找到
+[跳过] WlanDeviceServiceCommand：Learn 索引中未找到
+[跳过] WlanGetSupportedDeviceServices：Learn 索引中未找到
+[跳过] WlanRegisterDeviceServiceNotification：Learn 索引中未找到
+[跳过] WlanExtractPsdIEDataList：Learn 索引中未找到
+[跳过] WlanReasonCodeToString：Learn 索引中未找到
+[跳过] WlanAllocateMemory：Learn 索引中未找到
+[跳过] WlanFreeMemory：Learn 索引中未找到
+[跳过] WlanSetSecuritySettings：Learn 索引中未找到
+[跳过] WlanGetSecuritySettings：Learn 索引中未找到
+[跳过] WlanHostedNetworkStartUsing：Learn 索引中未找到
+[跳过] WlanHostedNetworkStopUsing：Learn 索引中未找到
+[跳过] WlanHostedNetworkForceStart：Learn 索引中未找到
+[跳过] WlanHostedNetworkForceStop：Learn 索引中未找到
+[跳过] WlanHostedNetworkQueryProperty：Learn 索引中未找到
+[跳过] WlanHostedNetworkSetProperty：Learn 索引中未找到
+[跳过] WlanHostedNetworkInitSettings：Learn 索引中未找到
+[跳过] WlanHostedNetworkRefreshSecuritySettings：Learn 索引中未找到
+[跳过] WlanHostedNetworkQueryStatus：Learn 索引中未找到
+[跳过] WlanHostedNetworkSetSecondaryKey：Learn 索引中未找到
+[跳过] WlanHostedNetworkQuerySecondaryKey：Learn 索引中未找到
+[跳过] WlanRegisterVirtualStationNotification：Learn 索引中未找到
+[跳过] WFDOpenHandle：Learn 索引中未找到
+[跳过] WFDCloseHandle：Learn 索引中未找到
+[跳过] WFDStartOpenSession：Learn 索引中未找到
+[跳过] WFDCancelOpenSession：Learn 索引中未找到
+[跳过] WFDOpenLegacySession：Learn 索引中未找到
+[跳过] WFDCloseSession：Learn 索引中未找到
+[跳过] WFDUpdateDeviceVisibility：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 60，失败 0

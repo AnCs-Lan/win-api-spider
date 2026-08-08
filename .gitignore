@@ -1,0 +1,7 @@
+/target
+*.db
+.env
+spider.log
+__pycache__/
+*.pyc
+batch.log

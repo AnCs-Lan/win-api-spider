@@ -1,0 +1,42 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：37 个
+[跳过] WdsCliClose：Learn 索引中未找到
+[跳过] WdsCliRegisterTrace：Learn 索引中未找到
+[跳过] WdsCliFreeStringArray：Learn 索引中未找到
+[跳过] WdsCliFindFirstImage：Learn 索引中未找到
+[跳过] WdsCliFindNextImage：Learn 索引中未找到
+[跳过] WdsCliGetEnumerationFlags：Learn 索引中未找到
+[跳过] WdsCliGetImageHandleFromFindHandle：Learn 索引中未找到
+[跳过] WdsCliGetImageHandleFromTransferHandle：Learn 索引中未找到
+[跳过] WdsCliCreateSession：Learn 索引中未找到
+[跳过] WdsCliAuthorizeSession：Learn 索引中未找到
+[跳过] WdsCliInitializeLog：Learn 索引中未找到
+[跳过] WdsCliLog：Learn 索引中未找到
+[跳过] WdsCliGetImageName：Learn 索引中未找到
+[跳过] WdsCliGetImageDescription：Learn 索引中未找到
+[跳过] WdsCliGetImageType：Learn 索引中未找到
+[跳过] WdsCliGetImageFiles：Learn 索引中未找到
+[跳过] WdsCliGetImageLanguage：Learn 索引中未找到
+[跳过] WdsCliGetImageLanguages：Learn 索引中未找到
+[跳过] WdsCliGetImageVersion：Learn 索引中未找到
+[跳过] WdsCliGetImagePath：Learn 索引中未找到
+[跳过] WdsCliGetImageIndex：Learn 索引中未找到
+[跳过] WdsCliGetImageArchitecture：Learn 索引中未找到
+[跳过] WdsCliGetImageLastModifiedTime：Learn 索引中未找到
+[跳过] WdsCliGetImageSize：Learn 索引中未找到
+[跳过] WdsCliGetImageHalName：Learn 索引中未找到
+[跳过] WdsCliGetImageGroup：Learn 索引中未找到
+[跳过] WdsCliGetImageNamespace：Learn 索引中未找到
+[跳过] WdsCliGetImageParameter：Learn 索引中未找到
+[跳过] WdsCliGetTransferSize：Learn 索引中未找到
+[跳过] WdsCliSetTransferBufferSize：Learn 索引中未找到
+[跳过] WdsCliTransferImage：Learn 索引中未找到
+[跳过] WdsCliTransferFile：Learn 索引中未找到
+[跳过] WdsCliCancelTransfer：Learn 索引中未找到
+[跳过] WdsCliWaitForTransfer：Learn 索引中未找到
+[跳过] WdsCliObtainDriverPackages：Learn 索引中未找到
+[跳过] WdsCliObtainDriverPackagesEx：Learn 索引中未找到
+[跳过] WdsCliGetDriverQueryXml：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 37，失败 0

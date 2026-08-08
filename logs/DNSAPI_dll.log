@@ -1,0 +1,65 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：60 个
+[跳过] DnsQueryConfig：Learn 索引中未找到
+[跳过] DnsRecordCopyEx：Learn 索引中未找到
+[跳过] DnsRecordSetCopyEx：Learn 索引中未找到
+[跳过] DnsRecordCompare：Learn 索引中未找到
+[跳过] DnsRecordSetCompare：Learn 索引中未找到
+[跳过] DnsRecordSetDetach：Learn 索引中未找到
+[跳过] DnsFree：Learn 索引中未找到
+[跳过] DnsQuery_A：Learn 索引中未找到
+[跳过] DnsQuery_UTF8：Learn 索引中未找到
+[跳过] DnsQuery_W：Learn 索引中未找到
+[跳过] DnsQueryEx：Learn 索引中未找到
+[跳过] DnsCancelQuery：Learn 索引中未找到
+[跳过] DnsFreeCustomServers：Learn 索引中未找到
+[跳过] DnsGetApplicationSettings：Learn 索引中未找到
+[跳过] DnsSetApplicationSettings：Learn 索引中未找到
+[跳过] DnsAcquireContextHandle_W：Learn 索引中未找到
+[跳过] DnsAcquireContextHandle_A：Learn 索引中未找到
+[跳过] DnsReleaseContextHandle：Learn 索引中未找到
+[跳过] DnsModifyRecordsInSet_W：Learn 索引中未找到
+[跳过] DnsModifyRecordsInSet_A：Learn 索引中未找到
+[跳过] DnsModifyRecordsInSet_UTF8：Learn 索引中未找到
+[跳过] DnsReplaceRecordSetW：Learn 索引中未找到
+[跳过] DnsReplaceRecordSetA：Learn 索引中未找到
+[跳过] DnsReplaceRecordSetUTF8：Learn 索引中未找到
+[跳过] DnsValidateName_W：Learn 索引中未找到
+[跳过] DnsValidateName_A：Learn 索引中未找到
+[跳过] DnsValidateName_UTF8：Learn 索引中未找到
+[跳过] DnsNameCompare_A：Learn 索引中未找到
+[跳过] DnsNameCompare_W：Learn 索引中未找到
+[跳过] DnsWriteQuestionToBuffer_W：Learn 索引中未找到
+[跳过] DnsWriteQuestionToBuffer_UTF8：Learn 索引中未找到
+[跳过] DnsExtractRecordsFromMessage_W：Learn 索引中未找到
+[跳过] DnsExtractRecordsFromMessage_UTF8：Learn 索引中未找到
+[跳过] DnsGetProxyInformation：Learn 索引中未找到
+[跳过] DnsFreeProxyName：Learn 索引中未找到
+[跳过] DnsConnectionGetProxyInfoForHostUrl：Learn 索引中未找到
+[跳过] DnsConnectionFreeProxyInfoEx：Learn 索引中未找到
+[跳过] DnsConnectionGetProxyInfo：Learn 索引中未找到
+[跳过] DnsConnectionFreeProxyInfo：Learn 索引中未找到
+[跳过] DnsConnectionSetProxyInfo：Learn 索引中未找到
+[跳过] DnsConnectionDeleteProxyInfo：Learn 索引中未找到
+[跳过] DnsConnectionGetProxyList：Learn 索引中未找到
+[跳过] DnsConnectionFreeProxyList：Learn 索引中未找到
+[跳过] DnsConnectionGetNameList：Learn 索引中未找到
+[跳过] DnsConnectionFreeNameList：Learn 索引中未找到
+[跳过] DnsConnectionUpdateIfIndexTable：Learn 索引中未找到
+[跳过] DnsConnectionSetPolicyEntries：Learn 索引中未找到
+[跳过] DnsConnectionDeletePolicyEntries：Learn 索引中未找到
+[跳过] DnsServiceConstructInstance：Learn 索引中未找到
+[跳过] DnsServiceCopyInstance：Learn 索引中未找到
+[跳过] DnsServiceFreeInstance：Learn 索引中未找到
+[跳过] DnsServiceBrowse：Learn 索引中未找到
+[跳过] DnsServiceBrowseCancel：Learn 索引中未找到
+[跳过] DnsServiceResolve：Learn 索引中未找到
+[跳过] DnsServiceResolveCancel：Learn 索引中未找到
+[跳过] DnsServiceRegister：Learn 索引中未找到
+[跳过] DnsServiceDeRegister：Learn 索引中未找到
+[跳过] DnsServiceRegisterCancel：Learn 索引中未找到
+[跳过] DnsStartMulticastQuery：Learn 索引中未找到
+[跳过] DnsStopMulticastQuery：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 60，失败 0

@@ -1,0 +1,45 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：40 个
+[写入] ScriptFreeCache（5 条文档条目）
+[写入] ScriptItemize（5 条文档条目）
+[写入] ScriptLayout（5 条文档条目）
+[写入] ScriptShape（5 条文档条目）
+[写入] ScriptPlace（5 条文档条目）
+[写入] ScriptTextOut（5 条文档条目）
+[写入] ScriptJustify（5 条文档条目）
+[写入] ScriptBreak（5 条文档条目）
+[写入] ScriptCPtoX（5 条文档条目）
+[写入] ScriptXtoCP（5 条文档条目）
+[写入] ScriptGetLogicalWidths（5 条文档条目）
+[写入] ScriptApplyLogicalWidth（5 条文档条目）
+[写入] ScriptGetCMap（5 条文档条目）
+[写入] ScriptGetGlyphABCWidth（5 条文档条目）
+[写入] ScriptGetProperties（5 条文档条目）
+[写入] ScriptGetFontProperties（5 条文档条目）
+[写入] ScriptCacheGetHeight（5 条文档条目）
+[写入] ScriptStringAnalyse（5 条文档条目）
+[写入] ScriptStringFree（5 条文档条目）
+[写入] ScriptString_pSize（5 条文档条目）
+[写入] ScriptString_pcOutChars（5 条文档条目）
+[写入] ScriptString_pLogAttr（5 条文档条目）
+[写入] ScriptStringGetOrder（5 条文档条目）
+[写入] ScriptStringCPtoX（5 条文档条目）
+[写入] ScriptStringXtoCP（5 条文档条目）
+[写入] ScriptStringGetLogicalWidths（5 条文档条目）
+[写入] ScriptStringValidate（5 条文档条目）
+[写入] ScriptStringOut（5 条文档条目）
+[写入] ScriptIsComplex（5 条文档条目）
+[写入] ScriptRecordDigitSubstitution（5 条文档条目）
+[写入] ScriptApplyDigitSubstitution（5 条文档条目）
+[写入] ScriptShapeOpenType（5 条文档条目）
+[写入] ScriptPlaceOpenType（5 条文档条目）
+[写入] ScriptItemizeOpenType（5 条文档条目）
+[写入] ScriptGetFontScriptTags（5 条文档条目）
+[写入] ScriptGetFontLanguageTags（5 条文档条目）
+[写入] ScriptGetFontFeatureTags（5 条文档条目）
+[写入] ScriptGetFontAlternateGlyphs（5 条文档条目）
+[写入] ScriptSubstituteSingleGlyph（5 条文档条目）
+[写入] ScriptPositionSingleGlyph（5 条文档条目）
+
+完成：处理 40，跳过(已存在) 0，索引缺失 0，失败 0

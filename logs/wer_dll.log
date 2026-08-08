@@ -1,0 +1,26 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：21 个
+[写入] WerReportCreate（5 条文档条目）
+[写入] WerReportSetParameter（5 条文档条目）
+[写入] WerReportAddFile（5 条文档条目）
+[写入] WerReportSetUIOption（4 条文档条目）
+[写入] WerReportSubmit（5 条文档条目）
+[写入] WerReportAddDump（5 条文档条目）
+[写入] WerReportCloseHandle（4 条文档条目）
+[写入] WerAddExcludedApplication（5 条文档条目）
+[写入] WerRemoveExcludedApplication（5 条文档条目）
+[写入] WerStoreOpen（5 条文档条目）
+[写入] WerStoreClose（4 条文档条目）
+[写入] WerStoreGetFirstReportKey（4 条文档条目）
+[写入] WerStoreGetNextReportKey（4 条文档条目）
+[写入] WerStoreQueryReportMetadataV2（4 条文档条目）
+[写入] WerStoreQueryReportMetadataV3（4 条文档条目）
+[写入] WerFreeString（5 条文档条目）
+[写入] WerStorePurge（3 条文档条目）
+[写入] WerStoreGetReportCount（4 条文档条目）
+[写入] WerStoreGetSizeOnDisk（4 条文档条目）
+[写入] WerStoreQueryReportMetadataV1（4 条文档条目）
+[写入] WerStoreUploadReport（4 条文档条目）
+
+完成：处理 21，跳过(已存在) 0，索引缺失 0，失败 0

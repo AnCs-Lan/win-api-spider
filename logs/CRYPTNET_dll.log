@@ -1,0 +1,7 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：5 个
+[跳过] CryptInstallCancelRetrieval：Learn 索引中未找到
+[跳过] CryptUninstallCancelRetrieval：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 3，索引缺失 2，失败 0

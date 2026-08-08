@@ -1,0 +1,32 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：88 个
+[跳过] RtlNormalizeSecurityDescriptor：Learn 索引中未找到
+[跳过] RtlInitializeCorrelationVector：Learn 索引中未找到
+[跳过] RtlIncrementCorrelationVector：Learn 索引中未找到
+[跳过] RtlExtendCorrelationVector：Learn 索引中未找到
+[跳过] RtlValidateCorrelationVector：Learn 索引中未找到
+[跳过] RtlInterlockedPushListSListEx：Learn 索引中未找到
+[跳过] RtlGetNonVolatileToken：Learn 索引中未找到
+[跳过] RtlFreeNonVolatileToken：Learn 索引中未找到
+[跳过] RtlFlushNonVolatileMemory：Learn 索引中未找到
+[跳过] RtlDrainNonVolatileFlush：Learn 索引中未找到
+[跳过] RtlWriteNonVolatileMemory：Learn 索引中未找到
+[跳过] RtlFillNonVolatileMemory：Learn 索引中未找到
+[跳过] RtlFlushNonVolatileMemoryRanges：Learn 索引中未找到
+[跳过] RtlCrc32：Learn 索引中未找到
+[跳过] RtlCrc64：Learn 索引中未找到
+[跳过] RtlIsZeroMemory：Learn 索引中未找到
+[跳过] RtlGetProductInfo：Learn 索引中未找到
+[跳过] RtlOsDeploymentState：Learn 索引中未找到
+[跳过] RtlGetDeviceFamilyInfoEnum：Learn 索引中未找到
+[跳过] RtlSwitchedVVI：Learn 索引中未找到
+[跳过] NtSetInformationThread：Learn 索引中未找到
+[跳过] RtlGetReturnAddressHijackTarget：Learn 索引中未找到
+[跳过] RtlRaiseCustomSystemEventTrigger：Learn 索引中未找到
+[跳过] NtQueryTimerResolution：Learn 索引中未找到
+[跳过] RtlInitStringEx：Learn 索引中未找到
+[跳过] RtlInitAnsiString：Learn 索引中未找到
+[跳过] RtlInitAnsiStringEx：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 61，索引缺失 27，失败 0

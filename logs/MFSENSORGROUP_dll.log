@@ -1,0 +1,14 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：9 个
+[写入] MFCreateSensorGroup（5 条文档条目）
+[写入] MFCreateSensorStream（4 条文档条目）
+[写入] MFCreateSensorProfile（4 条文档条目）
+[写入] MFCreateSensorProfileCollection（4 条文档条目）
+[写入] MFCreateSensorActivityMonitor（4 条文档条目）
+[写入] MFCreateRelativePanelWatcher（4 条文档条目）
+[写入] MFCreateCameraOcclusionStateMonitor（4 条文档条目）
+[写入] MFCreateVirtualCamera（5 条文档条目）
+[写入] MFIsVirtualCameraTypeSupported（4 条文档条目）
+
+完成：处理 9，跳过(已存在) 0，索引缺失 0，失败 0

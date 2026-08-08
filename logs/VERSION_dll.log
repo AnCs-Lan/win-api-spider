@@ -1,0 +1,19 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：14 个
+[写入] VerFindFileA（5 条文档条目）
+[写入] VerFindFileW（5 条文档条目）
+[写入] VerInstallFileA（5 条文档条目）
+[写入] VerInstallFileW（5 条文档条目）
+[写入] GetFileVersionInfoSizeA（5 条文档条目）
+[写入] GetFileVersionInfoSizeW（5 条文档条目）
+[写入] GetFileVersionInfoA（5 条文档条目）
+[写入] GetFileVersionInfoW（5 条文档条目）
+[写入] GetFileVersionInfoSizeExA（5 条文档条目）
+[写入] GetFileVersionInfoSizeExW（5 条文档条目）
+[写入] GetFileVersionInfoExA（5 条文档条目）
+[写入] GetFileVersionInfoExW（5 条文档条目）
+[写入] VerQueryValueA（6 条文档条目）
+[写入] VerQueryValueW（6 条文档条目）
+
+完成：处理 14，跳过(已存在) 0，索引缺失 0，失败 0

@@ -1,0 +1,38 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：33 个
+[写入] AuthzAccessCheck（5 条文档条目）
+[写入] AuthzCachedAccessCheck（5 条文档条目）
+[写入] AuthzOpenObjectAudit（4 条文档条目）
+[写入] AuthzFreeHandle（4 条文档条目）
+[写入] AuthzInitializeResourceManager（4 条文档条目）
+[写入] AuthzInitializeResourceManagerEx（5 条文档条目）
+[写入] AuthzInitializeRemoteResourceManager（4 条文档条目）
+[写入] AuthzFreeResourceManager（4 条文档条目）
+[写入] AuthzInitializeContextFromToken（5 条文档条目）
+[写入] AuthzInitializeContextFromSid（5 条文档条目）
+[写入] AuthzInitializeContextFromAuthzContext（5 条文档条目）
+[写入] AuthzInitializeCompoundContext（4 条文档条目）
+[写入] AuthzAddSidsToContext（4 条文档条目）
+[写入] AuthzModifySecurityAttributes（4 条文档条目）
+[写入] AuthzModifyClaims（5 条文档条目）
+[写入] AuthzModifySids（5 条文档条目）
+[写入] AuthzSetAppContainerInformation（4 条文档条目）
+[写入] AuthzGetInformationFromContext（4 条文档条目）
+[写入] AuthzFreeContext（4 条文档条目）
+[写入] AuthzInitializeObjectAccessAuditEvent（4 条文档条目）
+[写入] AuthzInitializeObjectAccessAuditEvent2（4 条文档条目）
+[写入] AuthzFreeAuditEvent（4 条文档条目）
+[跳过] AuthzEvaluateSacl：Learn 索引中未找到
+[写入] AuthzInstallSecurityEventSource（4 条文档条目）
+[写入] AuthzUninstallSecurityEventSource（4 条文档条目）
+[写入] AuthzEnumerateSecurityEventSources（4 条文档条目）
+[写入] AuthzRegisterSecurityEventSource（5 条文档条目）
+[写入] AuthzUnregisterSecurityEventSource（5 条文档条目）
+[写入] AuthzReportSecurityEvent（4 条文档条目）
+[写入] AuthzReportSecurityEventFromParams（4 条文档条目）
+[写入] AuthzRegisterCapChangeNotification（5 条文档条目）
+[写入] AuthzUnregisterCapChangeNotification（5 条文档条目）
+[写入] AuthzFreeCentralAccessPolicyCache（4 条文档条目）
+
+完成：处理 32，跳过(已存在) 0，索引缺失 1，失败 0

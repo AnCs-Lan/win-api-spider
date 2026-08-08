@@ -1,0 +1,16 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：11 个
+[跳过] DMORegister：Learn 索引中未找到
+[跳过] DMOUnregister：Learn 索引中未找到
+[跳过] DMOEnum：Learn 索引中未找到
+[跳过] DMOGetTypes：Learn 索引中未找到
+[跳过] DMOGetName：Learn 索引中未找到
+[跳过] MoInitMediaType：Learn 索引中未找到
+[跳过] MoFreeMediaType：Learn 索引中未找到
+[跳过] MoCopyMediaType：Learn 索引中未找到
+[跳过] MoCreateMediaType：Learn 索引中未找到
+[跳过] MoDeleteMediaType：Learn 索引中未找到
+[跳过] MoDuplicateMediaType：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 11，失败 0

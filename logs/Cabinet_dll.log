@@ -1,0 +1,15 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：22 个
+[跳过] FCICreate：Learn 索引中未找到
+[跳过] FCIAddFile：Learn 索引中未找到
+[跳过] FCIFlushCabinet：Learn 索引中未找到
+[跳过] FCIFlushFolder：Learn 索引中未找到
+[跳过] FCIDestroy：Learn 索引中未找到
+[跳过] FDICreate：Learn 索引中未找到
+[跳过] FDIIsCabinet：Learn 索引中未找到
+[跳过] FDICopy：Learn 索引中未找到
+[跳过] FDIDestroy：Learn 索引中未找到
+[跳过] FDITruncateCabinet：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 12，索引缺失 10，失败 0

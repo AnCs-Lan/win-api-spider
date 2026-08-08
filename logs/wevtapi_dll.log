@@ -1,0 +1,40 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：35 个
+[跳过] EvtOpenSession：Learn 索引中未找到
+[跳过] EvtClose：Learn 索引中未找到
+[跳过] EvtCancel：Learn 索引中未找到
+[跳过] EvtGetExtendedStatus：Learn 索引中未找到
+[跳过] EvtQuery：Learn 索引中未找到
+[跳过] EvtNext：Learn 索引中未找到
+[跳过] EvtSeek：Learn 索引中未找到
+[跳过] EvtSubscribe：Learn 索引中未找到
+[跳过] EvtCreateRenderContext：Learn 索引中未找到
+[跳过] EvtRender：Learn 索引中未找到
+[跳过] EvtFormatMessage：Learn 索引中未找到
+[跳过] EvtOpenLog：Learn 索引中未找到
+[跳过] EvtGetLogInfo：Learn 索引中未找到
+[跳过] EvtClearLog：Learn 索引中未找到
+[跳过] EvtExportLog：Learn 索引中未找到
+[跳过] EvtArchiveExportedLog：Learn 索引中未找到
+[跳过] EvtOpenChannelEnum：Learn 索引中未找到
+[跳过] EvtNextChannelPath：Learn 索引中未找到
+[跳过] EvtOpenChannelConfig：Learn 索引中未找到
+[跳过] EvtSaveChannelConfig：Learn 索引中未找到
+[跳过] EvtSetChannelConfigProperty：Learn 索引中未找到
+[跳过] EvtGetChannelConfigProperty：Learn 索引中未找到
+[跳过] EvtOpenPublisherEnum：Learn 索引中未找到
+[跳过] EvtNextPublisherId：Learn 索引中未找到
+[跳过] EvtOpenPublisherMetadata：Learn 索引中未找到
+[跳过] EvtGetPublisherMetadataProperty：Learn 索引中未找到
+[跳过] EvtOpenEventMetadataEnum：Learn 索引中未找到
+[跳过] EvtNextEventMetadata：Learn 索引中未找到
+[跳过] EvtGetEventMetadataProperty：Learn 索引中未找到
+[跳过] EvtGetObjectArraySize：Learn 索引中未找到
+[跳过] EvtGetObjectArrayProperty：Learn 索引中未找到
+[跳过] EvtGetQueryInfo：Learn 索引中未找到
+[跳过] EvtCreateBookmark：Learn 索引中未找到
+[跳过] EvtUpdateBookmark：Learn 索引中未找到
+[跳过] EvtGetEventInfo：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 35，失败 0

@@ -1,0 +1,31 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：26 个
+[跳过] BindImage：Learn 索引中未找到
+[跳过] BindImageEx：Learn 索引中未找到
+[跳过] ReBaseImage：Learn 索引中未找到
+[跳过] ReBaseImage64：Learn 索引中未找到
+[跳过] CheckSumMappedFile：Learn 索引中未找到
+[跳过] MapFileAndCheckSumA：Learn 索引中未找到
+[跳过] MapFileAndCheckSumW：Learn 索引中未找到
+[跳过] GetImageConfigInformation：Learn 索引中未找到
+[跳过] GetImageUnusedHeaderBytes：Learn 索引中未找到
+[跳过] SetImageConfigInformation：Learn 索引中未找到
+[跳过] ImageGetDigestStream：Learn 索引中未找到
+[跳过] ImageAddCertificate：Learn 索引中未找到
+[跳过] ImageRemoveCertificate：Learn 索引中未找到
+[跳过] ImageEnumerateCertificates：Learn 索引中未找到
+[跳过] ImageGetCertificateData：Learn 索引中未找到
+[跳过] ImageGetCertificateHeader：Learn 索引中未找到
+[跳过] ImageLoad：Learn 索引中未找到
+[跳过] ImageUnload：Learn 索引中未找到
+[跳过] MapAndLoad：Learn 索引中未找到
+[跳过] UnMapAndLoad：Learn 索引中未找到
+[跳过] TouchFileTimes：Learn 索引中未找到
+[跳过] UpdateDebugInfoFile：Learn 索引中未找到
+[跳过] UpdateDebugInfoFileEx：Learn 索引中未找到
+[跳过] CheckSumMappedFile：Learn 索引中未找到
+[跳过] GetImageConfigInformation：Learn 索引中未找到
+[跳过] SetImageConfigInformation：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 26，失败 0

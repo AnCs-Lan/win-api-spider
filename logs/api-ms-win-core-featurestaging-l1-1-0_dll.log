@@ -1,0 +1,10 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：5 个
+[跳过] GetFeatureEnabledState：Learn 索引中未找到
+[跳过] RecordFeatureUsage：Learn 索引中未找到
+[跳过] RecordFeatureError：Learn 索引中未找到
+[跳过] SubscribeFeatureStateChangeNotification：Learn 索引中未找到
+[跳过] UnsubscribeFeatureStateChangeNotification：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 5，失败 0

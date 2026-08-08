@@ -1,0 +1,42 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：37 个
+[跳过] PeerGraphStartup：Learn 索引中未找到
+[跳过] PeerGraphShutdown：Learn 索引中未找到
+[跳过] PeerGraphFreeData：Learn 索引中未找到
+[跳过] PeerGraphGetItemCount：Learn 索引中未找到
+[跳过] PeerGraphGetNextItem：Learn 索引中未找到
+[跳过] PeerGraphEndEnumeration：Learn 索引中未找到
+[跳过] PeerGraphCreate：Learn 索引中未找到
+[跳过] PeerGraphOpen：Learn 索引中未找到
+[跳过] PeerGraphListen：Learn 索引中未找到
+[跳过] PeerGraphConnect：Learn 索引中未找到
+[跳过] PeerGraphClose：Learn 索引中未找到
+[跳过] PeerGraphDelete：Learn 索引中未找到
+[跳过] PeerGraphGetStatus：Learn 索引中未找到
+[跳过] PeerGraphGetProperties：Learn 索引中未找到
+[跳过] PeerGraphSetProperties：Learn 索引中未找到
+[跳过] PeerGraphRegisterEvent：Learn 索引中未找到
+[跳过] PeerGraphUnregisterEvent：Learn 索引中未找到
+[跳过] PeerGraphGetEventData：Learn 索引中未找到
+[跳过] PeerGraphGetRecord：Learn 索引中未找到
+[跳过] PeerGraphAddRecord：Learn 索引中未找到
+[跳过] PeerGraphUpdateRecord：Learn 索引中未找到
+[跳过] PeerGraphDeleteRecord：Learn 索引中未找到
+[跳过] PeerGraphEnumRecords：Learn 索引中未找到
+[跳过] PeerGraphSearchRecords：Learn 索引中未找到
+[跳过] PeerGraphExportDatabase：Learn 索引中未找到
+[跳过] PeerGraphImportDatabase：Learn 索引中未找到
+[跳过] PeerGraphValidateDeferredRecords：Learn 索引中未找到
+[跳过] PeerGraphOpenDirectConnection：Learn 索引中未找到
+[跳过] PeerGraphSendData：Learn 索引中未找到
+[跳过] PeerGraphCloseDirectConnection：Learn 索引中未找到
+[跳过] PeerGraphEnumConnections：Learn 索引中未找到
+[跳过] PeerGraphEnumNodes：Learn 索引中未找到
+[跳过] PeerGraphSetPresence：Learn 索引中未找到
+[跳过] PeerGraphGetNodeInfo：Learn 索引中未找到
+[跳过] PeerGraphSetNodeAttributes：Learn 索引中未找到
+[跳过] PeerGraphPeerTimeToUniversalTime：Learn 索引中未找到
+[跳过] PeerGraphUniversalTimeToPeerTime：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 37，失败 0

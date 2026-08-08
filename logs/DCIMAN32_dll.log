@@ -1,0 +1,25 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：20 个
+[跳过] DCIOpenProvider：Learn 索引中未找到
+[跳过] DCICloseProvider：Learn 索引中未找到
+[跳过] DCICreatePrimary：Learn 索引中未找到
+[跳过] DCICreateOffscreen：Learn 索引中未找到
+[跳过] DCICreateOverlay：Learn 索引中未找到
+[跳过] DCIEnum：Learn 索引中未找到
+[跳过] DCISetSrcDestClip：Learn 索引中未找到
+[跳过] WinWatchOpen：Learn 索引中未找到
+[跳过] WinWatchClose：Learn 索引中未找到
+[跳过] WinWatchGetClipList：Learn 索引中未找到
+[跳过] WinWatchDidStatusChange：Learn 索引中未找到
+[跳过] GetWindowRegionData：Learn 索引中未找到
+[跳过] GetDCRegionData：Learn 索引中未找到
+[跳过] WinWatchNotify：Learn 索引中未找到
+[跳过] DCIEndAccess：Learn 索引中未找到
+[跳过] DCIBeginAccess：Learn 索引中未找到
+[跳过] DCIDestroy：Learn 索引中未找到
+[跳过] DCIDraw：Learn 索引中未找到
+[跳过] DCISetClipList：Learn 索引中未找到
+[跳过] DCISetDestination：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 20，失败 0

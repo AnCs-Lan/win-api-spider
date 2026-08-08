@@ -1,0 +1,7 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：2 个
+[跳过] GetOsManufacturingMode：Learn 索引中未找到
+[写入] GetIntegratedDisplaySize（6 条文档条目）
+
+完成：处理 1，跳过(已存在) 0，索引缺失 1，失败 0

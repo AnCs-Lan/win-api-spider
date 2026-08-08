@@ -1,0 +1,37 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：32 个
+[跳过] WSDCreateUdpMessageParameters：Learn 索引中未找到
+[跳过] WSDCreateUdpAddress：Learn 索引中未找到
+[跳过] WSDCreateHttpMessageParameters：Learn 索引中未找到
+[跳过] WSDCreateHttpAddress：Learn 索引中未找到
+[跳过] WSDCreateOutboundAttachment：Learn 索引中未找到
+[跳过] WSDXMLGetNameFromBuiltinNamespace：Learn 索引中未找到
+[跳过] WSDXMLCreateContext：Learn 索引中未找到
+[跳过] WSDCreateDiscoveryProvider：Learn 索引中未找到
+[跳过] WSDCreateDiscoveryProvider2：Learn 索引中未找到
+[跳过] WSDCreateDiscoveryPublisher：Learn 索引中未找到
+[跳过] WSDCreateDiscoveryPublisher2：Learn 索引中未找到
+[跳过] WSDCreateDeviceProxy：Learn 索引中未找到
+[跳过] WSDCreateDeviceProxyAdvanced：Learn 索引中未找到
+[跳过] WSDCreateDeviceProxy2：Learn 索引中未找到
+[跳过] WSDCreateDeviceHost：Learn 索引中未找到
+[跳过] WSDCreateDeviceHostAdvanced：Learn 索引中未找到
+[跳过] WSDCreateDeviceHost2：Learn 索引中未找到
+[跳过] WSDSetConfigurationOption：Learn 索引中未找到
+[跳过] WSDGetConfigurationOption：Learn 索引中未找到
+[跳过] WSDAllocateLinkedMemory：Learn 索引中未找到
+[跳过] WSDFreeLinkedMemory：Learn 索引中未找到
+[跳过] WSDAttachLinkedMemory：Learn 索引中未找到
+[跳过] WSDDetachLinkedMemory：Learn 索引中未找到
+[跳过] WSDXMLBuildAnyForSingleElement：Learn 索引中未找到
+[跳过] WSDXMLGetValueFromAny：Learn 索引中未找到
+[跳过] WSDXMLAddSibling：Learn 索引中未找到
+[跳过] WSDXMLAddChild：Learn 索引中未找到
+[跳过] WSDXMLCleanupElement：Learn 索引中未找到
+[跳过] WSDGenerateFault：Learn 索引中未找到
+[跳过] WSDGenerateFaultEx：Learn 索引中未找到
+[跳过] WSDUriEncode：Learn 索引中未找到
+[跳过] WSDUriDecode：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 32，失败 0

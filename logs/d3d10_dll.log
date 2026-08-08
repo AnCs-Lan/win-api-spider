@@ -1,0 +1,32 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：27 个
+[跳过] D3D10CreateDevice：Learn 索引中未找到
+[跳过] D3D10CreateDeviceAndSwapChain：Learn 索引中未找到
+[跳过] D3D10CreateBlob：Learn 索引中未找到
+[跳过] D3D10CompileShader：Learn 索引中未找到
+[跳过] D3D10DisassembleShader：Learn 索引中未找到
+[跳过] D3D10GetPixelShaderProfile：Learn 索引中未找到
+[跳过] D3D10GetVertexShaderProfile：Learn 索引中未找到
+[跳过] D3D10GetGeometryShaderProfile：Learn 索引中未找到
+[跳过] D3D10ReflectShader：Learn 索引中未找到
+[跳过] D3D10PreprocessShader：Learn 索引中未找到
+[跳过] D3D10GetInputSignatureBlob：Learn 索引中未找到
+[跳过] D3D10GetOutputSignatureBlob：Learn 索引中未找到
+[跳过] D3D10GetInputAndOutputSignatureBlob：Learn 索引中未找到
+[跳过] D3D10GetShaderDebugInfo：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskUnion：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskIntersect：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskDifference：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskEnableCapture：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskDisableCapture：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskEnableAll：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskDisableAll：Learn 索引中未找到
+[跳过] D3D10StateBlockMaskGetSetting：Learn 索引中未找到
+[跳过] D3D10CreateStateBlock：Learn 索引中未找到
+[跳过] D3D10CompileEffectFromMemory：Learn 索引中未找到
+[跳过] D3D10CreateEffectFromMemory：Learn 索引中未找到
+[跳过] D3D10CreateEffectPoolFromMemory：Learn 索引中未找到
+[跳过] D3D10DisassembleEffect：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 27，失败 0

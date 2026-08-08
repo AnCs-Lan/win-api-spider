@@ -1,0 +1,46 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：41 个
+[跳过] HcnEnumerateNetworks：Learn 索引中未找到
+[跳过] HcnCreateNetwork：Learn 索引中未找到
+[跳过] HcnOpenNetwork：Learn 索引中未找到
+[跳过] HcnModifyNetwork：Learn 索引中未找到
+[跳过] HcnQueryNetworkProperties：Learn 索引中未找到
+[跳过] HcnDeleteNetwork：Learn 索引中未找到
+[跳过] HcnCloseNetwork：Learn 索引中未找到
+[跳过] HcnEnumerateNamespaces：Learn 索引中未找到
+[跳过] HcnCreateNamespace：Learn 索引中未找到
+[跳过] HcnOpenNamespace：Learn 索引中未找到
+[跳过] HcnModifyNamespace：Learn 索引中未找到
+[跳过] HcnQueryNamespaceProperties：Learn 索引中未找到
+[跳过] HcnDeleteNamespace：Learn 索引中未找到
+[跳过] HcnCloseNamespace：Learn 索引中未找到
+[跳过] HcnEnumerateEndpoints：Learn 索引中未找到
+[跳过] HcnCreateEndpoint：Learn 索引中未找到
+[跳过] HcnOpenEndpoint：Learn 索引中未找到
+[跳过] HcnModifyEndpoint：Learn 索引中未找到
+[跳过] HcnQueryEndpointProperties：Learn 索引中未找到
+[跳过] HcnDeleteEndpoint：Learn 索引中未找到
+[跳过] HcnCloseEndpoint：Learn 索引中未找到
+[跳过] HcnEnumerateLoadBalancers：Learn 索引中未找到
+[跳过] HcnCreateLoadBalancer：Learn 索引中未找到
+[跳过] HcnOpenLoadBalancer：Learn 索引中未找到
+[跳过] HcnModifyLoadBalancer：Learn 索引中未找到
+[跳过] HcnQueryLoadBalancerProperties：Learn 索引中未找到
+[跳过] HcnDeleteLoadBalancer：Learn 索引中未找到
+[跳过] HcnCloseLoadBalancer：Learn 索引中未找到
+[跳过] HcnRegisterServiceCallback：Learn 索引中未找到
+[跳过] HcnUnregisterServiceCallback：Learn 索引中未找到
+[跳过] HcnRegisterGuestNetworkServiceCallback：Learn 索引中未找到
+[跳过] HcnUnregisterGuestNetworkServiceCallback：Learn 索引中未找到
+[跳过] HcnCreateGuestNetworkService：Learn 索引中未找到
+[跳过] HcnCloseGuestNetworkService：Learn 索引中未找到
+[跳过] HcnModifyGuestNetworkService：Learn 索引中未找到
+[跳过] HcnDeleteGuestNetworkService：Learn 索引中未找到
+[跳过] HcnReserveGuestNetworkServicePort：Learn 索引中未找到
+[跳过] HcnReserveGuestNetworkServicePortRange：Learn 索引中未找到
+[跳过] HcnReleaseGuestNetworkServicePortReservationHandle：Learn 索引中未找到
+[跳过] HcnEnumerateGuestNetworkPortReservations：Learn 索引中未找到
+[跳过] HcnFreeGuestNetworkPortReservations：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 41，失败 0

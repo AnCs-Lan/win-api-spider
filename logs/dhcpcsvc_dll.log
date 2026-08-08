@@ -1,0 +1,20 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：15 个
+[跳过] DhcpCApiInitialize：Learn 索引中未找到
+[跳过] DhcpCApiCleanup：Learn 索引中未找到
+[跳过] DhcpRequestParams：Learn 索引中未找到
+[跳过] DhcpUndoRequestParams：Learn 索引中未找到
+[跳过] DhcpRegisterParamChange：Learn 索引中未找到
+[跳过] DhcpDeRegisterParamChange：Learn 索引中未找到
+[跳过] DhcpRemoveDNSRegistrations：Learn 索引中未找到
+[跳过] DhcpGetOriginalSubnetMask：Learn 索引中未找到
+[跳过] McastApiStartup：Learn 索引中未找到
+[跳过] McastApiCleanup：Learn 索引中未找到
+[跳过] McastGenUID：Learn 索引中未找到
+[跳过] McastEnumerateScopes：Learn 索引中未找到
+[跳过] McastRequestAddress：Learn 索引中未找到
+[跳过] McastRenewAddress：Learn 索引中未找到
+[跳过] McastReleaseAddress：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 15，失败 0

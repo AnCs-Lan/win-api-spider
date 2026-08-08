@@ -1,0 +1,61 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：56 个
+[跳过] FaxConnectFaxServerA：Learn 索引中未找到
+[跳过] FaxConnectFaxServerW：Learn 索引中未找到
+[跳过] FaxClose：Learn 索引中未找到
+[跳过] FaxOpenPort：Learn 索引中未找到
+[跳过] FaxCompleteJobParamsA：Learn 索引中未找到
+[跳过] FaxCompleteJobParamsW：Learn 索引中未找到
+[跳过] FaxSendDocumentA：Learn 索引中未找到
+[跳过] FaxSendDocumentW：Learn 索引中未找到
+[跳过] FaxSendDocumentForBroadcastA：Learn 索引中未找到
+[跳过] FaxSendDocumentForBroadcastW：Learn 索引中未找到
+[跳过] FaxEnumJobsA：Learn 索引中未找到
+[跳过] FaxEnumJobsW：Learn 索引中未找到
+[跳过] FaxGetJobA：Learn 索引中未找到
+[跳过] FaxGetJobW：Learn 索引中未找到
+[跳过] FaxSetJobA：Learn 索引中未找到
+[跳过] FaxSetJobW：Learn 索引中未找到
+[跳过] FaxGetPageData：Learn 索引中未找到
+[跳过] FaxGetDeviceStatusA：Learn 索引中未找到
+[跳过] FaxGetDeviceStatusW：Learn 索引中未找到
+[跳过] FaxAbort：Learn 索引中未找到
+[跳过] FaxGetConfigurationA：Learn 索引中未找到
+[跳过] FaxGetConfigurationW：Learn 索引中未找到
+[跳过] FaxSetConfigurationA：Learn 索引中未找到
+[跳过] FaxSetConfigurationW：Learn 索引中未找到
+[跳过] FaxGetLoggingCategoriesA：Learn 索引中未找到
+[跳过] FaxGetLoggingCategoriesW：Learn 索引中未找到
+[跳过] FaxSetLoggingCategoriesA：Learn 索引中未找到
+[跳过] FaxSetLoggingCategoriesW：Learn 索引中未找到
+[跳过] FaxEnumPortsA：Learn 索引中未找到
+[跳过] FaxEnumPortsW：Learn 索引中未找到
+[跳过] FaxGetPortA：Learn 索引中未找到
+[跳过] FaxGetPortW：Learn 索引中未找到
+[跳过] FaxSetPortA：Learn 索引中未找到
+[跳过] FaxSetPortW：Learn 索引中未找到
+[跳过] FaxEnumRoutingMethodsA：Learn 索引中未找到
+[跳过] FaxEnumRoutingMethodsW：Learn 索引中未找到
+[跳过] FaxEnableRoutingMethodA：Learn 索引中未找到
+[跳过] FaxEnableRoutingMethodW：Learn 索引中未找到
+[跳过] FaxEnumGlobalRoutingInfoA：Learn 索引中未找到
+[跳过] FaxEnumGlobalRoutingInfoW：Learn 索引中未找到
+[跳过] FaxSetGlobalRoutingInfoA：Learn 索引中未找到
+[跳过] FaxSetGlobalRoutingInfoW：Learn 索引中未找到
+[跳过] FaxGetRoutingInfoA：Learn 索引中未找到
+[跳过] FaxGetRoutingInfoW：Learn 索引中未找到
+[跳过] FaxSetRoutingInfoA：Learn 索引中未找到
+[跳过] FaxSetRoutingInfoW：Learn 索引中未找到
+[跳过] FaxInitializeEventQueue：Learn 索引中未找到
+[跳过] FaxFreeBuffer：Learn 索引中未找到
+[跳过] FaxStartPrintJobA：Learn 索引中未找到
+[跳过] FaxStartPrintJobW：Learn 索引中未找到
+[跳过] FaxPrintCoverPageA：Learn 索引中未找到
+[跳过] FaxPrintCoverPageW：Learn 索引中未找到
+[跳过] FaxRegisterServiceProviderW：Learn 索引中未找到
+[跳过] FaxUnregisterServiceProviderW：Learn 索引中未找到
+[跳过] FaxRegisterRoutingExtensionW：Learn 索引中未找到
+[跳过] FaxAccessCheck：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 56，失败 0

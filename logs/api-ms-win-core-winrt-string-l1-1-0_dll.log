@@ -1,0 +1,32 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：27 个
+[跳过] HSTRING_UserSize：Learn 索引中未找到
+[跳过] HSTRING_UserMarshal：Learn 索引中未找到
+[跳过] HSTRING_UserUnmarshal：Learn 索引中未找到
+[跳过] HSTRING_UserFree：Learn 索引中未找到
+[跳过] HSTRING_UserSize64：Learn 索引中未找到
+[跳过] HSTRING_UserMarshal64：Learn 索引中未找到
+[跳过] HSTRING_UserUnmarshal64：Learn 索引中未找到
+[跳过] HSTRING_UserFree64：Learn 索引中未找到
+[跳过] WindowsCreateString：Learn 索引中未找到
+[跳过] WindowsCreateStringReference：Learn 索引中未找到
+[跳过] WindowsDeleteString：Learn 索引中未找到
+[跳过] WindowsDuplicateString：Learn 索引中未找到
+[跳过] WindowsGetStringLen：Learn 索引中未找到
+[跳过] WindowsGetStringRawBuffer：Learn 索引中未找到
+[跳过] WindowsIsStringEmpty：Learn 索引中未找到
+[跳过] WindowsStringHasEmbeddedNull：Learn 索引中未找到
+[跳过] WindowsCompareStringOrdinal：Learn 索引中未找到
+[跳过] WindowsSubstring：Learn 索引中未找到
+[跳过] WindowsSubstringWithSpecifiedLength：Learn 索引中未找到
+[跳过] WindowsConcatString：Learn 索引中未找到
+[跳过] WindowsReplaceString：Learn 索引中未找到
+[跳过] WindowsTrimStringStart：Learn 索引中未找到
+[跳过] WindowsTrimStringEnd：Learn 索引中未找到
+[跳过] WindowsPreallocateStringBuffer：Learn 索引中未找到
+[跳过] WindowsPromoteStringBuffer：Learn 索引中未找到
+[跳过] WindowsDeleteStringBuffer：Learn 索引中未找到
+[跳过] WindowsInspectString：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 27，失败 0

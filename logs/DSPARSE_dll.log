@@ -1,0 +1,24 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：19 个
+[跳过] DsMakeSpnW：Learn 索引中未找到
+[跳过] DsMakeSpnA：Learn 索引中未找到
+[跳过] DsCrackSpnA：Learn 索引中未找到
+[跳过] DsCrackSpnW：Learn 索引中未找到
+[跳过] DsQuoteRdnValueW：Learn 索引中未找到
+[跳过] DsQuoteRdnValueA：Learn 索引中未找到
+[跳过] DsUnquoteRdnValueW：Learn 索引中未找到
+[跳过] DsUnquoteRdnValueA：Learn 索引中未找到
+[跳过] DsGetRdnW：Learn 索引中未找到
+[跳过] DsCrackUnquotedMangledRdnW：Learn 索引中未找到
+[跳过] DsCrackUnquotedMangledRdnA：Learn 索引中未找到
+[跳过] DsIsMangledRdnValueW：Learn 索引中未找到
+[跳过] DsIsMangledRdnValueA：Learn 索引中未找到
+[跳过] DsIsMangledDnA：Learn 索引中未找到
+[跳过] DsIsMangledDnW：Learn 索引中未找到
+[跳过] DsCrackSpn2A：Learn 索引中未找到
+[跳过] DsCrackSpn2W：Learn 索引中未找到
+[跳过] DsCrackSpn3W：Learn 索引中未找到
+[跳过] DsCrackSpn4W：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 19，失败 0

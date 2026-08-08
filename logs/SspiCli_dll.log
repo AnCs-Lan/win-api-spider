@@ -1,0 +1,11 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：6 个
+[写入] QueryContextAttributesExW（5 条文档条目）
+[写入] QueryContextAttributesExA（5 条文档条目）
+[写入] QueryCredentialsAttributesExW（4 条文档条目）
+[写入] QueryCredentialsAttributesExA（4 条文档条目）
+[写入] SspiEncryptAuthIdentityEx（5 条文档条目）
+[写入] SspiDecryptAuthIdentityEx（4 条文档条目）
+
+完成：处理 6，跳过(已存在) 0，索引缺失 0，失败 0

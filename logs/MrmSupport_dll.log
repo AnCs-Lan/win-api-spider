@@ -1,0 +1,28 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：27 个
+[跳过] MrmCreateResourceIndexer：Learn 索引中未找到
+[跳过] MrmCreateResourceIndexerFromPreviousSchemaFile：Learn 索引中未找到
+[跳过] MrmCreateResourceIndexerFromPreviousPriFile：Learn 索引中未找到
+[跳过] MrmCreateResourceIndexerFromPreviousSchemaData：Learn 索引中未找到
+[跳过] MrmCreateResourceIndexerFromPreviousPriData：Learn 索引中未找到
+[跳过] MrmCreateResourceIndexerWithFlags：Learn 索引中未找到
+[跳过] MrmIndexString：Learn 索引中未找到
+[跳过] MrmIndexEmbeddedData：Learn 索引中未找到
+[跳过] MrmIndexFile：Learn 索引中未找到
+[跳过] MrmIndexFileAutoQualifiers：Learn 索引中未找到
+[跳过] MrmIndexResourceContainerAutoQualifiers：Learn 索引中未找到
+[跳过] MrmCreateResourceFile：Learn 索引中未找到
+[跳过] MrmCreateResourceFileWithChecksum：Learn 索引中未找到
+[跳过] MrmCreateResourceFileInMemory：Learn 索引中未找到
+[跳过] MrmPeekResourceIndexerMessages：Learn 索引中未找到
+[跳过] MrmDestroyIndexerAndMessages：Learn 索引中未找到
+[跳过] MrmFreeMemory：Learn 索引中未找到
+[跳过] MrmDumpPriFile：Learn 索引中未找到
+[跳过] MrmDumpPriFileInMemory：Learn 索引中未找到
+[跳过] MrmDumpPriDataInMemory：Learn 索引中未找到
+[跳过] MrmCreateConfig：Learn 索引中未找到
+[跳过] MrmCreateConfigInMemory：Learn 索引中未找到
+[跳过] MrmGetPriFileContentChecksum：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 4，索引缺失 23，失败 0

@@ -1,0 +1,22 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：17 个
+[跳过] GetToken：Learn 索引中未找到
+[跳过] ManageCardSpace：Learn 索引中未找到
+[跳过] ImportInformationCard：Learn 索引中未找到
+[跳过] Encrypt：Learn 索引中未找到
+[跳过] Decrypt：Learn 索引中未找到
+[跳过] SignHash：Learn 索引中未找到
+[跳过] VerifyHash：Learn 索引中未找到
+[跳过] GetCryptoTransform：Learn 索引中未找到
+[跳过] GetKeyedHash：Learn 索引中未找到
+[跳过] TransformBlock：Learn 索引中未找到
+[跳过] TransformFinalBlock：Learn 索引中未找到
+[跳过] HashCore：Learn 索引中未找到
+[跳过] HashFinal：Learn 索引中未找到
+[跳过] FreeToken：Learn 索引中未找到
+[跳过] CloseCryptoHandle：Learn 索引中未找到
+[跳过] GenerateDerivedKey：Learn 索引中未找到
+[跳过] GetBrowserToken：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 17，失败 0

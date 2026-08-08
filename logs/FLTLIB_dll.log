@@ -1,0 +1,33 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：28 个
+[跳过] FilterLoad：Learn 索引中未找到
+[跳过] FilterUnload：Learn 索引中未找到
+[跳过] FilterCreate：Learn 索引中未找到
+[跳过] FilterClose：Learn 索引中未找到
+[跳过] FilterInstanceCreate：Learn 索引中未找到
+[跳过] FilterInstanceClose：Learn 索引中未找到
+[跳过] FilterAttach：Learn 索引中未找到
+[跳过] FilterAttachAtAltitude：Learn 索引中未找到
+[跳过] FilterDetach：Learn 索引中未找到
+[跳过] FilterFindFirst：Learn 索引中未找到
+[跳过] FilterFindNext：Learn 索引中未找到
+[跳过] FilterFindClose：Learn 索引中未找到
+[跳过] FilterVolumeFindFirst：Learn 索引中未找到
+[跳过] FilterVolumeFindNext：Learn 索引中未找到
+[跳过] FilterVolumeFindClose：Learn 索引中未找到
+[跳过] FilterInstanceFindFirst：Learn 索引中未找到
+[跳过] FilterInstanceFindNext：Learn 索引中未找到
+[跳过] FilterInstanceFindClose：Learn 索引中未找到
+[跳过] FilterVolumeInstanceFindFirst：Learn 索引中未找到
+[跳过] FilterVolumeInstanceFindNext：Learn 索引中未找到
+[跳过] FilterVolumeInstanceFindClose：Learn 索引中未找到
+[跳过] FilterGetInformation：Learn 索引中未找到
+[跳过] FilterInstanceGetInformation：Learn 索引中未找到
+[跳过] FilterConnectCommunicationPort：Learn 索引中未找到
+[跳过] FilterSendMessage：Learn 索引中未找到
+[跳过] FilterGetMessage：Learn 索引中未找到
+[跳过] FilterReplyMessage：Learn 索引中未找到
+[跳过] FilterGetDosName：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 28，失败 0

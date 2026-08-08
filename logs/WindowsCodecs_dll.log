@@ -1,0 +1,14 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：9 个
+[写入] WICConvertBitmapSource（6 条文档条目）
+[写入] WICCreateBitmapFromSection（5 条文档条目）
+[写入] WICCreateBitmapFromSectionEx（4 条文档条目）
+[写入] WICMapGuidToShortName（5 条文档条目）
+[写入] WICMapShortNameToGuid（5 条文档条目）
+[写入] WICMapSchemaToName（5 条文档条目）
+[写入] WICMatchMetadataContent（4 条文档条目）
+[写入] WICSerializeMetadataContent（4 条文档条目）
+[写入] WICGetMetadataContentSize（4 条文档条目）
+
+完成：处理 9，跳过(已存在) 0，索引缺失 0，失败 0

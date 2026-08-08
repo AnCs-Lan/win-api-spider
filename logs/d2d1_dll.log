@@ -1,0 +1,18 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：13 个
+[写入] D2D1CreateFactory（5 条文档条目）
+[写入] D2D1MakeRotateMatrix（5 条文档条目）
+[写入] D2D1MakeSkewMatrix（4 条文档条目）
+[写入] D2D1IsMatrixInvertible（4 条文档条目）
+[写入] D2D1InvertMatrix（4 条文档条目）
+[写入] D2D1CreateDevice（5 条文档条目）
+[写入] D2D1CreateDeviceContext（5 条文档条目）
+[写入] D2D1ConvertColorSpace（4 条文档条目）
+[写入] D2D1SinCos（4 条文档条目）
+[写入] D2D1Tan（4 条文档条目）
+[写入] D2D1Vec3Length（4 条文档条目）
+[写入] D2D1ComputeMaximumScaleFactor（5 条文档条目）
+[写入] D2D1GetGradientMeshInteriorPointsFromCoonsPatch（5 条文档条目）
+
+完成：处理 13，跳过(已存在) 0，索引缺失 0，失败 0

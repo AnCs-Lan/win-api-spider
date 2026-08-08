@@ -1,0 +1,44 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：39 个
+[写入] CreateTransaction（5 条文档条目）
+[写入] OpenTransaction（5 条文档条目）
+[写入] CommitTransaction（5 条文档条目）
+[写入] CommitTransactionAsync（4 条文档条目）
+[写入] RollbackTransaction（4 条文档条目）
+[写入] RollbackTransactionAsync（4 条文档条目）
+[写入] GetTransactionId（4 条文档条目）
+[写入] GetTransactionInformation（4 条文档条目）
+[写入] SetTransactionInformation（4 条文档条目）
+[写入] CreateTransactionManager（5 条文档条目）
+[写入] OpenTransactionManager（5 条文档条目）
+[写入] OpenTransactionManagerById（5 条文档条目）
+[写入] RenameTransactionManager（4 条文档条目）
+[写入] RollforwardTransactionManager（4 条文档条目）
+[写入] RecoverTransactionManager（5 条文档条目）
+[写入] GetCurrentClockTransactionManager（4 条文档条目）
+[写入] GetTransactionManagerId（4 条文档条目）
+[写入] CreateResourceManager（5 条文档条目）
+[写入] OpenResourceManager（5 条文档条目）
+[写入] RecoverResourceManager（4 条文档条目）
+[写入] GetNotificationResourceManager（5 条文档条目）
+[写入] GetNotificationResourceManagerAsync（5 条文档条目）
+[写入] SetResourceManagerCompletionPort（5 条文档条目）
+[写入] CreateEnlistment（5 条文档条目）
+[写入] OpenEnlistment（4 条文档条目）
+[写入] RecoverEnlistment（4 条文档条目）
+[写入] GetEnlistmentRecoveryInformation（5 条文档条目）
+[写入] GetEnlistmentId（4 条文档条目）
+[写入] SetEnlistmentRecoveryInformation（5 条文档条目）
+[写入] PrepareEnlistment（4 条文档条目）
+[写入] PrePrepareEnlistment（4 条文档条目）
+[写入] CommitEnlistment（4 条文档条目）
+[写入] RollbackEnlistment（5 条文档条目）
+[写入] PrePrepareComplete（4 条文档条目）
+[写入] PrepareComplete（4 条文档条目）
+[写入] ReadOnlyEnlistment（5 条文档条目）
+[写入] CommitComplete（4 条文档条目）
+[写入] RollbackComplete（5 条文档条目）
+[写入] SinglePhaseReject（4 条文档条目）
+
+完成：处理 39，跳过(已存在) 0，索引缺失 0，失败 0

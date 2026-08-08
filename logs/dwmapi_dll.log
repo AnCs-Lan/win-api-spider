@@ -1,0 +1,36 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：31 个
+[写入] DwmDefWindowProc（5 条文档条目）
+[写入] DwmEnableBlurBehindWindow（6 条文档条目）
+[写入] DwmEnableComposition（6 条文档条目）
+[写入] DwmEnableMMCSS（5 条文档条目）
+[写入] DwmExtendFrameIntoClientArea（7 条文档条目）
+[写入] DwmGetColorizationColor（6 条文档条目）
+[写入] DwmGetCompositionTimingInfo（4 条文档条目）
+[写入] DwmGetWindowAttribute（4 条文档条目）
+[写入] DwmIsCompositionEnabled（4 条文档条目）
+[写入] DwmModifyPreviousDxFrameDuration（4 条文档条目）
+[写入] DwmQueryThumbnailSourceSize（4 条文档条目）
+[写入] DwmRegisterThumbnail（6 条文档条目）
+[写入] DwmSetDxFrameDuration（5 条文档条目）
+[写入] DwmSetPresentParameters（4 条文档条目）
+[写入] DwmSetWindowAttribute（5 条文档条目）
+[写入] DwmUnregisterThumbnail（5 条文档条目）
+[写入] DwmUpdateThumbnailProperties（6 条文档条目）
+[写入] DwmSetIconicThumbnail（7 条文档条目）
+[写入] DwmSetIconicLivePreviewBitmap（7 条文档条目）
+[写入] DwmInvalidateIconicBitmaps（5 条文档条目）
+[写入] DwmAttachMilContent（4 条文档条目）
+[写入] DwmDetachMilContent（4 条文档条目）
+[写入] DwmFlush（4 条文档条目）
+[写入] DwmGetGraphicsStreamTransformHint（4 条文档条目）
+[写入] DwmGetGraphicsStreamClient（4 条文档条目）
+[写入] DwmGetTransportAttributes（4 条文档条目）
+[写入] DwmTransitionOwnedWindow（4 条文档条目）
+[写入] DwmRenderGesture（4 条文档条目）
+[写入] DwmTetherContact（4 条文档条目）
+[写入] DwmShowContact（5 条文档条目）
+[写入] DwmGetUnmetTabRequirements（4 条文档条目）
+
+完成：处理 31，跳过(已存在) 0，索引缺失 0，失败 0

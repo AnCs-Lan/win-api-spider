@@ -1,0 +1,40 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：35 个
+[写入] CfGetPlatformInfo（5 条文档条目）
+[写入] CfRegisterSyncRoot（5 条文档条目）
+[写入] CfUnregisterSyncRoot（5 条文档条目）
+[写入] CfConnectSyncRoot（5 条文档条目）
+[写入] CfDisconnectSyncRoot（5 条文档条目）
+[写入] CfGetTransferKey（5 条文档条目）
+[写入] CfReleaseTransferKey（5 条文档条目）
+[写入] CfExecute（5 条文档条目）
+[写入] CfUpdateSyncProviderStatus（4 条文档条目）
+[写入] CfQuerySyncProviderStatus（4 条文档条目）
+[写入] CfReportSyncStatus（5 条文档条目）
+[写入] CfCreatePlaceholders（5 条文档条目）
+[写入] CfOpenFileWithOplock（5 条文档条目）
+[写入] CfReferenceProtectedHandle（5 条文档条目）
+[写入] CfGetWin32HandleFromProtectedHandle（5 条文档条目）
+[写入] CfReleaseProtectedHandle（4 条文档条目）
+[写入] CfCloseHandle（4 条文档条目）
+[写入] CfConvertToPlaceholder（5 条文档条目）
+[写入] CfUpdatePlaceholder（5 条文档条目）
+[写入] CfRevertPlaceholder（5 条文档条目）
+[写入] CfHydratePlaceholder（5 条文档条目）
+[跳过] CfDehydratePlaceholder：Learn 索引中未找到
+[写入] CfSetPinState（5 条文档条目）
+[写入] CfSetInSyncState（4 条文档条目）
+[写入] CfSetCorrelationVector（5 条文档条目）
+[写入] CfGetCorrelationVector（5 条文档条目）
+[写入] CfGetPlaceholderStateFromAttributeTag（5 条文档条目）
+[写入] CfGetPlaceholderStateFromFileInfo（5 条文档条目）
+[写入] CfGetPlaceholderStateFromFindData（5 条文档条目）
+[写入] CfGetPlaceholderInfo（5 条文档条目）
+[写入] CfGetSyncRootInfoByPath（5 条文档条目）
+[写入] CfGetSyncRootInfoByHandle（5 条文档条目）
+[写入] CfGetPlaceholderRangeInfo（5 条文档条目）
+[写入] CfReportProviderProgress（5 条文档条目）
+[写入] CfReportProviderProgress2（4 条文档条目）
+
+完成：处理 34，跳过(已存在) 0，索引缺失 1，失败 0

@@ -1,0 +1,10 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：5 个
+[写入] SCardUIDlgSelectCardA（6 条文档条目）
+[写入] SCardUIDlgSelectCardW（6 条文档条目）
+[写入] GetOpenCardNameA（5 条文档条目）
+[写入] GetOpenCardNameW（5 条文档条目）
+[跳过] SCardDlgExtendedError：Learn 索引中未找到
+
+完成：处理 4，跳过(已存在) 0，索引缺失 1，失败 0

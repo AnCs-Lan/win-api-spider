@@ -1,0 +1,16 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：11 个
+[跳过] PTQuerySchemaVersionSupport：Learn 索引中未找到
+[跳过] PTOpenProvider：Learn 索引中未找到
+[跳过] PTOpenProviderEx：Learn 索引中未找到
+[跳过] PTCloseProvider：Learn 索引中未找到
+[跳过] PTReleaseMemory：Learn 索引中未找到
+[跳过] PTGetPrintCapabilities：Learn 索引中未找到
+[跳过] PTGetPrintDeviceCapabilities：Learn 索引中未找到
+[跳过] PTGetPrintDeviceResources：Learn 索引中未找到
+[跳过] PTMergeAndValidatePrintTicket：Learn 索引中未找到
+[跳过] PTConvertPrintTicketToDevMode：Learn 索引中未找到
+[跳过] PTConvertDevModeToPrintTicket：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 11，失败 0

@@ -1,0 +1,13 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：8 个
+[跳过] ShowGameInfoUI：Learn 索引中未找到
+[跳过] ShowGameInfoUIForUser：Learn 索引中未找到
+[跳过] ShowFindFriendsUI：Learn 索引中未找到
+[跳过] ShowFindFriendsUIForUser：Learn 索引中未找到
+[跳过] ShowCustomizeUserProfileUI：Learn 索引中未找到
+[跳过] ShowCustomizeUserProfileUIForUser：Learn 索引中未找到
+[跳过] ShowUserSettingsUI：Learn 索引中未找到
+[跳过] ShowUserSettingsUIForUser：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 8，失败 0

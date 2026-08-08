@@ -1,0 +1,33 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：28 个
+[跳过] PeerDistStartup：Learn 索引中未找到
+[跳过] PeerDistShutdown：Learn 索引中未找到
+[跳过] PeerDistGetStatus：Learn 索引中未找到
+[跳过] PeerDistRegisterForStatusChangeNotification：Learn 索引中未找到
+[跳过] PeerDistUnregisterForStatusChangeNotification：Learn 索引中未找到
+[跳过] PeerDistServerPublishStream：Learn 索引中未找到
+[跳过] PeerDistServerPublishAddToStream：Learn 索引中未找到
+[跳过] PeerDistServerPublishCompleteStream：Learn 索引中未找到
+[跳过] PeerDistServerCloseStreamHandle：Learn 索引中未找到
+[跳过] PeerDistServerUnpublish：Learn 索引中未找到
+[跳过] PeerDistServerOpenContentInformation：Learn 索引中未找到
+[跳过] PeerDistServerRetrieveContentInformation：Learn 索引中未找到
+[跳过] PeerDistServerCloseContentInformation：Learn 索引中未找到
+[跳过] PeerDistServerCancelAsyncOperation：Learn 索引中未找到
+[跳过] PeerDistClientOpenContent：Learn 索引中未找到
+[跳过] PeerDistClientCloseContent：Learn 索引中未找到
+[跳过] PeerDistClientAddContentInformation：Learn 索引中未找到
+[跳过] PeerDistClientCompleteContentInformation：Learn 索引中未找到
+[跳过] PeerDistClientAddData：Learn 索引中未找到
+[跳过] PeerDistClientBlockRead：Learn 索引中未找到
+[跳过] PeerDistClientStreamRead：Learn 索引中未找到
+[跳过] PeerDistClientFlushContent：Learn 索引中未找到
+[跳过] PeerDistClientCancelAsyncOperation：Learn 索引中未找到
+[跳过] PeerDistGetStatusEx：Learn 索引中未找到
+[跳过] PeerDistRegisterForStatusChangeNotificationEx：Learn 索引中未找到
+[跳过] PeerDistGetOverlappedResult：Learn 索引中未找到
+[跳过] PeerDistServerOpenContentInformationEx：Learn 索引中未找到
+[跳过] PeerDistClientGetInformationByHandle：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 28，失败 0

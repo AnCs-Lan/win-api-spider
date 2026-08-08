@@ -1,0 +1,26 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：21 个
+[跳过] CMCheckColors：Learn 索引中未找到
+[跳过] CMCheckRGBs：Learn 索引中未找到
+[跳过] CMConvertColorNameToIndex：Learn 索引中未找到
+[跳过] CMConvertIndexToColorName：Learn 索引中未找到
+[跳过] CMCreateDeviceLinkProfile：Learn 索引中未找到
+[跳过] CMCreateMultiProfileTransform：Learn 索引中未找到
+[跳过] CMCreateProfileW：Learn 索引中未找到
+[跳过] CMCreateTransform：Learn 索引中未找到
+[跳过] CMCreateTransformW：Learn 索引中未找到
+[跳过] CMCreateTransformExt：Learn 索引中未找到
+[跳过] CMCheckColorsInGamut：Learn 索引中未找到
+[跳过] CMCreateProfile：Learn 索引中未找到
+[跳过] CMTranslateRGB：Learn 索引中未找到
+[跳过] CMTranslateRGBs：Learn 索引中未找到
+[跳过] CMCreateTransformExtW：Learn 索引中未找到
+[跳过] CMDeleteTransform：Learn 索引中未找到
+[跳过] CMGetInfo：Learn 索引中未找到
+[跳过] CMGetNamedProfileInfo：Learn 索引中未找到
+[跳过] CMIsProfileValid：Learn 索引中未找到
+[跳过] CMTranslateColors：Learn 索引中未找到
+[跳过] CMTranslateRGBsExt：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 21，失败 0

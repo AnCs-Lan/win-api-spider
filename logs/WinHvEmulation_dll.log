@@ -1,0 +1,9 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：4 个
+[跳过] WHvEmulatorCreateEmulator：Learn 索引中未找到
+[跳过] WHvEmulatorDestroyEmulator：Learn 索引中未找到
+[跳过] WHvEmulatorTryIoEmulation：Learn 索引中未找到
+[跳过] WHvEmulatorTryMmioEmulation：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 4，失败 0

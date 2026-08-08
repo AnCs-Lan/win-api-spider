@@ -1,0 +1,14 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：9 个
+[跳过] CreateMIMEMap：Learn 索引中未找到
+[跳过] DecodeImage：Learn 索引中未找到
+[跳过] SniffStream：Learn 索引中未找到
+[跳过] GetMaxMIMEIDBytes：Learn 索引中未找到
+[跳过] IdentifyMIMEType：Learn 索引中未找到
+[跳过] ComputeInvCMAP：Learn 索引中未找到
+[跳过] DitherTo8：Learn 索引中未找到
+[跳过] CreateDDrawSurfaceOnDIB：Learn 索引中未找到
+[跳过] DecodeImageEx：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 9，失败 0

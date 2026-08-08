@@ -1,0 +1,8 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：3 个
+[写入] GetScaleFactorForDevice（5 条文档条目）
+[写入] RegisterScaleChangeNotifications（5 条文档条目）
+[写入] RevokeScaleChangeNotifications（4 条文档条目）
+
+完成：处理 3，跳过(已存在) 0，索引缺失 0，失败 0

@@ -1,0 +1,55 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：50 个
+[跳过] RunSetupCommandA：Learn 索引中未找到
+[跳过] RunSetupCommandW：Learn 索引中未找到
+[跳过] NeedRebootInit：Learn 索引中未找到
+[跳过] NeedReboot：Learn 索引中未找到
+[跳过] RebootCheckOnInstallA：Learn 索引中未找到
+[跳过] RebootCheckOnInstallW：Learn 索引中未找到
+[跳过] TranslateInfStringA：Learn 索引中未找到
+[跳过] TranslateInfStringW：Learn 索引中未找到
+[跳过] RegInstallA：Learn 索引中未找到
+[跳过] RegInstallW：Learn 索引中未找到
+[跳过] LaunchINFSectionExW：Learn 索引中未找到
+[跳过] ExecuteCabA：Learn 索引中未找到
+[跳过] ExecuteCabW：Learn 索引中未找到
+[跳过] AdvInstallFileA：Learn 索引中未找到
+[跳过] AdvInstallFileW：Learn 索引中未找到
+[跳过] RegSaveRestoreA：Learn 索引中未找到
+[跳过] RegSaveRestoreW：Learn 索引中未找到
+[跳过] RegSaveRestoreOnINFA：Learn 索引中未找到
+[跳过] RegSaveRestoreOnINFW：Learn 索引中未找到
+[跳过] RegRestoreAllA：Learn 索引中未找到
+[跳过] RegRestoreAllW：Learn 索引中未找到
+[跳过] FileSaveRestoreW：Learn 索引中未找到
+[跳过] FileSaveRestoreOnINFA：Learn 索引中未找到
+[跳过] FileSaveRestoreOnINFW：Learn 索引中未找到
+[跳过] AddDelBackupEntryA：Learn 索引中未找到
+[跳过] AddDelBackupEntryW：Learn 索引中未找到
+[跳过] FileSaveMarkNotExistA：Learn 索引中未找到
+[跳过] FileSaveMarkNotExistW：Learn 索引中未找到
+[跳过] GetVersionFromFileA：Learn 索引中未找到
+[跳过] GetVersionFromFileW：Learn 索引中未找到
+[跳过] GetVersionFromFileExA：Learn 索引中未找到
+[跳过] GetVersionFromFileExW：Learn 索引中未找到
+[跳过] IsNTAdmin：Learn 索引中未找到
+[跳过] DelNodeA：Learn 索引中未找到
+[跳过] DelNodeW：Learn 索引中未找到
+[跳过] DelNodeRunDLL32W：Learn 索引中未找到
+[跳过] OpenINFEngineA：Learn 索引中未找到
+[跳过] OpenINFEngineW：Learn 索引中未找到
+[跳过] TranslateInfStringExA：Learn 索引中未找到
+[跳过] TranslateInfStringExW：Learn 索引中未找到
+[跳过] CloseINFEngine：Learn 索引中未找到
+[跳过] ExtractFilesA：Learn 索引中未找到
+[跳过] ExtractFilesW：Learn 索引中未找到
+[跳过] LaunchINFSectionW：Learn 索引中未找到
+[跳过] UserInstStubWrapperA：Learn 索引中未找到
+[跳过] UserInstStubWrapperW：Learn 索引中未找到
+[跳过] UserUnInstStubWrapperA：Learn 索引中未找到
+[跳过] UserUnInstStubWrapperW：Learn 索引中未找到
+[跳过] SetPerUserSecValuesA：Learn 索引中未找到
+[跳过] SetPerUserSecValuesW：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 50，失败 0

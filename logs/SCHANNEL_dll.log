@@ -1,0 +1,8 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：8 个
+[跳过] SslGenerateRandomBits：Learn 索引中未找到
+[跳过] SslGetMaximumKeySize：Learn 索引中未找到
+[跳过] SslGetExtensions：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 5，索引缺失 3，失败 0

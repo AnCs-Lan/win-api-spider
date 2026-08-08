@@ -1,0 +1,44 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：39 个
+[写入] NCryptOpenStorageProvider（5 条文档条目）
+[写入] NCryptEnumAlgorithms（5 条文档条目）
+[写入] NCryptIsAlgSupported（5 条文档条目）
+[写入] NCryptEnumKeys（5 条文档条目）
+[写入] NCryptEnumStorageProviders（5 条文档条目）
+[写入] NCryptFreeBuffer（5 条文档条目）
+[写入] NCryptOpenKey（5 条文档条目）
+[写入] NCryptCreatePersistedKey（5 条文档条目）
+[写入] NCryptGetProperty（5 条文档条目）
+[写入] NCryptSetProperty（5 条文档条目）
+[写入] NCryptFinalizeKey（5 条文档条目）
+[写入] NCryptEncrypt（5 条文档条目）
+[写入] NCryptDecrypt（5 条文档条目）
+[写入] NCryptImportKey（5 条文档条目）
+[写入] NCryptExportKey（5 条文档条目）
+[写入] NCryptSignHash（5 条文档条目）
+[写入] NCryptVerifySignature（5 条文档条目）
+[写入] NCryptDeleteKey（5 条文档条目）
+[写入] NCryptFreeObject（5 条文档条目）
+[写入] NCryptIsKeyHandle（5 条文档条目）
+[写入] NCryptTranslateHandle（5 条文档条目）
+[写入] NCryptNotifyChangeKey（5 条文档条目）
+[写入] NCryptSecretAgreement（5 条文档条目）
+[写入] NCryptDeriveKey（5 条文档条目）
+[写入] NCryptKeyDerivation（5 条文档条目）
+[写入] NCryptCreateClaim（7 条文档条目）
+[写入] NCryptVerifyClaim（6 条文档条目）
+[写入] NCryptRegisterProtectionDescriptorName（5 条文档条目）
+[写入] NCryptQueryProtectionDescriptorName（5 条文档条目）
+[写入] NCryptCreateProtectionDescriptor（5 条文档条目）
+[写入] NCryptCloseProtectionDescriptor（4 条文档条目）
+[写入] NCryptGetProtectionDescriptorInfo（4 条文档条目）
+[写入] NCryptProtectSecret（5 条文档条目）
+[写入] NCryptUnprotectSecret（5 条文档条目）
+[写入] NCryptStreamOpenToProtect（5 条文档条目）
+[写入] NCryptStreamOpenToUnprotect（5 条文档条目）
+[写入] NCryptStreamOpenToUnprotectEx（4 条文档条目）
+[写入] NCryptStreamUpdate（5 条文档条目）
+[写入] NCryptStreamClose（4 条文档条目）
+
+完成：处理 39，跳过(已存在) 0，索引缺失 0，失败 0

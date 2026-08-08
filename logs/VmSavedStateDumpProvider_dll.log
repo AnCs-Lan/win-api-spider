@@ -1,0 +1,47 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：43 个
+[跳过] LocateSavedStateFiles：Learn 索引中未找到
+[跳过] LoadSavedStateFile：Learn 索引中未找到
+[跳过] ApplyPendingSavedStateFileReplayLog：Learn 索引中未找到
+[跳过] LoadSavedStateFiles：Learn 索引中未找到
+[跳过] ReleaseSavedStateFiles：Learn 索引中未找到
+[跳过] GetGuestEnabledVirtualTrustLevels：Learn 索引中未找到
+[跳过] GetGuestOsInfo：Learn 索引中未找到
+[跳过] GetVpCount：Learn 索引中未找到
+[跳过] ForceArchitecture：Learn 索引中未找到
+[跳过] GetActiveVirtualTrustLevel：Learn 索引中未找到
+[跳过] GetEnabledVirtualTrustLevels：Learn 索引中未找到
+[跳过] ForceActiveVirtualTrustLevel：Learn 索引中未找到
+[跳过] IsActiveVirtualTrustLevelEnabled：Learn 索引中未找到
+[跳过] IsNestedVirtualizationEnabled：Learn 索引中未找到
+[跳过] GetNestedVirtualizationMode：Learn 索引中未找到
+[跳过] ForceNestedHostMode：Learn 索引中未找到
+[跳过] InKernelSpace：Learn 索引中未找到
+[跳过] GetRegisterValue：Learn 索引中未找到
+[跳过] GetPagingMode：Learn 索引中未找到
+[跳过] ForcePagingMode：Learn 索引中未找到
+[跳过] ReadGuestPhysicalAddress：Learn 索引中未找到
+[跳过] GuestVirtualAddressToPhysicalAddress：Learn 索引中未找到
+[跳过] GetGuestPhysicalMemoryChunks：Learn 索引中未找到
+[跳过] GuestPhysicalAddressToRawSavedMemoryOffset：Learn 索引中未找到
+[跳过] ReadGuestRawSavedMemory：Learn 索引中未找到
+[跳过] GetGuestRawSavedMemorySize：Learn 索引中未找到
+[跳过] SetMemoryBlockCacheLimit：Learn 索引中未找到
+[跳过] GetMemoryBlockCacheLimit：Learn 索引中未找到
+[跳过] ApplyGuestMemoryFix：Learn 索引中未找到
+[跳过] LoadSavedStateSymbolProvider：Learn 索引中未找到
+[跳过] ReleaseSavedStateSymbolProvider：Learn 索引中未找到
+[跳过] GetSavedStateSymbolProviderHandle：Learn 索引中未找到
+[跳过] SetSavedStateSymbolProviderDebugInfoCallback：Learn 索引中未找到
+[跳过] LoadSavedStateModuleSymbols：Learn 索引中未找到
+[跳过] LoadSavedStateModuleSymbolsEx：Learn 索引中未找到
+[跳过] ResolveSavedStateGlobalVariableAddress：Learn 索引中未找到
+[跳过] ReadSavedStateGlobalVariable：Learn 索引中未找到
+[跳过] GetSavedStateSymbolTypeSize：Learn 索引中未找到
+[跳过] FindSavedStateSymbolFieldInType：Learn 索引中未找到
+[跳过] GetSavedStateSymbolFieldInfo：Learn 索引中未找到
+[跳过] ScanMemoryForDosImages：Learn 索引中未找到
+[跳过] CallStackUnwind：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 1，索引缺失 42，失败 0

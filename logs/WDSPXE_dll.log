@@ -1,0 +1,36 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：31 个
+[跳过] PxeProviderRegister：Learn 索引中未找到
+[跳过] PxeProviderUnRegister：Learn 索引中未找到
+[跳过] PxeProviderQueryIndex：Learn 索引中未找到
+[跳过] PxeProviderEnumFirst：Learn 索引中未找到
+[跳过] PxeProviderEnumNext：Learn 索引中未找到
+[跳过] PxeProviderEnumClose：Learn 索引中未找到
+[跳过] PxeProviderFreeInfo：Learn 索引中未找到
+[跳过] PxeRegisterCallback：Learn 索引中未找到
+[跳过] PxeSendReply：Learn 索引中未找到
+[跳过] PxeAsyncRecvDone：Learn 索引中未找到
+[跳过] PxeTrace：Learn 索引中未找到
+[跳过] PxeTraceV：Learn 索引中未找到
+[跳过] PxePacketAllocate：Learn 索引中未找到
+[跳过] PxePacketFree：Learn 索引中未找到
+[跳过] PxeProviderSetAttribute：Learn 索引中未找到
+[跳过] PxeDhcpInitialize：Learn 索引中未找到
+[跳过] PxeDhcpv6Initialize：Learn 索引中未找到
+[跳过] PxeDhcpAppendOption：Learn 索引中未找到
+[跳过] PxeDhcpv6AppendOption：Learn 索引中未找到
+[跳过] PxeDhcpAppendOptionRaw：Learn 索引中未找到
+[跳过] PxeDhcpv6AppendOptionRaw：Learn 索引中未找到
+[跳过] PxeDhcpIsValid：Learn 索引中未找到
+[跳过] PxeDhcpv6IsValid：Learn 索引中未找到
+[跳过] PxeDhcpGetOptionValue：Learn 索引中未找到
+[跳过] PxeDhcpv6GetOptionValue：Learn 索引中未找到
+[跳过] PxeDhcpGetVendorOptionValue：Learn 索引中未找到
+[跳过] PxeDhcpv6GetVendorOptionValue：Learn 索引中未找到
+[跳过] PxeDhcpv6ParseRelayForw：Learn 索引中未找到
+[跳过] PxeDhcpv6CreateRelayRepl：Learn 索引中未找到
+[跳过] PxeGetServerInfo：Learn 索引中未找到
+[跳过] PxeGetServerInfoEx：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 31，失败 0

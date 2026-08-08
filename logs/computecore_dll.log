@@ -1,0 +1,57 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：52 个
+[跳过] HcsEnumerateComputeSystems：Learn 索引中未找到
+[跳过] HcsEnumerateComputeSystemsInNamespace：Learn 索引中未找到
+[跳过] HcsCreateOperation：Learn 索引中未找到
+[跳过] HcsCloseOperation：Learn 索引中未找到
+[跳过] HcsGetOperationContext：Learn 索引中未找到
+[跳过] HcsSetOperationContext：Learn 索引中未找到
+[跳过] HcsGetComputeSystemFromOperation：Learn 索引中未找到
+[跳过] HcsGetProcessFromOperation：Learn 索引中未找到
+[跳过] HcsGetOperationType：Learn 索引中未找到
+[跳过] HcsGetOperationId：Learn 索引中未找到
+[跳过] HcsGetOperationResult：Learn 索引中未找到
+[跳过] HcsGetOperationResultAndProcessInfo：Learn 索引中未找到
+[跳过] HcsGetProcessorCompatibilityFromSavedState：Learn 索引中未找到
+[跳过] HcsWaitForOperationResult：Learn 索引中未找到
+[跳过] HcsWaitForOperationResultAndProcessInfo：Learn 索引中未找到
+[跳过] HcsSetOperationCallback：Learn 索引中未找到
+[跳过] HcsCancelOperation：Learn 索引中未找到
+[跳过] HcsCreateComputeSystem：Learn 索引中未找到
+[跳过] HcsCreateComputeSystemInNamespace：Learn 索引中未找到
+[跳过] HcsOpenComputeSystem：Learn 索引中未找到
+[跳过] HcsOpenComputeSystemInNamespace：Learn 索引中未找到
+[跳过] HcsCloseComputeSystem：Learn 索引中未找到
+[跳过] HcsStartComputeSystem：Learn 索引中未找到
+[跳过] HcsShutDownComputeSystem：Learn 索引中未找到
+[跳过] HcsTerminateComputeSystem：Learn 索引中未找到
+[跳过] HcsCrashComputeSystem：Learn 索引中未找到
+[跳过] HcsPauseComputeSystem：Learn 索引中未找到
+[跳过] HcsResumeComputeSystem：Learn 索引中未找到
+[跳过] HcsSaveComputeSystem：Learn 索引中未找到
+[跳过] HcsGetComputeSystemProperties：Learn 索引中未找到
+[跳过] HcsModifyComputeSystem：Learn 索引中未找到
+[跳过] HcsWaitForComputeSystemExit：Learn 索引中未找到
+[跳过] HcsSetComputeSystemCallback：Learn 索引中未找到
+[跳过] HcsCreateProcess：Learn 索引中未找到
+[跳过] HcsOpenProcess：Learn 索引中未找到
+[跳过] HcsCloseProcess：Learn 索引中未找到
+[跳过] HcsTerminateProcess：Learn 索引中未找到
+[跳过] HcsSignalProcess：Learn 索引中未找到
+[跳过] HcsGetProcessInfo：Learn 索引中未找到
+[跳过] HcsGetProcessProperties：Learn 索引中未找到
+[跳过] HcsModifyProcess：Learn 索引中未找到
+[跳过] HcsSetProcessCallback：Learn 索引中未找到
+[跳过] HcsWaitForProcessExit：Learn 索引中未找到
+[跳过] HcsGetServiceProperties：Learn 索引中未找到
+[跳过] HcsModifyServiceSettings：Learn 索引中未找到
+[跳过] HcsSubmitWerReport：Learn 索引中未找到
+[跳过] HcsCreateEmptyGuestStateFile：Learn 索引中未找到
+[跳过] HcsCreateEmptyRuntimeStateFile：Learn 索引中未找到
+[跳过] HcsGrantVmAccess：Learn 索引中未找到
+[跳过] HcsRevokeVmAccess：Learn 索引中未找到
+[跳过] HcsGrantVmGroupAccess：Learn 索引中未找到
+[跳过] HcsRevokeVmGroupAccess：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 52，失败 0

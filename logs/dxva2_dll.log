@@ -1,0 +1,37 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：38 个
+[跳过] GetNumberOfPhysicalMonitorsFromHMONITOR：Learn 索引中未找到
+[跳过] GetNumberOfPhysicalMonitorsFromIDirect3DDevice9：Learn 索引中未找到
+[跳过] GetPhysicalMonitorsFromHMONITOR：Learn 索引中未找到
+[跳过] GetPhysicalMonitorsFromIDirect3DDevice9：Learn 索引中未找到
+[跳过] DestroyPhysicalMonitor：Learn 索引中未找到
+[跳过] DestroyPhysicalMonitors：Learn 索引中未找到
+[跳过] GetVCPFeatureAndVCPFeatureReply：Learn 索引中未找到
+[跳过] SetVCPFeature：Learn 索引中未找到
+[跳过] SaveCurrentSettings：Learn 索引中未找到
+[跳过] GetCapabilitiesStringLength：Learn 索引中未找到
+[跳过] CapabilitiesRequestAndCapabilitiesReply：Learn 索引中未找到
+[跳过] GetTimingReport：Learn 索引中未找到
+[跳过] GetMonitorCapabilities：Learn 索引中未找到
+[跳过] SaveCurrentMonitorSettings：Learn 索引中未找到
+[跳过] GetMonitorTechnologyType：Learn 索引中未找到
+[跳过] GetMonitorBrightness：Learn 索引中未找到
+[跳过] GetMonitorContrast：Learn 索引中未找到
+[跳过] GetMonitorColorTemperature：Learn 索引中未找到
+[跳过] GetMonitorRedGreenOrBlueDrive：Learn 索引中未找到
+[跳过] GetMonitorRedGreenOrBlueGain：Learn 索引中未找到
+[跳过] SetMonitorBrightness：Learn 索引中未找到
+[跳过] SetMonitorContrast：Learn 索引中未找到
+[跳过] SetMonitorColorTemperature：Learn 索引中未找到
+[跳过] SetMonitorRedGreenOrBlueDrive：Learn 索引中未找到
+[跳过] SetMonitorRedGreenOrBlueGain：Learn 索引中未找到
+[跳过] DegaussMonitor：Learn 索引中未找到
+[跳过] GetMonitorDisplayAreaSize：Learn 索引中未找到
+[跳过] GetMonitorDisplayAreaPosition：Learn 索引中未找到
+[跳过] SetMonitorDisplayAreaSize：Learn 索引中未找到
+[跳过] SetMonitorDisplayAreaPosition：Learn 索引中未找到
+[跳过] RestoreMonitorFactoryColorDefaults：Learn 索引中未找到
+[跳过] RestoreMonitorFactoryDefaults：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 6，索引缺失 32，失败 0

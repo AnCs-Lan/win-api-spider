@@ -1,0 +1,15 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：21 个
+[跳过] ChooseColorA：Learn 索引中未找到
+[跳过] ChooseColorW：Learn 索引中未找到
+[跳过] ChooseFontA：Learn 索引中未找到
+[跳过] ChooseFontW：Learn 索引中未找到
+[跳过] PrintDlgA：Learn 索引中未找到
+[跳过] PrintDlgW：Learn 索引中未找到
+[跳过] PrintDlgExA：Learn 索引中未找到
+[跳过] PrintDlgExW：Learn 索引中未找到
+[跳过] PageSetupDlgA：Learn 索引中未找到
+[跳过] PageSetupDlgW：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 11，索引缺失 10，失败 0

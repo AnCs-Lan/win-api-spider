@@ -1,0 +1,56 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：51 个
+[写入] WinHttpSetStatusCallback（6 条文档条目）
+[写入] WinHttpTimeFromSystemTime（6 条文档条目）
+[写入] WinHttpTimeToSystemTime（6 条文档条目）
+[写入] WinHttpCrackUrl（6 条文档条目）
+[写入] WinHttpCreateUrl（6 条文档条目）
+[写入] WinHttpCheckPlatform（5 条文档条目）
+[写入] WinHttpGetDefaultProxyConfiguration（6 条文档条目）
+[写入] WinHttpSetDefaultProxyConfiguration（6 条文档条目）
+[写入] WinHttpOpen（6 条文档条目）
+[写入] WinHttpCloseHandle（5 条文档条目）
+[写入] WinHttpConnect（6 条文档条目）
+[写入] WinHttpReadData（6 条文档条目）
+[写入] WinHttpReadDataEx（5 条文档条目）
+[写入] WinHttpWriteData（6 条文档条目）
+[写入] WinHttpQueryDataAvailable（6 条文档条目）
+[写入] WinHttpQueryOption（6 条文档条目）
+[写入] WinHttpSetOption（5 条文档条目）
+[写入] WinHttpSetTimeouts（6 条文档条目）
+[写入] WinHttpOpenRequest（6 条文档条目）
+[写入] WinHttpAddRequestHeaders（6 条文档条目）
+[写入] WinHttpAddRequestHeadersEx（4 条文档条目）
+[写入] WinHttpSendRequest（6 条文档条目）
+[写入] WinHttpSetCredentials（5 条文档条目）
+[写入] WinHttpQueryAuthSchemes（6 条文档条目）
+[写入] WinHttpReceiveResponse（6 条文档条目）
+[写入] WinHttpQueryHeaders（6 条文档条目）
+[写入] WinHttpQueryHeadersEx（5 条文档条目）
+[写入] WinHttpQueryConnectionGroup（3 条文档条目）
+[写入] WinHttpFreeQueryConnectionGroupResult（3 条文档条目）
+[写入] WinHttpDetectAutoProxyConfigUrl（5 条文档条目）
+[写入] WinHttpGetProxyForUrl（5 条文档条目）
+[写入] WinHttpCreateProxyResolver（4 条文档条目）
+[写入] WinHttpGetProxyForUrlEx（5 条文档条目）
+[跳过] WinHttpGetProxyForUrlEx2：Learn 索引中未找到
+[写入] WinHttpGetProxyResult（4 条文档条目）
+[跳过] WinHttpGetProxyResultEx：Learn 索引中未找到
+[写入] WinHttpFreeProxyResult（5 条文档条目）
+[跳过] WinHttpFreeProxyResultEx：Learn 索引中未找到
+[写入] WinHttpResetAutoProxy（5 条文档条目）
+[写入] WinHttpGetIEProxyConfigForCurrentUser（5 条文档条目）
+[跳过] WinHttpWriteProxySettings：Learn 索引中未找到
+[跳过] WinHttpReadProxySettings：Learn 索引中未找到
+[跳过] WinHttpFreeProxySettings：Learn 索引中未找到
+[跳过] WinHttpGetProxySettingsVersion：Learn 索引中未找到
+[跳过] WinHttpSetProxySettingsPerUser：Learn 索引中未找到
+[写入] WinHttpWebSocketCompleteUpgrade（5 条文档条目）
+[写入] WinHttpWebSocketSend（4 条文档条目）
+[写入] WinHttpWebSocketReceive（4 条文档条目）
+[写入] WinHttpWebSocketShutdown（5 条文档条目）
+[写入] WinHttpWebSocketClose（5 条文档条目）
+[写入] WinHttpWebSocketQueryCloseStatus（5 条文档条目）
+
+完成：处理 43，跳过(已存在) 0，索引缺失 8，失败 0

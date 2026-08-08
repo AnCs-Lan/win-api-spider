@@ -1,0 +1,48 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：43 个
+[写入] HttpInitialize（5 条文档条目）
+[写入] HttpTerminate（5 条文档条目）
+[写入] HttpCreateHttpHandle（5 条文档条目）
+[写入] HttpCreateRequestQueue（5 条文档条目）
+[写入] HttpCloseRequestQueue（5 条文档条目）
+[写入] HttpSetRequestQueueProperty（4 条文档条目）
+[写入] HttpQueryRequestQueueProperty（4 条文档条目）
+[写入] HttpSetRequestProperty（4 条文档条目）
+[写入] HttpShutdownRequestQueue（5 条文档条目）
+[写入] HttpReceiveClientCertificate（5 条文档条目）
+[写入] HttpCreateServerSession（5 条文档条目）
+[写入] HttpCloseServerSession（5 条文档条目）
+[写入] HttpQueryServerSessionProperty（5 条文档条目）
+[写入] HttpSetServerSessionProperty（5 条文档条目）
+[写入] HttpAddUrl（5 条文档条目）
+[写入] HttpRemoveUrl（4 条文档条目）
+[写入] HttpCreateUrlGroup（5 条文档条目）
+[写入] HttpCloseUrlGroup（5 条文档条目）
+[写入] HttpAddUrlToUrlGroup（5 条文档条目）
+[写入] HttpRemoveUrlFromUrlGroup（5 条文档条目）
+[写入] HttpSetUrlGroupProperty（5 条文档条目）
+[写入] HttpQueryUrlGroupProperty（5 条文档条目）
+[写入] HttpPrepareUrl（4 条文档条目）
+[写入] HttpReceiveHttpRequest（5 条文档条目）
+[写入] HttpReceiveRequestEntityBody（5 条文档条目）
+[写入] HttpSendHttpResponse（5 条文档条目）
+[写入] HttpSendResponseEntityBody（5 条文档条目）
+[写入] HttpDeclarePush（5 条文档条目）
+[写入] HttpWaitForDisconnect（4 条文档条目）
+[写入] HttpWaitForDisconnectEx（4 条文档条目）
+[写入] HttpCancelHttpRequest（5 条文档条目）
+[写入] HttpWaitForDemandStart（5 条文档条目）
+[写入] HttpIsFeatureSupported（4 条文档条目）
+[写入] HttpDelegateRequestEx（4 条文档条目）
+[写入] HttpFindUrlGroupId（4 条文档条目）
+[写入] HttpFlushResponseCache（4 条文档条目）
+[写入] HttpAddFragmentToCache（4 条文档条目）
+[写入] HttpReadFragmentFromCache（4 条文档条目）
+[写入] HttpSetServiceConfiguration（5 条文档条目）
+[写入] HttpUpdateServiceConfiguration（5 条文档条目）
+[写入] HttpDeleteServiceConfiguration（4 条文档条目）
+[写入] HttpQueryServiceConfiguration（4 条文档条目）
+[跳过] HttpGetExtension：Learn 索引中未找到
+
+完成：处理 42，跳过(已存在) 0，索引缺失 1，失败 0

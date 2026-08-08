@@ -1,0 +1,20 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：15 个
+[写入] EcOpenSubscriptionEnum（4 条文档条目）
+[写入] EcEnumNextSubscription（4 条文档条目）
+[写入] EcOpenSubscription（4 条文档条目）
+[写入] EcSetSubscriptionProperty（4 条文档条目）
+[写入] EcGetSubscriptionProperty（4 条文档条目）
+[写入] EcSaveSubscription（5 条文档条目）
+[写入] EcDeleteSubscription（4 条文档条目）
+[写入] EcGetObjectArraySize（5 条文档条目）
+[写入] EcSetObjectArrayProperty（5 条文档条目）
+[写入] EcGetObjectArrayProperty（5 条文档条目）
+[写入] EcInsertObjectArrayElement（5 条文档条目）
+[写入] EcRemoveObjectArrayElement（5 条文档条目）
+[写入] EcGetSubscriptionRunTimeStatus（4 条文档条目）
+[写入] EcRetrySubscription（5 条文档条目）
+[写入] EcClose（4 条文档条目）
+
+完成：处理 15，跳过(已存在) 0，索引缺失 0，失败 0

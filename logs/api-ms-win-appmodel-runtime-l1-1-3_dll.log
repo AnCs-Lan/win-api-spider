@@ -1,0 +1,10 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：5 个
+[写入] GetPackagePathByFullName2（5 条文档条目）
+[写入] GetStagedPackagePathByFullName2（5 条文档条目）
+[写入] GetCurrentPackageInfo2（5 条文档条目）
+[写入] GetCurrentPackagePath2（5 条文档条目）
+[写入] GetPackageInfo2（5 条文档条目）
+
+完成：处理 5，跳过(已存在) 0，索引缺失 0，失败 0

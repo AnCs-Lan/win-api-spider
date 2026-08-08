@@ -1,0 +1,16 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：11 个
+[写入] RmStartSession（5 条文档条目）
+[写入] RmJoinSession（5 条文档条目）
+[写入] RmEndSession（4 条文档条目）
+[写入] RmRegisterResources（5 条文档条目）
+[写入] RmGetList（4 条文档条目）
+[写入] RmShutdown（5 条文档条目）
+[写入] RmRestart（5 条文档条目）
+[写入] RmCancelCurrentTask（4 条文档条目）
+[写入] RmAddFilter（4 条文档条目）
+[写入] RmRemoveFilter（4 条文档条目）
+[写入] RmGetFilterList（5 条文档条目）
+
+完成：处理 11，跳过(已存在) 0，索引缺失 0，失败 0

@@ -1,0 +1,16 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：11 个
+[跳过] Direct3DCreate9：Learn 索引中未找到
+[跳过] D3DPERF_BeginEvent：Learn 索引中未找到
+[跳过] D3DPERF_EndEvent：Learn 索引中未找到
+[跳过] D3DPERF_SetMarker：Learn 索引中未找到
+[跳过] D3DPERF_SetRegion：Learn 索引中未找到
+[跳过] D3DPERF_QueryRepeatFrame：Learn 索引中未找到
+[跳过] D3DPERF_SetOptions：Learn 索引中未找到
+[跳过] D3DPERF_GetStatus：Learn 索引中未找到
+[跳过] Direct3DCreate9Ex：Learn 索引中未找到
+[跳过] Direct3DCreate9On12Ex：Learn 索引中未找到
+[跳过] Direct3DCreate9On12：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 11，失败 0

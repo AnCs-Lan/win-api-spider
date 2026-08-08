@@ -1,0 +1,15 @@
+[package]
+name = "win-api-spider"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.13", features = ["json"] }
+scraper = "0.22"
+serde = { version = "1", features = ["derive"] }
+sqlx = { version = "0.9", features = ["sqlite", "runtime-tokio", "macros"] }
+csv = "1"
+dotenvy = "0.15"
+clap = { version = "4", features = ["derive"] }
+chrono = "0.4"

@@ -1,0 +1,24 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：19 个
+[跳过] RatingEnable：Learn 索引中未找到
+[跳过] RatingEnableW：Learn 索引中未找到
+[跳过] RatingCheckUserAccess：Learn 索引中未找到
+[跳过] RatingCheckUserAccessW：Learn 索引中未找到
+[跳过] RatingAccessDeniedDialog：Learn 索引中未找到
+[跳过] RatingAccessDeniedDialogW：Learn 索引中未找到
+[跳过] RatingAccessDeniedDialog2：Learn 索引中未找到
+[跳过] RatingAccessDeniedDialog2W：Learn 索引中未找到
+[跳过] RatingFreeDetails：Learn 索引中未找到
+[跳过] RatingObtainCancel：Learn 索引中未找到
+[跳过] RatingObtainQuery：Learn 索引中未找到
+[跳过] RatingObtainQueryW：Learn 索引中未找到
+[跳过] RatingSetupUI：Learn 索引中未找到
+[跳过] RatingSetupUIW：Learn 索引中未找到
+[跳过] RatingAddToApprovedSites：Learn 索引中未找到
+[跳过] RatingClickedOnPRFInternal：Learn 索引中未找到
+[跳过] RatingClickedOnRATInternal：Learn 索引中未找到
+[跳过] RatingEnabledQuery：Learn 索引中未找到
+[跳过] RatingInit：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 19，失败 0

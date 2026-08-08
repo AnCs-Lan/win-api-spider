@@ -1,0 +1,50 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：47 个
+[跳过] WNetAddConnectionA：Learn 索引中未找到
+[跳过] WNetAddConnectionW：Learn 索引中未找到
+[跳过] WNetAddConnection2A：Learn 索引中未找到
+[跳过] WNetAddConnection2W：Learn 索引中未找到
+[跳过] WNetAddConnection3A：Learn 索引中未找到
+[跳过] WNetAddConnection3W：Learn 索引中未找到
+[跳过] WNetAddConnection4A：Learn 索引中未找到
+[跳过] WNetAddConnection4W：Learn 索引中未找到
+[跳过] WNetCancelConnectionA：Learn 索引中未找到
+[跳过] WNetCancelConnectionW：Learn 索引中未找到
+[跳过] WNetCancelConnection2A：Learn 索引中未找到
+[跳过] WNetCancelConnection2W：Learn 索引中未找到
+[跳过] WNetGetConnectionA：Learn 索引中未找到
+[跳过] WNetGetConnectionW：Learn 索引中未找到
+[跳过] WNetUseConnectionA：Learn 索引中未找到
+[跳过] WNetUseConnectionW：Learn 索引中未找到
+[跳过] WNetUseConnection4A：Learn 索引中未找到
+[跳过] WNetUseConnection4W：Learn 索引中未找到
+[跳过] WNetConnectionDialog：Learn 索引中未找到
+[跳过] WNetDisconnectDialog：Learn 索引中未找到
+[跳过] WNetConnectionDialog1A：Learn 索引中未找到
+[跳过] WNetConnectionDialog1W：Learn 索引中未找到
+[跳过] WNetDisconnectDialog1A：Learn 索引中未找到
+[跳过] WNetDisconnectDialog1W：Learn 索引中未找到
+[跳过] WNetOpenEnumA：Learn 索引中未找到
+[跳过] WNetOpenEnumW：Learn 索引中未找到
+[跳过] WNetEnumResourceA：Learn 索引中未找到
+[跳过] WNetEnumResourceW：Learn 索引中未找到
+[跳过] WNetCloseEnum：Learn 索引中未找到
+[跳过] WNetGetResourceParentA：Learn 索引中未找到
+[跳过] WNetGetResourceParentW：Learn 索引中未找到
+[跳过] WNetGetResourceInformationA：Learn 索引中未找到
+[跳过] WNetGetResourceInformationW：Learn 索引中未找到
+[跳过] WNetGetUniversalNameA：Learn 索引中未找到
+[跳过] WNetGetUniversalNameW：Learn 索引中未找到
+[跳过] WNetGetUserA：Learn 索引中未找到
+[跳过] WNetGetUserW：Learn 索引中未找到
+[跳过] WNetGetProviderNameA：Learn 索引中未找到
+[跳过] WNetGetProviderNameW：Learn 索引中未找到
+[跳过] WNetGetNetworkInformationA：Learn 索引中未找到
+[跳过] WNetGetNetworkInformationW：Learn 索引中未找到
+[跳过] WNetGetLastErrorA：Learn 索引中未找到
+[跳过] WNetGetLastErrorW：Learn 索引中未找到
+[跳过] MultinetGetConnectionPerformanceA：Learn 索引中未找到
+[跳过] MultinetGetConnectionPerformanceW：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 2，索引缺失 45，失败 0

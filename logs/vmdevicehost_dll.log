@@ -1,0 +1,17 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：12 个
+[跳过] HdvInitializeDeviceHost：Learn 索引中未找到
+[跳过] HdvTeardownDeviceHost：Learn 索引中未找到
+[跳过] HdvCreateDeviceInstance：Learn 索引中未找到
+[跳过] HdvReadGuestMemory：Learn 索引中未找到
+[跳过] HdvWriteGuestMemory：Learn 索引中未找到
+[跳过] HdvCreateGuestMemoryAperture：Learn 索引中未找到
+[跳过] HdvDestroyGuestMemoryAperture：Learn 索引中未找到
+[跳过] HdvDeliverGuestInterrupt：Learn 索引中未找到
+[跳过] HdvRegisterDoorbell：Learn 索引中未找到
+[跳过] HdvUnregisterDoorbell：Learn 索引中未找到
+[跳过] HdvCreateSectionBackedMmioRange：Learn 索引中未找到
+[跳过] HdvDestroySectionBackedMmioRange：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 12，失败 0

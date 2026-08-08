@@ -1,0 +1,47 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：42 个
+[写入] acmGetVersion（4 条文档条目）
+[写入] acmMetrics（4 条文档条目）
+[写入] acmDriverEnum（5 条文档条目）
+[写入] acmDriverID（4 条文档条目）
+[写入] acmDriverAddA（5 条文档条目）
+[写入] acmDriverAddW（5 条文档条目）
+[写入] acmDriverRemove（4 条文档条目）
+[写入] acmDriverOpen（4 条文档条目）
+[写入] acmDriverClose（4 条文档条目）
+[写入] acmDriverMessage（5 条文档条目）
+[写入] acmDriverPriority（5 条文档条目）
+[写入] acmDriverDetailsA（5 条文档条目）
+[写入] acmDriverDetailsW（5 条文档条目）
+[写入] acmFormatTagDetailsA（5 条文档条目）
+[写入] acmFormatTagDetailsW（5 条文档条目）
+[写入] acmFormatTagEnumA（5 条文档条目）
+[写入] acmFormatTagEnumW（5 条文档条目）
+[写入] acmFormatDetailsA（5 条文档条目）
+[写入] acmFormatDetailsW（5 条文档条目）
+[写入] acmFormatEnumA（7 条文档条目）
+[写入] acmFormatEnumW（7 条文档条目）
+[写入] acmFormatSuggest（4 条文档条目）
+[写入] acmFormatChooseA（5 条文档条目）
+[写入] acmFormatChooseW（5 条文档条目）
+[写入] acmFilterTagDetailsA（5 条文档条目）
+[写入] acmFilterTagDetailsW（5 条文档条目）
+[写入] acmFilterTagEnumA（5 条文档条目）
+[写入] acmFilterTagEnumW（5 条文档条目）
+[写入] acmFilterDetailsA（5 条文档条目）
+[写入] acmFilterDetailsW（5 条文档条目）
+[写入] acmFilterEnumA（5 条文档条目）
+[写入] acmFilterEnumW（5 条文档条目）
+[写入] acmFilterChooseA（5 条文档条目）
+[写入] acmFilterChooseW（5 条文档条目）
+[写入] acmStreamOpen（5 条文档条目）
+[写入] acmStreamClose（4 条文档条目）
+[写入] acmStreamSize（5 条文档条目）
+[写入] acmStreamReset（5 条文档条目）
+[写入] acmStreamMessage（4 条文档条目）
+[写入] acmStreamConvert（5 条文档条目）
+[写入] acmStreamPrepareHeader（5 条文档条目）
+[写入] acmStreamUnprepareHeader（5 条文档条目）
+
+完成：处理 42，跳过(已存在) 0，索引缺失 0，失败 0

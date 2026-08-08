@@ -1,0 +1,27 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：22 个
+[跳过] ADsGetObject：Learn 索引中未找到
+[跳过] ADsBuildEnumerator：Learn 索引中未找到
+[跳过] ADsFreeEnumerator：Learn 索引中未找到
+[跳过] ADsEnumerateNext：Learn 索引中未找到
+[跳过] ADsBuildVarArrayStr：Learn 索引中未找到
+[跳过] ADsBuildVarArrayInt：Learn 索引中未找到
+[跳过] ADsOpenObject：Learn 索引中未找到
+[跳过] ADsGetLastError：Learn 索引中未找到
+[跳过] ADsSetLastError：Learn 索引中未找到
+[跳过] AllocADsMem：Learn 索引中未找到
+[跳过] FreeADsMem：Learn 索引中未找到
+[跳过] ReallocADsMem：Learn 索引中未找到
+[跳过] AllocADsStr：Learn 索引中未找到
+[跳过] FreeADsStr：Learn 索引中未找到
+[跳过] ReallocADsStr：Learn 索引中未找到
+[跳过] ADsEncodeBinaryData：Learn 索引中未找到
+[跳过] ADsDecodeBinaryData：Learn 索引中未找到
+[跳过] PropVariantToAdsType：Learn 索引中未找到
+[跳过] AdsTypeToPropVariant：Learn 索引中未找到
+[跳过] AdsFreeAdsValues：Learn 索引中未找到
+[跳过] BinarySDToSecurityDescriptor：Learn 索引中未找到
+[跳过] SecurityDescriptorToBinarySD：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 22，失败 0

@@ -1,0 +1,31 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：26 个
+[跳过] GetJobAttributes：Learn 索引中未找到
+[跳过] GetJobAttributesEx：Learn 索引中未找到
+[跳过] RevertToPrinterSelf：Learn 索引中未找到
+[跳过] ImpersonatePrinterClient：Learn 索引中未找到
+[跳过] ReplyPrinterChangeNotification：Learn 索引中未找到
+[跳过] ReplyPrinterChangeNotificationEx：Learn 索引中未找到
+[跳过] PartialReplyPrinterChangeNotification：Learn 索引中未找到
+[跳过] RouterAllocPrinterNotifyInfo：Learn 索引中未找到
+[跳过] RouterFreePrinterNotifyInfo：Learn 索引中未找到
+[跳过] RouterAllocBidiResponseContainer：Learn 索引中未找到
+[跳过] RouterAllocBidiMem：Learn 索引中未找到
+[跳过] RouterFreeBidiMem：Learn 索引中未找到
+[跳过] AppendPrinterNotifyInfoData：Learn 索引中未找到
+[跳过] CallRouterFindFirstPrinterChangeNotification：Learn 索引中未找到
+[跳过] ProvidorFindFirstPrinterChangeNotification：Learn 索引中未找到
+[跳过] ProvidorFindClosePrinterChangeNotification：Learn 索引中未找到
+[跳过] SpoolerFindFirstPrinterChangeNotification：Learn 索引中未找到
+[跳过] SpoolerFindNextPrinterChangeNotification：Learn 索引中未找到
+[跳过] SpoolerRefreshPrinterChangeNotification：Learn 索引中未找到
+[跳过] SpoolerFreePrinterNotifyInfo：Learn 索引中未找到
+[跳过] SpoolerFindClosePrinterChangeNotification：Learn 索引中未找到
+[跳过] SplPromptUIInUsersSession：Learn 索引中未找到
+[跳过] SplIsSessionZero：Learn 索引中未找到
+[跳过] AddPrintDeviceObject：Learn 索引中未找到
+[跳过] UpdatePrintDeviceObject：Learn 索引中未找到
+[跳过] RemovePrintDeviceObject：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 26，失败 0

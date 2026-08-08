@@ -1,0 +1,67 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：62 个
+[写入] MFCreateMediaSession（5 条文档条目）
+[写入] MFCreatePMPMediaSession（5 条文档条目）
+[写入] MFCreateTopology（4 条文档条目）
+[写入] MFCreateTopologyNode（4 条文档条目）
+[写入] MFGetTopoNodeCurrentType（5 条文档条目）
+[写入] MFGetService（4 条文档条目）
+[写入] MFCreatePresentationClock（5 条文档条目）
+[写入] MFRequireProtectedEnvironment（5 条文档条目）
+[写入] MFCreateSimpleTypeHandler（5 条文档条目）
+[写入] MFShutdownObject（5 条文档条目）
+[写入] MFCreateAudioRenderer（5 条文档条目）
+[写入] MFCreateAudioRendererActivate（5 条文档条目）
+[写入] MFCreateVideoRendererActivate（5 条文档条目）
+[写入] MFCreateMPEG4MediaSink（5 条文档条目）
+[写入] MFCreate3GPMediaSink（5 条文档条目）
+[写入] MFCreateMP3MediaSink（6 条文档条目）
+[写入] MFCreateAC3MediaSink（5 条文档条目）
+[写入] MFCreateADTSMediaSink（5 条文档条目）
+[写入] MFCreateMuxSink（5 条文档条目）
+[写入] MFCreateFMPEG4MediaSink（4 条文档条目）
+[写入] MFCreateTopoLoader（4 条文档条目）
+[写入] MFCreateSampleGrabberSinkActivate（5 条文档条目）
+[写入] MFCreateStandardQualityManager（4 条文档条目）
+[写入] MFCreateSequencerSource（4 条文档条目）
+[写入] MFCreateSequencerSegmentOffset（6 条文档条目）
+[写入] MFCreateAggregateSource（6 条文档条目）
+[写入] MFCreateCredentialCache（4 条文档条目）
+[写入] MFCreateProxyLocator（4 条文档条目）
+[写入] MFCreateNetSchemePlugin（4 条文档条目）
+[写入] MFCreatePMPServer（4 条文档条目）
+[写入] MFCreateRemoteDesktopPlugin（4 条文档条目）
+[写入] CreateNamedPropertyStore（4 条文档条目）
+[写入] MFCreateSampleCopierMFT（5 条文档条目）
+[写入] MFCreateTranscodeProfile（6 条文档条目）
+[写入] MFCreateTranscodeTopology（5 条文档条目）
+[写入] MFCreateTranscodeTopologyFromByteStream（5 条文档条目）
+[写入] MFTranscodeGetAudioOutputAvailableTypes（6 条文档条目）
+[写入] MFCreateTranscodeSinkActivate（4 条文档条目）
+[写入] MFEnumDeviceSources（6 条文档条目）
+[写入] MFCreateDeviceSource（5 条文档条目）
+[写入] MFCreateDeviceSourceActivate（5 条文档条目）
+[写入] MFCreateProtectedEnvironmentAccess（4 条文档条目）
+[写入] MFLoadSignedLibrary（6 条文档条目）
+[写入] MFGetSystemId（4 条文档条目）
+[写入] MFGetLocalId（4 条文档条目）
+[写入] MFCreateASFContentInfo（4 条文档条目）
+[写入] MFCreateASFIndexer（4 条文档条目）
+[写入] MFCreateASFIndexerByteStream（4 条文档条目）
+[写入] MFCreateASFSplitter（4 条文档条目）
+[写入] MFCreateASFProfile（4 条文档条目）
+[写入] MFCreateASFProfileFromPresentationDescriptor（4 条文档条目）
+[写入] MFCreatePresentationDescriptorFromASFProfile（4 条文档条目）
+[写入] MFCreateASFMultiplexer（4 条文档条目）
+[写入] MFCreateASFStreamSelector（4 条文档条目）
+[写入] MFCreateASFMediaSink（4 条文档条目）
+[写入] MFCreateASFMediaSinkActivate（4 条文档条目）
+[写入] MFCreateWMVEncoderActivate（4 条文档条目）
+[写入] MFCreateWMAEncoderActivate（4 条文档条目）
+[写入] MFCreateASFStreamingMediaSink（6 条文档条目）
+[写入] MFCreateASFStreamingMediaSinkActivate（5 条文档条目）
+[跳过] MFCreateVideoRenderer：Learn 索引中未找到
+[写入] MFCreateEncryptedMediaExtensionsStoreActivate（5 条文档条目）
+
+完成：处理 61，跳过(已存在) 0，索引缺失 1，失败 0

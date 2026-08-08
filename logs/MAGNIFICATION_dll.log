@@ -1,0 +1,24 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：19 个
+[跳过] MagInitialize：Learn 索引中未找到
+[跳过] MagUninitialize：Learn 索引中未找到
+[跳过] MagSetWindowSource：Learn 索引中未找到
+[跳过] MagGetWindowSource：Learn 索引中未找到
+[跳过] MagSetWindowTransform：Learn 索引中未找到
+[跳过] MagGetWindowTransform：Learn 索引中未找到
+[跳过] MagSetWindowFilterList：Learn 索引中未找到
+[跳过] MagGetWindowFilterList：Learn 索引中未找到
+[跳过] MagSetImageScalingCallback：Learn 索引中未找到
+[跳过] MagGetImageScalingCallback：Learn 索引中未找到
+[跳过] MagSetColorEffect：Learn 索引中未找到
+[跳过] MagGetColorEffect：Learn 索引中未找到
+[跳过] MagSetFullscreenTransform：Learn 索引中未找到
+[跳过] MagGetFullscreenTransform：Learn 索引中未找到
+[跳过] MagSetFullscreenColorEffect：Learn 索引中未找到
+[跳过] MagGetFullscreenColorEffect：Learn 索引中未找到
+[跳过] MagSetInputTransform：Learn 索引中未找到
+[跳过] MagGetInputTransform：Learn 索引中未找到
+[跳过] MagShowSystemCursor：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 19，失败 0

@@ -1,0 +1,34 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：29 个
+[写入] OpenVirtualDisk（5 条文档条目）
+[写入] CreateVirtualDisk（5 条文档条目）
+[写入] AttachVirtualDisk（5 条文档条目）
+[写入] DetachVirtualDisk（5 条文档条目）
+[写入] GetVirtualDiskPhysicalPath（5 条文档条目）
+[跳过] GetAllAttachedVirtualDiskPhysicalPaths：Learn 索引中未找到
+[写入] GetStorageDependencyInformation（5 条文档条目）
+[写入] GetVirtualDiskInformation（5 条文档条目）
+[写入] SetVirtualDiskInformation（5 条文档条目）
+[写入] EnumerateVirtualDiskMetadata（4 条文档条目）
+[写入] GetVirtualDiskMetadata（4 条文档条目）
+[写入] SetVirtualDiskMetadata（4 条文档条目）
+[写入] DeleteVirtualDiskMetadata（4 条文档条目）
+[写入] GetVirtualDiskOperationProgress（4 条文档条目）
+[写入] CompactVirtualDisk（5 条文档条目）
+[写入] MergeVirtualDisk（5 条文档条目）
+[写入] ExpandVirtualDisk（5 条文档条目）
+[写入] ResizeVirtualDisk（4 条文档条目）
+[写入] MirrorVirtualDisk（4 条文档条目）
+[写入] BreakMirrorVirtualDisk（4 条文档条目）
+[写入] AddVirtualDiskParent（5 条文档条目）
+[写入] QueryChangesVirtualDisk（4 条文档条目）
+[写入] TakeSnapshotVhdSet（4 条文档条目）
+[写入] DeleteSnapshotVhdSet（4 条文档条目）
+[写入] ModifyVhdSet（4 条文档条目）
+[写入] ApplySnapshotVhdSet（4 条文档条目）
+[写入] RawSCSIVirtualDisk（4 条文档条目）
+[跳过] ForkVirtualDisk：Learn 索引中未找到
+[跳过] CompleteForkVirtualDisk：Learn 索引中未找到
+
+完成：处理 26，跳过(已存在) 0，索引缺失 3，失败 0

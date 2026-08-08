@@ -1,0 +1,22 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：17 个
+[写入] LresultFromObject（5 条文档条目）
+[写入] ObjectFromLresult（4 条文档条目）
+[写入] WindowFromAccessibleObject（4 条文档条目）
+[写入] AccessibleObjectFromWindow（5 条文档条目）
+[写入] AccessibleObjectFromEvent（6 条文档条目）
+[写入] AccessibleObjectFromPoint（5 条文档条目）
+[写入] AccessibleChildren（6 条文档条目）
+[写入] GetRoleTextA（5 条文档条目）
+[写入] GetRoleTextW（5 条文档条目）
+[写入] GetStateTextA（5 条文档条目）
+[写入] GetStateTextW（5 条文档条目）
+[写入] GetOleaccVersionInfo（5 条文档条目）
+[写入] CreateStdAccessibleObject（5 条文档条目）
+[写入] CreateStdAccessibleProxyA（5 条文档条目）
+[写入] CreateStdAccessibleProxyW（5 条文档条目）
+[写入] AccSetRunningUtilityState（6 条文档条目）
+[写入] AccNotifyTouchInteraction（6 条文档条目）
+
+完成：处理 17，跳过(已存在) 0，索引缺失 0，失败 0

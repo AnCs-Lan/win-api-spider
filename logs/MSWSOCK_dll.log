@@ -1,0 +1,21 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：16 个
+[写入] WSARecvEx（5 条文档条目）
+[写入] TransmitFile（5 条文档条目）
+[写入] AcceptEx（5 条文档条目）
+[写入] GetAcceptExSockaddrs（5 条文档条目）
+[写入] EnumProtocolsA（5 条文档条目）
+[写入] EnumProtocolsW（5 条文档条目）
+[写入] GetAddressByNameA（5 条文档条目）
+[写入] GetAddressByNameW（5 条文档条目）
+[写入] GetTypeByNameA（5 条文档条目）
+[写入] GetTypeByNameW（5 条文档条目）
+[写入] GetNameByTypeA（5 条文档条目）
+[写入] GetNameByTypeW（5 条文档条目）
+[写入] SetServiceA（5 条文档条目）
+[写入] SetServiceW（5 条文档条目）
+[写入] GetServiceA（5 条文档条目）
+[写入] GetServiceW（5 条文档条目）
+
+完成：处理 16，跳过(已存在) 0，索引缺失 0，失败 0

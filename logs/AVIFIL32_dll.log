@@ -1,0 +1,65 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：60 个
+[写入] AVIFileInit（3 条文档条目）
+[写入] AVIFileExit（3 条文档条目）
+[写入] AVIFileAddRef（5 条文档条目）
+[写入] AVIFileRelease（5 条文档条目）
+[写入] AVIFileOpenA（5 条文档条目）
+[写入] AVIFileOpenW（5 条文档条目）
+[写入] AVIFileInfoW（5 条文档条目）
+[写入] AVIFileInfoA（5 条文档条目）
+[写入] AVIFileGetStream（5 条文档条目）
+[写入] AVIFileCreateStreamW（5 条文档条目）
+[写入] AVIFileCreateStreamA（5 条文档条目）
+[写入] AVIFileWriteData（5 条文档条目）
+[写入] AVIFileReadData（5 条文档条目）
+[写入] AVIFileEndRecord（5 条文档条目）
+[写入] AVIStreamAddRef（5 条文档条目）
+[写入] AVIStreamRelease（4 条文档条目）
+[写入] AVIStreamInfoW（5 条文档条目）
+[写入] AVIStreamInfoA（5 条文档条目）
+[写入] AVIStreamFindSample（5 条文档条目）
+[写入] AVIStreamReadFormat（5 条文档条目）
+[写入] AVIStreamSetFormat（5 条文档条目）
+[写入] AVIStreamReadData（5 条文档条目）
+[写入] AVIStreamWriteData（5 条文档条目）
+[写入] AVIStreamRead（5 条文档条目）
+[写入] AVIStreamWrite（5 条文档条目）
+[写入] AVIStreamStart（5 条文档条目）
+[写入] AVIStreamLength（4 条文档条目）
+[写入] AVIStreamTimeToSample（5 条文档条目）
+[写入] AVIStreamSampleToTime（5 条文档条目）
+[写入] AVIStreamBeginStreaming（5 条文档条目）
+[写入] AVIStreamEndStreaming（5 条文档条目）
+[写入] AVIStreamGetFrameOpen（4 条文档条目）
+[写入] AVIStreamGetFrame（5 条文档条目）
+[写入] AVIStreamGetFrameClose（4 条文档条目）
+[写入] AVIStreamOpenFromFileA（5 条文档条目）
+[写入] AVIStreamOpenFromFileW（5 条文档条目）
+[写入] AVIStreamCreate（5 条文档条目）
+[写入] AVIMakeCompressedStream（5 条文档条目）
+[写入] AVISaveA（5 条文档条目）
+[写入] AVISaveVA（5 条文档条目）
+[写入] AVISaveW（5 条文档条目）
+[写入] AVISaveVW（5 条文档条目）
+[写入] AVISaveOptions（5 条文档条目）
+[写入] AVISaveOptionsFree（4 条文档条目）
+[写入] AVIBuildFilterW（5 条文档条目）
+[写入] AVIBuildFilterA（5 条文档条目）
+[写入] AVIMakeFileFromStreams（5 条文档条目）
+[写入] AVIMakeStreamFromClipboard（5 条文档条目）
+[写入] AVIPutFileOnClipboard（5 条文档条目）
+[写入] AVIGetFromClipboard（5 条文档条目）
+[写入] AVIClearClipboard（3 条文档条目）
+[写入] CreateEditableStream（5 条文档条目）
+[写入] EditStreamCut（5 条文档条目）
+[写入] EditStreamCopy（5 条文档条目）
+[写入] EditStreamPaste（5 条文档条目）
+[写入] EditStreamClone（5 条文档条目）
+[写入] EditStreamSetNameA（5 条文档条目）
+[写入] EditStreamSetNameW（5 条文档条目）
+[写入] EditStreamSetInfoW（5 条文档条目）
+[写入] EditStreamSetInfoA（5 条文档条目）
+
+完成：处理 60，跳过(已存在) 0，索引缺失 0，失败 0

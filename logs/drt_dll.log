@@ -1,0 +1,21 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：16 个
+[跳过] DrtOpen：Learn 索引中未找到
+[跳过] DrtClose：Learn 索引中未找到
+[跳过] DrtGetEventDataSize：Learn 索引中未找到
+[跳过] DrtGetEventData：Learn 索引中未找到
+[跳过] DrtRegisterKey：Learn 索引中未找到
+[跳过] DrtUpdateKey：Learn 索引中未找到
+[跳过] DrtUnregisterKey：Learn 索引中未找到
+[跳过] DrtStartSearch：Learn 索引中未找到
+[跳过] DrtContinueSearch：Learn 索引中未找到
+[跳过] DrtGetSearchResultSize：Learn 索引中未找到
+[跳过] DrtGetSearchResult：Learn 索引中未找到
+[跳过] DrtGetSearchPathSize：Learn 索引中未找到
+[跳过] DrtGetSearchPath：Learn 索引中未找到
+[跳过] DrtEndSearch：Learn 索引中未找到
+[跳过] DrtGetInstanceName：Learn 索引中未找到
+[跳过] DrtGetInstanceNameSize：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 16，失败 0

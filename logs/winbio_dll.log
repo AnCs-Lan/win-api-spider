@@ -1,0 +1,59 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：54 个
+[写入] WinBioEnumServiceProviders（6 条文档条目）
+[写入] WinBioEnumBiometricUnits（6 条文档条目）
+[写入] WinBioEnumDatabases（6 条文档条目）
+[写入] WinBioAsyncOpenFramework（5 条文档条目）
+[写入] WinBioCloseFramework（5 条文档条目）
+[写入] WinBioAsyncEnumServiceProviders（5 条文档条目）
+[写入] WinBioAsyncEnumBiometricUnits（5 条文档条目）
+[写入] WinBioAsyncEnumDatabases（5 条文档条目）
+[写入] WinBioAsyncMonitorFrameworkChanges（5 条文档条目）
+[写入] WinBioOpenSession（4 条文档条目）
+[写入] WinBioAsyncOpenSession（5 条文档条目）
+[写入] WinBioCloseSession（6 条文档条目）
+[写入] WinBioVerify（6 条文档条目）
+[写入] WinBioVerifyWithCallback（6 条文档条目）
+[写入] WinBioIdentify（6 条文档条目）
+[写入] WinBioIdentifyWithCallback（6 条文档条目）
+[写入] WinBioWait（6 条文档条目）
+[写入] WinBioCancel（6 条文档条目）
+[写入] WinBioLocateSensor（6 条文档条目）
+[写入] WinBioLocateSensorWithCallback（6 条文档条目）
+[写入] WinBioEnrollBegin（6 条文档条目）
+[写入] WinBioEnrollSelect（5 条文档条目）
+[写入] WinBioEnrollCapture（6 条文档条目）
+[写入] WinBioEnrollCaptureWithCallback（6 条文档条目）
+[写入] WinBioEnrollCommit（6 条文档条目）
+[写入] WinBioEnrollDiscard（6 条文档条目）
+[写入] WinBioEnumEnrollments（6 条文档条目）
+[跳过] WinBioImproveBegin：Learn 索引中未找到
+[跳过] WinBioImproveEnd：Learn 索引中未找到
+[写入] WinBioRegisterEventMonitor（6 条文档条目）
+[写入] WinBioUnregisterEventMonitor（6 条文档条目）
+[写入] WinBioMonitorPresence（5 条文档条目）
+[写入] WinBioCaptureSample（6 条文档条目）
+[写入] WinBioCaptureSampleWithCallback（6 条文档条目）
+[写入] WinBioDeleteTemplate（6 条文档条目）
+[写入] WinBioLockUnit（6 条文档条目）
+[写入] WinBioUnlockUnit（6 条文档条目）
+[写入] WinBioControlUnit（5 条文档条目）
+[写入] WinBioControlUnitPrivileged（5 条文档条目）
+[写入] WinBioGetProperty（5 条文档条目）
+[写入] WinBioSetProperty（5 条文档条目）
+[写入] WinBioFree（6 条文档条目）
+[写入] WinBioSetCredential（6 条文档条目）
+[写入] WinBioRemoveCredential（6 条文档条目）
+[写入] WinBioRemoveAllCredentials（3 条文档条目）
+[写入] WinBioRemoveAllDomainCredentials（3 条文档条目）
+[写入] WinBioGetCredentialState（6 条文档条目）
+[写入] WinBioLogonIdentifiedUser（6 条文档条目）
+[写入] WinBioGetEnrolledFactors（6 条文档条目）
+[写入] WinBioGetEnabledSetting（4 条文档条目）
+[写入] WinBioGetLogonSetting（4 条文档条目）
+[写入] WinBioGetDomainLogonSetting（4 条文档条目）
+[写入] WinBioAcquireFocus（4 条文档条目）
+[写入] WinBioReleaseFocus（4 条文档条目）
+
+完成：处理 52，跳过(已存在) 0，索引缺失 2，失败 0

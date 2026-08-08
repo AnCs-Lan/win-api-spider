@@ -1,0 +1,46 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：41 个
+[跳过] TraceRegisterExA：Learn 索引中未找到
+[跳过] TraceDeregisterA：Learn 索引中未找到
+[跳过] TraceDeregisterExA：Learn 索引中未找到
+[跳过] TraceGetConsoleA：Learn 索引中未找到
+[跳过] TracePrintfA：Learn 索引中未找到
+[跳过] TracePrintfExA：Learn 索引中未找到
+[跳过] TraceVprintfExA：Learn 索引中未找到
+[跳过] TracePutsExA：Learn 索引中未找到
+[跳过] TraceDumpExA：Learn 索引中未找到
+[跳过] TraceRegisterExW：Learn 索引中未找到
+[跳过] TraceDeregisterW：Learn 索引中未找到
+[跳过] TraceDeregisterExW：Learn 索引中未找到
+[跳过] TraceGetConsoleW：Learn 索引中未找到
+[跳过] TracePrintfW：Learn 索引中未找到
+[跳过] TracePrintfExW：Learn 索引中未找到
+[跳过] TraceVprintfExW：Learn 索引中未找到
+[跳过] TracePutsExW：Learn 索引中未找到
+[跳过] TraceDumpExW：Learn 索引中未找到
+[跳过] LogErrorA：Learn 索引中未找到
+[跳过] LogEventA：Learn 索引中未找到
+[跳过] LogErrorW：Learn 索引中未找到
+[跳过] LogEventW：Learn 索引中未找到
+[跳过] RouterLogRegisterA：Learn 索引中未找到
+[跳过] RouterLogDeregisterA：Learn 索引中未找到
+[跳过] RouterLogEventA：Learn 索引中未找到
+[跳过] RouterLogEventDataA：Learn 索引中未找到
+[跳过] RouterLogEventStringA：Learn 索引中未找到
+[跳过] RouterLogEventExA：Learn 索引中未找到
+[跳过] RouterLogEventValistExA：Learn 索引中未找到
+[跳过] RouterGetErrorStringA：Learn 索引中未找到
+[跳过] RouterLogRegisterW：Learn 索引中未找到
+[跳过] RouterLogDeregisterW：Learn 索引中未找到
+[跳过] RouterLogEventW：Learn 索引中未找到
+[跳过] RouterLogEventDataW：Learn 索引中未找到
+[跳过] RouterLogEventStringW：Learn 索引中未找到
+[跳过] RouterLogEventExW：Learn 索引中未找到
+[跳过] RouterLogEventValistExW：Learn 索引中未找到
+[跳过] RouterGetErrorStringW：Learn 索引中未找到
+[跳过] RouterAssert：Learn 索引中未找到
+[跳过] MprSetupProtocolEnum：Learn 索引中未找到
+[跳过] MprSetupProtocolFree：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 41，失败 0

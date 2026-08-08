@@ -1,0 +1,19 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：14 个
+[跳过] AvSetMmThreadCharacteristicsA：Learn 索引中未找到
+[跳过] AvSetMmThreadCharacteristicsW：Learn 索引中未找到
+[跳过] AvSetMmMaxThreadCharacteristicsA：Learn 索引中未找到
+[跳过] AvSetMmMaxThreadCharacteristicsW：Learn 索引中未找到
+[跳过] AvRevertMmThreadCharacteristics：Learn 索引中未找到
+[跳过] AvSetMmThreadPriority：Learn 索引中未找到
+[跳过] AvRtCreateThreadOrderingGroup：Learn 索引中未找到
+[跳过] AvRtCreateThreadOrderingGroupExA：Learn 索引中未找到
+[跳过] AvRtCreateThreadOrderingGroupExW：Learn 索引中未找到
+[跳过] AvRtJoinThreadOrderingGroup：Learn 索引中未找到
+[跳过] AvRtWaitOnThreadOrderingGroup：Learn 索引中未找到
+[跳过] AvRtLeaveThreadOrderingGroup：Learn 索引中未找到
+[跳过] AvRtDeleteThreadOrderingGroup：Learn 索引中未找到
+[跳过] AvQuerySystemResponsiveness：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 14，失败 0

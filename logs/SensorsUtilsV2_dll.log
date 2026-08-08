@@ -1,0 +1,45 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：40 个
+[跳过] GetPerformanceTime：Learn 索引中未找到
+[跳过] InitPropVariantFromFloat：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetPropVariant：Learn 索引中未找到
+[跳过] PropKeyFindKeySetPropVariant：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetFileTime：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetGuid：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetBool：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetUlong：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetUshort：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetFloat：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetDouble：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetInt32：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetInt64：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetNthUlong：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetNthUshort：Learn 索引中未找到
+[跳过] PropKeyFindKeyGetNthInt64：Learn 索引中未找到
+[跳过] IsKeyPresentInPropertyList：Learn 索引中未找到
+[跳过] IsKeyPresentInCollectionList：Learn 索引中未找到
+[跳过] IsCollectionListSame：Learn 索引中未找到
+[跳过] PropVariantGetInformation：Learn 索引中未找到
+[跳过] PropertiesListCopy：Learn 索引中未找到
+[跳过] PropertiesListGetFillableCount：Learn 索引中未找到
+[跳过] CollectionsListGetMarshalledSize：Learn 索引中未找到
+[跳过] CollectionsListCopyAndMarshall：Learn 索引中未找到
+[跳过] CollectionsListMarshall：Learn 索引中未找到
+[跳过] CollectionsListGetMarshalledSizeWithoutSerialization：Learn 索引中未找到
+[跳过] CollectionsListUpdateMarshalledPointer：Learn 索引中未找到
+[跳过] SerializationBufferAllocate：Learn 索引中未找到
+[跳过] SerializationBufferFree：Learn 索引中未找到
+[跳过] CollectionsListGetSerializedSize：Learn 索引中未找到
+[跳过] CollectionsListSerializeToBuffer：Learn 索引中未找到
+[跳过] CollectionsListAllocateBufferAndSerialize：Learn 索引中未找到
+[跳过] CollectionsListDeserializeFromBuffer：Learn 索引中未找到
+[跳过] SensorCollectionGetAt：Learn 索引中未找到
+[跳过] CollectionsListGetFillableCount：Learn 索引中未找到
+[跳过] EvaluateActivityThresholds：Learn 索引中未找到
+[跳过] CollectionsListSortSubscribedActivitiesByConfidence：Learn 索引中未找到
+[跳过] InitPropVariantFromCLSIDArray：Learn 索引中未找到
+[跳过] IsSensorSubscribed：Learn 索引中未找到
+[跳过] IsGUIDPresentInList：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 40，失败 0

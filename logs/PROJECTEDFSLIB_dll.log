@@ -1,0 +1,24 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：19 个
+[跳过] PrjStartVirtualizing：Learn 索引中未找到
+[跳过] PrjStopVirtualizing：Learn 索引中未找到
+[跳过] PrjClearNegativePathCache：Learn 索引中未找到
+[跳过] PrjGetVirtualizationInstanceInfo：Learn 索引中未找到
+[跳过] PrjMarkDirectoryAsPlaceholder：Learn 索引中未找到
+[跳过] PrjWritePlaceholderInfo：Learn 索引中未找到
+[跳过] PrjWritePlaceholderInfo2：Learn 索引中未找到
+[跳过] PrjUpdateFileIfNeeded：Learn 索引中未找到
+[跳过] PrjDeleteFile：Learn 索引中未找到
+[跳过] PrjWriteFileData：Learn 索引中未找到
+[跳过] PrjGetOnDiskFileState：Learn 索引中未找到
+[跳过] PrjAllocateAlignedBuffer：Learn 索引中未找到
+[跳过] PrjFreeAlignedBuffer：Learn 索引中未找到
+[跳过] PrjCompleteCommand：Learn 索引中未找到
+[跳过] PrjFillDirEntryBuffer：Learn 索引中未找到
+[跳过] PrjFillDirEntryBuffer2：Learn 索引中未找到
+[跳过] PrjFileNameMatch：Learn 索引中未找到
+[跳过] PrjFileNameCompare：Learn 索引中未找到
+[跳过] PrjDoesNameContainWildCards：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 19，失败 0

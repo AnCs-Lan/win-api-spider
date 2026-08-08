@@ -1,0 +1,48 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：43 个
+[跳过] VideoForWindowsVersion：Learn 索引中未找到
+[写入] ICInfo（5 条文档条目）
+[写入] ICInstall（5 条文档条目）
+[写入] ICRemove（4 条文档条目）
+[写入] ICGetInfo（4 条文档条目）
+[写入] ICOpen（4 条文档条目）
+[写入] ICOpenFunction（4 条文档条目）
+[写入] ICClose（4 条文档条目）
+[写入] ICSendMessage（4 条文档条目）
+[写入] ICCompress（5 条文档条目）
+[写入] ICDecompress（4 条文档条目）
+[写入] ICDrawBegin（5 条文档条目）
+[写入] ICDraw（5 条文档条目）
+[写入] ICLocate（4 条文档条目）
+[写入] ICGetDisplayFormat（4 条文档条目）
+[写入] ICImageCompress（5 条文档条目）
+[写入] ICImageDecompress（5 条文档条目）
+[写入] ICCompressorChoose（5 条文档条目）
+[写入] ICSeqCompressFrameStart（5 条文档条目）
+[写入] ICSeqCompressFrameEnd（5 条文档条目）
+[写入] ICSeqCompressFrame（5 条文档条目）
+[写入] ICCompressorFree（5 条文档条目）
+[写入] DrawDibOpen（4 条文档条目）
+[写入] DrawDibClose（4 条文档条目）
+[写入] DrawDibGetBuffer（4 条文档条目）
+[写入] DrawDibGetPalette（5 条文档条目）
+[写入] DrawDibSetPalette（4 条文档条目）
+[写入] DrawDibChangePalette（5 条文档条目）
+[写入] DrawDibRealize（5 条文档条目）
+[写入] DrawDibStart（4 条文档条目）
+[写入] DrawDibStop（4 条文档条目）
+[写入] DrawDibBegin（5 条文档条目）
+[写入] DrawDibDraw（5 条文档条目）
+[写入] DrawDibEnd（4 条文档条目）
+[写入] DrawDibTime（5 条文档条目）
+[写入] DrawDibProfileDisplay（4 条文档条目）
+[写入] MCIWndCreateA（5 条文档条目）
+[写入] MCIWndCreateW（5 条文档条目）
+[写入] MCIWndRegisterClass（4 条文档条目）
+[写入] GetOpenFileNamePreviewA（5 条文档条目）
+[写入] GetSaveFileNamePreviewA（5 条文档条目）
+[写入] GetOpenFileNamePreviewW（5 条文档条目）
+[写入] GetSaveFileNamePreviewW（5 条文档条目）
+
+完成：处理 42，跳过(已存在) 0，索引缺失 1，失败 0

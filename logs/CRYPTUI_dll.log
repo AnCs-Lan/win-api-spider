@@ -1,0 +1,15 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：10 个
+[写入] CryptUIDlgViewContext（4 条文档条目）
+[写入] CryptUIDlgSelectCertificateFromStore（4 条文档条目）
+[写入] CertSelectionGetSerializedBlob（5 条文档条目）
+[写入] CryptUIDlgCertMgr（4 条文档条目）
+[写入] CryptUIWizDigitalSign（4 条文档条目）
+[写入] CryptUIWizFreeDigitalSignContext（4 条文档条目）
+[写入] CryptUIDlgViewCertificateW（5 条文档条目）
+[写入] CryptUIDlgViewCertificateA（5 条文档条目）
+[写入] CryptUIWizExport（4 条文档条目）
+[写入] CryptUIWizImport（5 条文档条目）
+
+完成：处理 10，跳过(已存在) 0，索引缺失 0，失败 0

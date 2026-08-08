@@ -1,0 +1,30 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：26 个
+[跳过] D3DReadFileToBlob：Learn 索引中未找到
+[跳过] D3DWriteBlobToFile：Learn 索引中未找到
+[跳过] D3DCompile：Learn 索引中未找到
+[跳过] D3DCompile2：Learn 索引中未找到
+[跳过] D3DCompileFromFile：Learn 索引中未找到
+[跳过] D3DPreprocess：Learn 索引中未找到
+[跳过] D3DGetDebugInfo：Learn 索引中未找到
+[跳过] D3DReflect：Learn 索引中未找到
+[跳过] D3DReflectLibrary：Learn 索引中未找到
+[跳过] D3DDisassemble：Learn 索引中未找到
+[跳过] D3DDisassembleRegion：Learn 索引中未找到
+[跳过] D3DCreateLinker：Learn 索引中未找到
+[跳过] D3DLoadModule：Learn 索引中未找到
+[跳过] D3DCreateFunctionLinkingGraph：Learn 索引中未找到
+[跳过] D3DGetTraceInstructionOffsets：Learn 索引中未找到
+[跳过] D3DGetInputSignatureBlob：Learn 索引中未找到
+[跳过] D3DGetOutputSignatureBlob：Learn 索引中未找到
+[跳过] D3DGetInputAndOutputSignatureBlob：Learn 索引中未找到
+[跳过] D3DStripShader：Learn 索引中未找到
+[跳过] D3DGetBlobPart：Learn 索引中未找到
+[跳过] D3DSetBlobPart：Learn 索引中未找到
+[跳过] D3DCreateBlob：Learn 索引中未找到
+[跳过] D3DCompressShaders：Learn 索引中未找到
+[跳过] D3DDecompressShaders：Learn 索引中未找到
+[跳过] D3DDisassemble10Effect：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 1，索引缺失 25，失败 0

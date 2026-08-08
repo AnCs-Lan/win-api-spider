@@ -1,0 +1,30 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：27 个
+[跳过] CreateRecognizer：Learn 索引中未找到
+[跳过] DestroyRecognizer：Learn 索引中未找到
+[跳过] GetRecoAttributes：Learn 索引中未找到
+[跳过] CreateContext：Learn 索引中未找到
+[跳过] DestroyContext：Learn 索引中未找到
+[跳过] GetResultPropertyList：Learn 索引中未找到
+[跳过] GetUnicodeRanges：Learn 索引中未找到
+[跳过] AddStroke：Learn 索引中未找到
+[跳过] GetBestResultString：Learn 索引中未找到
+[跳过] SetGuide：Learn 索引中未找到
+[跳过] AdviseInkChange：Learn 索引中未找到
+[跳过] EndInkInput：Learn 索引中未找到
+[跳过] SetFactoid：Learn 索引中未找到
+[跳过] GetLatticePtr：Learn 索引中未找到
+[跳过] SetTextContext：Learn 索引中未找到
+[跳过] SetEnabledUnicodeRanges：Learn 索引中未找到
+[跳过] IsStringSupported：Learn 索引中未找到
+[跳过] SetWordList：Learn 索引中未找到
+[跳过] GetRightSeparator：Learn 索引中未找到
+[跳过] GetLeftSeparator：Learn 索引中未找到
+[跳过] DestroyWordList：Learn 索引中未找到
+[跳过] AddWordsToWordList：Learn 索引中未找到
+[跳过] MakeWordList：Learn 索引中未找到
+[跳过] GetAllRecognizers：Learn 索引中未找到
+[跳过] LoadCachedAttributes：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 2，索引缺失 25，失败 0

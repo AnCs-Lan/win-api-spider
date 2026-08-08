@@ -1,0 +1,38 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：33 个
+[跳过] WSManInitialize：Learn 索引中未找到
+[跳过] WSManDeinitialize：Learn 索引中未找到
+[跳过] WSManGetErrorMessage：Learn 索引中未找到
+[跳过] WSManCreateSession：Learn 索引中未找到
+[跳过] WSManCloseSession：Learn 索引中未找到
+[跳过] WSManSetSessionOption：Learn 索引中未找到
+[跳过] WSManGetSessionOptionAsDword：Learn 索引中未找到
+[跳过] WSManGetSessionOptionAsString：Learn 索引中未找到
+[跳过] WSManCloseOperation：Learn 索引中未找到
+[跳过] WSManCreateShell：Learn 索引中未找到
+[跳过] WSManRunShellCommand：Learn 索引中未找到
+[跳过] WSManSignalShell：Learn 索引中未找到
+[跳过] WSManReceiveShellOutput：Learn 索引中未找到
+[跳过] WSManSendShellInput：Learn 索引中未找到
+[跳过] WSManCloseCommand：Learn 索引中未找到
+[跳过] WSManCloseShell：Learn 索引中未找到
+[跳过] WSManCreateShellEx：Learn 索引中未找到
+[跳过] WSManRunShellCommandEx：Learn 索引中未找到
+[跳过] WSManDisconnectShell：Learn 索引中未找到
+[跳过] WSManReconnectShell：Learn 索引中未找到
+[跳过] WSManReconnectShellCommand：Learn 索引中未找到
+[跳过] WSManConnectShell：Learn 索引中未找到
+[跳过] WSManConnectShellCommand：Learn 索引中未找到
+[跳过] WSManPluginReportContext：Learn 索引中未找到
+[跳过] WSManPluginReceiveResult：Learn 索引中未找到
+[跳过] WSManPluginOperationComplete：Learn 索引中未找到
+[跳过] WSManPluginGetOperationParameters：Learn 索引中未找到
+[跳过] WSManPluginGetConfiguration：Learn 索引中未找到
+[跳过] WSManPluginReportCompletion：Learn 索引中未找到
+[跳过] WSManPluginFreeRequestDetails：Learn 索引中未找到
+[跳过] WSManPluginAuthzUserComplete：Learn 索引中未找到
+[跳过] WSManPluginAuthzOperationComplete：Learn 索引中未找到
+[跳过] WSManPluginAuthzQueryQuotaComplete：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 33，失败 0

@@ -1,0 +1,28 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：23 个
+[写入] OleUIAddVerbMenuW（5 条文档条目）
+[写入] OleUIAddVerbMenuA（5 条文档条目）
+[写入] OleUIInsertObjectW（5 条文档条目）
+[写入] OleUIInsertObjectA（5 条文档条目）
+[写入] OleUIPasteSpecialW（5 条文档条目）
+[写入] OleUIPasteSpecialA（5 条文档条目）
+[写入] OleUIEditLinksW（5 条文档条目）
+[写入] OleUIEditLinksA（5 条文档条目）
+[写入] OleUIChangeIconW（5 条文档条目）
+[写入] OleUIChangeIconA（5 条文档条目）
+[写入] OleUIConvertW（5 条文档条目）
+[写入] OleUIConvertA（5 条文档条目）
+[写入] OleUICanConvertOrActivateAs（5 条文档条目）
+[写入] OleUIBusyW（5 条文档条目）
+[写入] OleUIBusyA（5 条文档条目）
+[写入] OleUIChangeSourceW（5 条文档条目）
+[写入] OleUIChangeSourceA（5 条文档条目）
+[写入] OleUIObjectPropertiesW（5 条文档条目）
+[写入] OleUIObjectPropertiesA（5 条文档条目）
+[写入] OleUIPromptUserW（5 条文档条目）
+[写入] OleUIPromptUserA（5 条文档条目）
+[写入] OleUIUpdateLinksW（5 条文档条目）
+[写入] OleUIUpdateLinksA（5 条文档条目）
+
+完成：处理 23，跳过(已存在) 0，索引缺失 0，失败 0

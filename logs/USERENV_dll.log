@@ -1,0 +1,24 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：44 个
+[跳过] RefreshPolicy：Learn 索引中未找到
+[跳过] RefreshPolicyEx：Learn 索引中未找到
+[跳过] EnterCriticalPolicySection：Learn 索引中未找到
+[跳过] LeaveCriticalPolicySection：Learn 索引中未找到
+[跳过] RegisterGPNotification：Learn 索引中未找到
+[跳过] UnregisterGPNotification：Learn 索引中未找到
+[跳过] GetGPOListA：Learn 索引中未找到
+[跳过] GetGPOListW：Learn 索引中未找到
+[跳过] FreeGPOListA：Learn 索引中未找到
+[跳过] FreeGPOListW：Learn 索引中未找到
+[跳过] GetAppliedGPOListA：Learn 索引中未找到
+[跳过] GetAppliedGPOListW：Learn 索引中未找到
+[跳过] ProcessGroupPolicyCompleted：Learn 索引中未找到
+[跳过] ProcessGroupPolicyCompletedEx：Learn 索引中未找到
+[跳过] RsopAccessCheckByType：Learn 索引中未找到
+[跳过] RsopFileAccessCheck：Learn 索引中未找到
+[跳过] RsopSetPolicySettingStatus：Learn 索引中未找到
+[跳过] RsopResetPolicySettingStatus：Learn 索引中未找到
+[跳过] GenerateGPNotification：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 25，索引缺失 19，失败 0

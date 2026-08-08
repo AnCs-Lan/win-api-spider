@@ -1,0 +1,8 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：3 个
+[写入] MapViewOfFileNuma2（4 条文档条目）
+[写入] UnmapViewOfFile2（4 条文档条目）
+[跳过] VirtualUnlockEx：Learn 索引中未找到
+
+完成：处理 2，跳过(已存在) 0，索引缺失 1，失败 0

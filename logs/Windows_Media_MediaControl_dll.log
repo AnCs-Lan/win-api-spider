@@ -1,0 +1,13 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：8 个
+[写入] CreateRenderAudioStateMonitor（4 条文档条目）
+[写入] CreateRenderAudioStateMonitorForCategory（4 条文档条目）
+[写入] CreateRenderAudioStateMonitorForCategoryAndDeviceRole（4 条文档条目）
+[写入] CreateRenderAudioStateMonitorForCategoryAndDeviceId（4 条文档条目）
+[写入] CreateCaptureAudioStateMonitor（4 条文档条目）
+[写入] CreateCaptureAudioStateMonitorForCategory（4 条文档条目）
+[写入] CreateCaptureAudioStateMonitorForCategoryAndDeviceRole（4 条文档条目）
+[写入] CreateCaptureAudioStateMonitorForCategoryAndDeviceId（4 条文档条目）
+
+完成：处理 8，跳过(已存在) 0，索引缺失 0，失败 0

@@ -1,0 +1,18 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：13 个
+[跳过] WdsTransportClientInitialize：Learn 索引中未找到
+[跳过] WdsTransportClientInitializeSession：Learn 索引中未找到
+[跳过] WdsTransportClientRegisterCallback：Learn 索引中未找到
+[跳过] WdsTransportClientStartSession：Learn 索引中未找到
+[跳过] WdsTransportClientCompleteReceive：Learn 索引中未找到
+[跳过] WdsTransportClientCancelSession：Learn 索引中未找到
+[跳过] WdsTransportClientCancelSessionEx：Learn 索引中未找到
+[跳过] WdsTransportClientWaitForCompletion：Learn 索引中未找到
+[跳过] WdsTransportClientQueryStatus：Learn 索引中未找到
+[跳过] WdsTransportClientCloseSession：Learn 索引中未找到
+[跳过] WdsTransportClientAddRefBuffer：Learn 索引中未找到
+[跳过] WdsTransportClientReleaseBuffer：Learn 索引中未找到
+[跳过] WdsTransportClientShutdown：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 13，失败 0

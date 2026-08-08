@@ -1,0 +1,23 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：18 个
+[跳过] EapHostPeerInitialize：Learn 索引中未找到
+[跳过] EapHostPeerUninitialize：Learn 索引中未找到
+[跳过] EapHostPeerBeginSession：Learn 索引中未找到
+[跳过] EapHostPeerProcessReceivedPacket：Learn 索引中未找到
+[跳过] EapHostPeerGetSendPacket：Learn 索引中未找到
+[跳过] EapHostPeerGetResult：Learn 索引中未找到
+[跳过] EapHostPeerGetUIContext：Learn 索引中未找到
+[跳过] EapHostPeerSetUIContext：Learn 索引中未找到
+[跳过] EapHostPeerGetResponseAttributes：Learn 索引中未找到
+[跳过] EapHostPeerSetResponseAttributes：Learn 索引中未找到
+[跳过] EapHostPeerGetAuthStatus：Learn 索引中未找到
+[跳过] EapHostPeerEndSession：Learn 索引中未找到
+[跳过] EapHostPeerGetDataToUnplumbCredentials：Learn 索引中未找到
+[跳过] EapHostPeerClearConnection：Learn 索引中未找到
+[跳过] EapHostPeerFreeEapError：Learn 索引中未找到
+[跳过] EapHostPeerGetIdentity：Learn 索引中未找到
+[跳过] EapHostPeerGetEncryptedPassword：Learn 索引中未找到
+[跳过] EapHostPeerFreeRuntimeMemory：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 18，失败 0

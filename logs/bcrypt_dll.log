@@ -1,0 +1,58 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：53 个
+[写入] BCryptOpenAlgorithmProvider（5 条文档条目）
+[写入] BCryptEnumAlgorithms（5 条文档条目）
+[写入] BCryptEnumProviders（5 条文档条目）
+[写入] BCryptGetProperty（5 条文档条目）
+[写入] BCryptSetProperty（5 条文档条目）
+[写入] BCryptCloseAlgorithmProvider（5 条文档条目）
+[写入] BCryptFreeBuffer（5 条文档条目）
+[写入] BCryptGenerateSymmetricKey（5 条文档条目）
+[写入] BCryptGenerateKeyPair（5 条文档条目）
+[写入] BCryptEncrypt（5 条文档条目）
+[写入] BCryptDecrypt（5 条文档条目）
+[写入] BCryptExportKey（5 条文档条目）
+[写入] BCryptImportKey（5 条文档条目）
+[写入] BCryptImportKeyPair（5 条文档条目）
+[写入] BCryptDuplicateKey（5 条文档条目）
+[写入] BCryptFinalizeKeyPair（5 条文档条目）
+[写入] BCryptDestroyKey（5 条文档条目）
+[写入] BCryptDestroySecret（5 条文档条目）
+[写入] BCryptSignHash（5 条文档条目）
+[写入] BCryptVerifySignature（5 条文档条目）
+[写入] BCryptSecretAgreement（5 条文档条目）
+[写入] BCryptDeriveKey（5 条文档条目）
+[写入] BCryptKeyDerivation（5 条文档条目）
+[写入] BCryptCreateHash（5 条文档条目）
+[写入] BCryptHashData（5 条文档条目）
+[写入] BCryptFinishHash（5 条文档条目）
+[写入] BCryptCreateMultiHash（5 条文档条目）
+[写入] BCryptProcessMultiOperations（5 条文档条目）
+[写入] BCryptDuplicateHash（5 条文档条目）
+[写入] BCryptDestroyHash（5 条文档条目）
+[写入] BCryptHash（4 条文档条目）
+[写入] BCryptGenRandom（5 条文档条目）
+[写入] BCryptDeriveKeyCapi（5 条文档条目）
+[写入] BCryptDeriveKeyPBKDF2（4 条文档条目）
+[写入] BCryptQueryProviderRegistration（5 条文档条目）
+[写入] BCryptEnumRegisteredProviders（5 条文档条目）
+[写入] BCryptCreateContext（5 条文档条目）
+[写入] BCryptDeleteContext（5 条文档条目）
+[写入] BCryptEnumContexts（7 条文档条目）
+[写入] BCryptConfigureContext（5 条文档条目）
+[写入] BCryptQueryContextConfiguration（5 条文档条目）
+[写入] BCryptAddContextFunction（5 条文档条目）
+[写入] BCryptRemoveContextFunction（5 条文档条目）
+[写入] BCryptEnumContextFunctions（6 条文档条目）
+[写入] BCryptConfigureContextFunction（5 条文档条目）
+[写入] BCryptQueryContextFunctionConfiguration（5 条文档条目）
+[写入] BCryptEnumContextFunctionProviders（6 条文档条目）
+[写入] BCryptSetContextFunctionProperty（5 条文档条目）
+[写入] BCryptQueryContextFunctionProperty（5 条文档条目）
+[写入] BCryptRegisterConfigChangeNotify（5 条文档条目）
+[写入] BCryptUnregisterConfigChangeNotify（5 条文档条目）
+[写入] BCryptResolveProviders（5 条文档条目）
+[写入] BCryptGetFipsAlgorithmMode（5 条文档条目）
+
+完成：处理 53，跳过(已存在) 0，索引缺失 0，失败 0

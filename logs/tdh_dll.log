@@ -1,0 +1,32 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：27 个
+[写入] TdhCreatePayloadFilter（5 条文档条目）
+[写入] TdhDeletePayloadFilter（5 条文档条目）
+[写入] TdhAggregatePayloadFilters（5 条文档条目）
+[写入] TdhCleanupPayloadEventFilterDescriptor（5 条文档条目）
+[写入] TdhGetEventInformation（5 条文档条目）
+[写入] TdhGetEventMapInformation（5 条文档条目）
+[写入] TdhGetPropertySize（5 条文档条目）
+[写入] TdhGetProperty（5 条文档条目）
+[写入] TdhEnumerateProviders（5 条文档条目）
+[写入] TdhEnumerateProvidersForDecodingSource（5 条文档条目）
+[写入] TdhQueryProviderFieldInformation（6 条文档条目）
+[写入] TdhEnumerateProviderFieldInformation（6 条文档条目）
+[写入] TdhEnumerateProviderFilters（5 条文档条目）
+[写入] TdhLoadManifest（5 条文档条目）
+[写入] TdhLoadManifestFromMemory（4 条文档条目）
+[写入] TdhUnloadManifest（5 条文档条目）
+[写入] TdhUnloadManifestFromMemory（4 条文档条目）
+[写入] TdhFormatProperty（5 条文档条目）
+[写入] TdhOpenDecodingHandle（5 条文档条目）
+[写入] TdhSetDecodingParameter（4 条文档条目）
+[写入] TdhGetDecodingParameter（4 条文档条目）
+[写入] TdhGetWppProperty（5 条文档条目）
+[写入] TdhGetWppMessage（5 条文档条目）
+[写入] TdhCloseDecodingHandle（4 条文档条目）
+[写入] TdhLoadManifestFromBinary（5 条文档条目）
+[写入] TdhEnumerateManifestProviderEvents（4 条文档条目）
+[写入] TdhGetManifestEventInformation（4 条文档条目）
+
+完成：处理 27，跳过(已存在) 0，索引缺失 0，失败 0

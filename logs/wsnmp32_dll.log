@@ -1,0 +1,54 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：49 个
+[跳过] SnmpGetTranslateMode：Learn 索引中未找到
+[跳过] SnmpSetTranslateMode：Learn 索引中未找到
+[跳过] SnmpGetRetransmitMode：Learn 索引中未找到
+[跳过] SnmpSetRetransmitMode：Learn 索引中未找到
+[跳过] SnmpGetTimeout：Learn 索引中未找到
+[跳过] SnmpSetTimeout：Learn 索引中未找到
+[跳过] SnmpGetRetry：Learn 索引中未找到
+[跳过] SnmpSetRetry：Learn 索引中未找到
+[跳过] SnmpGetVendorInfo：Learn 索引中未找到
+[跳过] SnmpStartup：Learn 索引中未找到
+[跳过] SnmpCleanup：Learn 索引中未找到
+[跳过] SnmpOpen：Learn 索引中未找到
+[跳过] SnmpClose：Learn 索引中未找到
+[跳过] SnmpSendMsg：Learn 索引中未找到
+[跳过] SnmpRecvMsg：Learn 索引中未找到
+[跳过] SnmpRegister：Learn 索引中未找到
+[跳过] SnmpCreateSession：Learn 索引中未找到
+[跳过] SnmpListen：Learn 索引中未找到
+[跳过] SnmpListenEx：Learn 索引中未找到
+[跳过] SnmpCancelMsg：Learn 索引中未找到
+[跳过] SnmpStartupEx：Learn 索引中未找到
+[跳过] SnmpCleanupEx：Learn 索引中未找到
+[跳过] SnmpStrToEntity：Learn 索引中未找到
+[跳过] SnmpEntityToStr：Learn 索引中未找到
+[跳过] SnmpFreeEntity：Learn 索引中未找到
+[跳过] SnmpStrToContext：Learn 索引中未找到
+[跳过] SnmpContextToStr：Learn 索引中未找到
+[跳过] SnmpFreeContext：Learn 索引中未找到
+[跳过] SnmpSetPort：Learn 索引中未找到
+[跳过] SnmpCreatePdu：Learn 索引中未找到
+[跳过] SnmpGetPduData：Learn 索引中未找到
+[跳过] SnmpSetPduData：Learn 索引中未找到
+[跳过] SnmpDuplicatePdu：Learn 索引中未找到
+[跳过] SnmpFreePdu：Learn 索引中未找到
+[跳过] SnmpCreateVbl：Learn 索引中未找到
+[跳过] SnmpDuplicateVbl：Learn 索引中未找到
+[跳过] SnmpFreeVbl：Learn 索引中未找到
+[跳过] SnmpCountVbl：Learn 索引中未找到
+[跳过] SnmpGetVb：Learn 索引中未找到
+[跳过] SnmpSetVb：Learn 索引中未找到
+[跳过] SnmpDeleteVb：Learn 索引中未找到
+[跳过] SnmpGetLastError：Learn 索引中未找到
+[跳过] SnmpStrToOid：Learn 索引中未找到
+[跳过] SnmpOidToStr：Learn 索引中未找到
+[跳过] SnmpOidCopy：Learn 索引中未找到
+[跳过] SnmpOidCompare：Learn 索引中未找到
+[跳过] SnmpEncodeMsg：Learn 索引中未找到
+[跳过] SnmpDecodeMsg：Learn 索引中未找到
+[跳过] SnmpFreeDescriptor：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 49，失败 0

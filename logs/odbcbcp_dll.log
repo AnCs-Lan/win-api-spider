@@ -1,0 +1,32 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：27 个
+[跳过] bcp_batch：Learn 索引中未找到
+[跳过] bcp_bind：Learn 索引中未找到
+[跳过] bcp_colfmt：Learn 索引中未找到
+[跳过] bcp_collen：Learn 索引中未找到
+[跳过] bcp_colptr：Learn 索引中未找到
+[跳过] bcp_columns：Learn 索引中未找到
+[跳过] bcp_control：Learn 索引中未找到
+[跳过] bcp_done：Learn 索引中未找到
+[跳过] bcp_exec：Learn 索引中未找到
+[跳过] bcp_getcolfmt：Learn 索引中未找到
+[跳过] bcp_initA：Learn 索引中未找到
+[跳过] bcp_initW：Learn 索引中未找到
+[跳过] bcp_moretext：Learn 索引中未找到
+[跳过] bcp_readfmtA：Learn 索引中未找到
+[跳过] bcp_readfmtW：Learn 索引中未找到
+[跳过] bcp_sendrow：Learn 索引中未找到
+[跳过] bcp_setcolfmt：Learn 索引中未找到
+[跳过] bcp_writefmtA：Learn 索引中未找到
+[跳过] bcp_writefmtW：Learn 索引中未找到
+[跳过] dbprtypeA：Learn 索引中未找到
+[跳过] dbprtypeW：Learn 索引中未找到
+[跳过] SQLLinkedServers：Learn 索引中未找到
+[跳过] SQLLinkedCatalogsA：Learn 索引中未找到
+[跳过] SQLLinkedCatalogsW：Learn 索引中未找到
+[跳过] SQLInitEnumServers：Learn 索引中未找到
+[跳过] SQLGetNextEnumeration：Learn 索引中未找到
+[跳过] SQLCloseEnumServers：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 27，失败 0

@@ -1,0 +1,16 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：11 个
+[跳过] RoGetErrorReportingFlags：Learn 索引中未找到
+[跳过] RoSetErrorReportingFlags：Learn 索引中未找到
+[跳过] RoResolveRestrictedErrorInfoReference：Learn 索引中未找到
+[跳过] SetRestrictedErrorInfo：Learn 索引中未找到
+[跳过] GetRestrictedErrorInfo：Learn 索引中未找到
+[跳过] RoOriginateErrorW：Learn 索引中未找到
+[跳过] RoOriginateError：Learn 索引中未找到
+[跳过] RoTransformErrorW：Learn 索引中未找到
+[跳过] RoTransformError：Learn 索引中未找到
+[跳过] RoCaptureErrorContext：Learn 索引中未找到
+[跳过] RoFailFastWithErrorContext：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 11，失败 0

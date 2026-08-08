@@ -1,0 +1,50 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：45 个
+[跳过] HidP_GetCaps：Learn 索引中未找到
+[跳过] HidP_GetLinkCollectionNodes：Learn 索引中未找到
+[跳过] HidP_GetSpecificButtonCaps：Learn 索引中未找到
+[跳过] HidP_GetButtonCaps：Learn 索引中未找到
+[跳过] HidP_GetSpecificValueCaps：Learn 索引中未找到
+[跳过] HidP_GetValueCaps：Learn 索引中未找到
+[跳过] HidP_GetExtendedAttributes：Learn 索引中未找到
+[跳过] HidP_InitializeReportForID：Learn 索引中未找到
+[跳过] HidP_SetData：Learn 索引中未找到
+[跳过] HidP_GetData：Learn 索引中未找到
+[跳过] HidP_MaxDataListLength：Learn 索引中未找到
+[跳过] HidP_SetUsages：Learn 索引中未找到
+[跳过] HidP_UnsetUsages：Learn 索引中未找到
+[跳过] HidP_GetUsages：Learn 索引中未找到
+[跳过] HidP_GetUsagesEx：Learn 索引中未找到
+[跳过] HidP_MaxUsageListLength：Learn 索引中未找到
+[跳过] HidP_SetUsageValue：Learn 索引中未找到
+[跳过] HidP_SetScaledUsageValue：Learn 索引中未找到
+[跳过] HidP_SetUsageValueArray：Learn 索引中未找到
+[跳过] HidP_GetUsageValue：Learn 索引中未找到
+[跳过] HidP_GetScaledUsageValue：Learn 索引中未找到
+[跳过] HidP_GetUsageValueArray：Learn 索引中未找到
+[跳过] HidP_UsageListDifference：Learn 索引中未找到
+[跳过] HidP_GetButtonArray：Learn 索引中未找到
+[跳过] HidP_SetButtonArray：Learn 索引中未找到
+[跳过] HidP_TranslateUsagesToI8042ScanCodes：Learn 索引中未找到
+[跳过] HidD_GetAttributes：Learn 索引中未找到
+[跳过] HidD_GetHidGuid：Learn 索引中未找到
+[跳过] HidD_GetPreparsedData：Learn 索引中未找到
+[跳过] HidD_FreePreparsedData：Learn 索引中未找到
+[跳过] HidD_FlushQueue：Learn 索引中未找到
+[跳过] HidD_GetConfiguration：Learn 索引中未找到
+[跳过] HidD_SetConfiguration：Learn 索引中未找到
+[跳过] HidD_GetFeature：Learn 索引中未找到
+[跳过] HidD_SetFeature：Learn 索引中未找到
+[跳过] HidD_GetInputReport：Learn 索引中未找到
+[跳过] HidD_SetOutputReport：Learn 索引中未找到
+[跳过] HidD_GetNumInputBuffers：Learn 索引中未找到
+[跳过] HidD_SetNumInputBuffers：Learn 索引中未找到
+[跳过] HidD_GetPhysicalDescriptor：Learn 索引中未找到
+[跳过] HidD_GetManufacturerString：Learn 索引中未找到
+[跳过] HidD_GetProductString：Learn 索引中未找到
+[跳过] HidD_GetIndexedString：Learn 索引中未找到
+[跳过] HidD_GetSerialNumberString：Learn 索引中未找到
+[跳过] HidD_GetMsGenreDescriptor：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 45，失败 0

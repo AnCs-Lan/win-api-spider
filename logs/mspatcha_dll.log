@@ -1,0 +1,21 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：16 个
+[跳过] TestApplyPatchToFileA：Learn 索引中未找到
+[跳过] TestApplyPatchToFileW：Learn 索引中未找到
+[跳过] TestApplyPatchToFileByHandles：Learn 索引中未找到
+[跳过] TestApplyPatchToFileByBuffers：Learn 索引中未找到
+[跳过] ApplyPatchToFileA：Learn 索引中未找到
+[跳过] ApplyPatchToFileW：Learn 索引中未找到
+[跳过] ApplyPatchToFileByHandles：Learn 索引中未找到
+[跳过] ApplyPatchToFileExA：Learn 索引中未找到
+[跳过] ApplyPatchToFileExW：Learn 索引中未找到
+[跳过] ApplyPatchToFileByHandlesEx：Learn 索引中未找到
+[跳过] ApplyPatchToFileByBuffers：Learn 索引中未找到
+[跳过] GetFilePatchSignatureA：Learn 索引中未找到
+[跳过] GetFilePatchSignatureW：Learn 索引中未找到
+[跳过] GetFilePatchSignatureByHandle：Learn 索引中未找到
+[跳过] GetFilePatchSignatureByBuffer：Learn 索引中未找到
+[跳过] NormalizeFileForPatchSignature：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 16，失败 0

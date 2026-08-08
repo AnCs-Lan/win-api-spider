@@ -1,0 +1,25 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：20 个
+[跳过] TcRegisterClient：Learn 索引中未找到
+[跳过] TcEnumerateInterfaces：Learn 索引中未找到
+[跳过] TcOpenInterfaceA：Learn 索引中未找到
+[跳过] TcOpenInterfaceW：Learn 索引中未找到
+[跳过] TcCloseInterface：Learn 索引中未找到
+[跳过] TcQueryInterface：Learn 索引中未找到
+[跳过] TcSetInterface：Learn 索引中未找到
+[跳过] TcQueryFlowA：Learn 索引中未找到
+[跳过] TcQueryFlowW：Learn 索引中未找到
+[跳过] TcSetFlowA：Learn 索引中未找到
+[跳过] TcSetFlowW：Learn 索引中未找到
+[跳过] TcAddFlow：Learn 索引中未找到
+[跳过] TcGetFlowNameA：Learn 索引中未找到
+[跳过] TcGetFlowNameW：Learn 索引中未找到
+[跳过] TcModifyFlow：Learn 索引中未找到
+[跳过] TcAddFilter：Learn 索引中未找到
+[跳过] TcDeregisterClient：Learn 索引中未找到
+[跳过] TcDeleteFlow：Learn 索引中未找到
+[跳过] TcDeleteFilter：Learn 索引中未找到
+[跳过] TcEnumerateFlows：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 20，失败 0

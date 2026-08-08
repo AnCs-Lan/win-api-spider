@@ -1,0 +1,19 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：14 个
+[跳过] EapHostPeerGetMethods：Learn 索引中未找到
+[跳过] EapHostPeerGetMethodProperties：Learn 索引中未找到
+[跳过] EapHostPeerInvokeConfigUI：Learn 索引中未找到
+[跳过] EapHostPeerQueryCredentialInputFields：Learn 索引中未找到
+[跳过] EapHostPeerQueryUserBlobFromCredentialInputFields：Learn 索引中未找到
+[跳过] EapHostPeerInvokeIdentityUI：Learn 索引中未找到
+[跳过] EapHostPeerInvokeInteractiveUI：Learn 索引中未找到
+[跳过] EapHostPeerQueryInteractiveUIInputFields：Learn 索引中未找到
+[跳过] EapHostPeerQueryUIBlobFromInteractiveUIInputFields：Learn 索引中未找到
+[跳过] EapHostPeerConfigXml2Blob：Learn 索引中未找到
+[跳过] EapHostPeerCredentialsXml2Blob：Learn 索引中未找到
+[跳过] EapHostPeerConfigBlob2Xml：Learn 索引中未找到
+[跳过] EapHostPeerFreeMemory：Learn 索引中未找到
+[跳过] EapHostPeerFreeErrorMemory：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 14，失败 0

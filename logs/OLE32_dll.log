@@ -1,0 +1,37 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：317 个
+[跳过] CoGetInterceptorFromTypeInfo：Learn 索引中未找到
+[跳过] HICON_UserSize：Learn 索引中未找到
+[跳过] HICON_UserMarshal：Learn 索引中未找到
+[跳过] HICON_UserUnmarshal：Learn 索引中未找到
+[跳过] HICON_UserFree：Learn 索引中未找到
+[跳过] SNB_UserSize：Learn 索引中未找到
+[跳过] SNB_UserMarshal：Learn 索引中未找到
+[跳过] SNB_UserUnmarshal：Learn 索引中未找到
+[跳过] SNB_UserFree：Learn 索引中未找到
+[跳过] HICON_UserSize64：Learn 索引中未找到
+[跳过] HICON_UserMarshal64：Learn 索引中未找到
+[跳过] HICON_UserUnmarshal64：Learn 索引中未找到
+[跳过] HICON_UserFree64：Learn 索引中未找到
+[跳过] SNB_UserSize64：Learn 索引中未找到
+[跳过] SNB_UserMarshal64：Learn 索引中未找到
+[跳过] SNB_UserUnmarshal64：Learn 索引中未找到
+[跳过] SNB_UserFree64：Learn 索引中未找到
+[跳过] CoBuildVersion：Learn 索引中未找到
+[跳过] DcomChannelSetHResult：Learn 索引中未找到
+[跳过] CreateStdProgressIndicator：Learn 索引中未找到
+[跳过] HRGN_UserSize：Learn 索引中未找到
+[跳过] HRGN_UserMarshal：Learn 索引中未找到
+[跳过] HRGN_UserUnmarshal：Learn 索引中未找到
+[跳过] HRGN_UserFree：Learn 索引中未找到
+[跳过] HMONITOR_UserSize：Learn 索引中未找到
+[跳过] HMONITOR_UserMarshal：Learn 索引中未找到
+[跳过] HMONITOR_UserUnmarshal：Learn 索引中未找到
+[跳过] HMONITOR_UserFree：Learn 索引中未找到
+[跳过] HMONITOR_UserSize64：Learn 索引中未找到
+[跳过] HMONITOR_UserMarshal64：Learn 索引中未找到
+[跳过] HMONITOR_UserUnmarshal64：Learn 索引中未找到
+[跳过] HMONITOR_UserFree64：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 285，索引缺失 32，失败 0

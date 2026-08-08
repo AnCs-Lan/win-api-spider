@@ -1,0 +1,10 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：18 个
+[跳过] DavGetTheLockOwnerOfTheFile：Learn 索引中未找到
+[跳过] DavInvalidateCache：Learn 索引中未找到
+[跳过] DavCancelConnectionsToServer：Learn 索引中未找到
+[跳过] DavRegisterAuthCallback：Learn 索引中未找到
+[跳过] DavUnregisterAuthCallback：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 13，索引缺失 5，失败 0

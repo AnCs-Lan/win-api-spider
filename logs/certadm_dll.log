@@ -1,0 +1,23 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：18 个
+[写入] CertSrvIsServerOnlineW（6 条文档条目）
+[写入] CertSrvBackupGetDynamicFileListW（6 条文档条目）
+[写入] CertSrvBackupPrepareW（6 条文档条目）
+[写入] CertSrvBackupGetDatabaseNamesW（6 条文档条目）
+[写入] CertSrvBackupOpenFileW（6 条文档条目）
+[写入] CertSrvBackupRead（6 条文档条目）
+[写入] CertSrvBackupClose（6 条文档条目）
+[写入] CertSrvBackupGetBackupLogsW（6 条文档条目）
+[写入] CertSrvBackupTruncateLogs（6 条文档条目）
+[写入] CertSrvBackupEnd（6 条文档条目）
+[写入] CertSrvBackupFree（6 条文档条目）
+[写入] CertSrvRestoreGetDatabaseLocationsW（6 条文档条目）
+[写入] CertSrvRestorePrepareW（6 条文档条目）
+[写入] CertSrvRestoreRegisterW（6 条文档条目）
+[写入] CertSrvRestoreRegisterThroughFile（5 条文档条目）
+[写入] CertSrvRestoreRegisterComplete（6 条文档条目）
+[写入] CertSrvRestoreEnd（6 条文档条目）
+[写入] CertSrvServerControlW（6 条文档条目）
+
+完成：处理 18，跳过(已存在) 0，索引缺失 0，失败 0

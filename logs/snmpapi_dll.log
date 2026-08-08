@@ -1,0 +1,31 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：26 个
+[跳过] SnmpUtilOidCpy：Learn 索引中未找到
+[跳过] SnmpUtilOidAppend：Learn 索引中未找到
+[跳过] SnmpUtilOidNCmp：Learn 索引中未找到
+[跳过] SnmpUtilOidCmp：Learn 索引中未找到
+[跳过] SnmpUtilOidFree：Learn 索引中未找到
+[跳过] SnmpUtilOctetsCmp：Learn 索引中未找到
+[跳过] SnmpUtilOctetsNCmp：Learn 索引中未找到
+[跳过] SnmpUtilOctetsCpy：Learn 索引中未找到
+[跳过] SnmpUtilOctetsFree：Learn 索引中未找到
+[跳过] SnmpUtilAsnAnyCpy：Learn 索引中未找到
+[跳过] SnmpUtilAsnAnyFree：Learn 索引中未找到
+[跳过] SnmpUtilVarBindCpy：Learn 索引中未找到
+[跳过] SnmpUtilVarBindFree：Learn 索引中未找到
+[跳过] SnmpUtilVarBindListCpy：Learn 索引中未找到
+[跳过] SnmpUtilVarBindListFree：Learn 索引中未找到
+[跳过] SnmpUtilMemFree：Learn 索引中未找到
+[跳过] SnmpUtilMemAlloc：Learn 索引中未找到
+[跳过] SnmpUtilMemReAlloc：Learn 索引中未找到
+[跳过] SnmpUtilOidToA：Learn 索引中未找到
+[跳过] SnmpUtilIdsToA：Learn 索引中未找到
+[跳过] SnmpUtilPrintOid：Learn 索引中未找到
+[跳过] SnmpUtilPrintAsnAny：Learn 索引中未找到
+[跳过] SnmpSvcGetUptime：Learn 索引中未找到
+[跳过] SnmpSvcSetLogLevel：Learn 索引中未找到
+[跳过] SnmpSvcSetLogType：Learn 索引中未找到
+[跳过] SnmpUtilDbgPrint：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 26，失败 0

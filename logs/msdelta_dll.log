@@ -1,0 +1,21 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：16 个
+[跳过] GetDeltaInfoB：Learn 索引中未找到
+[跳过] GetDeltaInfoA：Learn 索引中未找到
+[跳过] GetDeltaInfoW：Learn 索引中未找到
+[跳过] ApplyDeltaGetReverseB：Learn 索引中未找到
+[跳过] ApplyDeltaB：Learn 索引中未找到
+[跳过] ApplyDeltaProvidedB：Learn 索引中未找到
+[跳过] ApplyDeltaA：Learn 索引中未找到
+[跳过] ApplyDeltaW：Learn 索引中未找到
+[跳过] CreateDeltaB：Learn 索引中未找到
+[跳过] CreateDeltaA：Learn 索引中未找到
+[跳过] CreateDeltaW：Learn 索引中未找到
+[跳过] GetDeltaSignatureB：Learn 索引中未找到
+[跳过] GetDeltaSignatureA：Learn 索引中未找到
+[跳过] GetDeltaSignatureW：Learn 索引中未找到
+[跳过] DeltaNormalizeProvidedB：Learn 索引中未找到
+[跳过] DeltaFree：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 16，失败 0

@@ -1,0 +1,66 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：61 个
+[写入] RpcIfIdVectorFree（5 条文档条目）
+[写入] RpcNsBindingExportA（5 条文档条目）
+[写入] RpcNsBindingUnexportA（5 条文档条目）
+[写入] RpcNsBindingExportW（5 条文档条目）
+[写入] RpcNsBindingUnexportW（5 条文档条目）
+[写入] RpcNsBindingExportPnPA（5 条文档条目）
+[写入] RpcNsBindingUnexportPnPA（5 条文档条目）
+[写入] RpcNsBindingExportPnPW（5 条文档条目）
+[写入] RpcNsBindingUnexportPnPW（5 条文档条目）
+[写入] RpcNsBindingLookupBeginA（5 条文档条目）
+[写入] RpcNsBindingLookupBeginW（5 条文档条目）
+[写入] RpcNsBindingLookupNext（5 条文档条目）
+[写入] RpcNsBindingLookupDone（5 条文档条目）
+[写入] RpcNsGroupDeleteA（5 条文档条目）
+[写入] RpcNsGroupMbrAddA（5 条文档条目）
+[写入] RpcNsGroupMbrRemoveA（5 条文档条目）
+[写入] RpcNsGroupMbrInqBeginA（5 条文档条目）
+[写入] RpcNsGroupMbrInqNextA（5 条文档条目）
+[写入] RpcNsGroupDeleteW（5 条文档条目）
+[写入] RpcNsGroupMbrAddW（5 条文档条目）
+[写入] RpcNsGroupMbrRemoveW（5 条文档条目）
+[写入] RpcNsGroupMbrInqBeginW（5 条文档条目）
+[写入] RpcNsGroupMbrInqNextW（5 条文档条目）
+[写入] RpcNsGroupMbrInqDone（5 条文档条目）
+[写入] RpcNsProfileDeleteA（5 条文档条目）
+[写入] RpcNsProfileEltAddA（5 条文档条目）
+[写入] RpcNsProfileEltRemoveA（5 条文档条目）
+[写入] RpcNsProfileEltInqBeginA（5 条文档条目）
+[写入] RpcNsProfileEltInqNextA（5 条文档条目）
+[写入] RpcNsProfileDeleteW（5 条文档条目）
+[写入] RpcNsProfileEltAddW（5 条文档条目）
+[写入] RpcNsProfileEltRemoveW（5 条文档条目）
+[写入] RpcNsProfileEltInqBeginW（5 条文档条目）
+[写入] RpcNsProfileEltInqNextW（5 条文档条目）
+[写入] RpcNsProfileEltInqDone（5 条文档条目）
+[写入] RpcNsEntryObjectInqBeginA（5 条文档条目）
+[写入] RpcNsEntryObjectInqBeginW（5 条文档条目）
+[写入] RpcNsEntryObjectInqNext（5 条文档条目）
+[写入] RpcNsEntryObjectInqDone（5 条文档条目）
+[写入] RpcNsEntryExpandNameA（5 条文档条目）
+[写入] RpcNsMgmtBindingUnexportA（5 条文档条目）
+[写入] RpcNsMgmtEntryCreateA（5 条文档条目）
+[写入] RpcNsMgmtEntryDeleteA（5 条文档条目）
+[写入] RpcNsMgmtEntryInqIfIdsA（5 条文档条目）
+[写入] RpcNsMgmtHandleSetExpAge（5 条文档条目）
+[写入] RpcNsMgmtInqExpAge（5 条文档条目）
+[写入] RpcNsMgmtSetExpAge（5 条文档条目）
+[写入] RpcNsEntryExpandNameW（5 条文档条目）
+[写入] RpcNsMgmtBindingUnexportW（5 条文档条目）
+[写入] RpcNsMgmtEntryCreateW（5 条文档条目）
+[写入] RpcNsMgmtEntryDeleteW（5 条文档条目）
+[写入] RpcNsMgmtEntryInqIfIdsW（5 条文档条目）
+[写入] RpcNsBindingImportBeginA（5 条文档条目）
+[写入] RpcNsBindingImportBeginW（5 条文档条目）
+[写入] RpcNsBindingImportNext（5 条文档条目）
+[写入] RpcNsBindingImportDone（5 条文档条目）
+[写入] RpcNsBindingSelect（5 条文档条目）
+[跳过] I_RpcNsGetBuffer：Learn 索引中未找到
+[跳过] I_RpcNsSendReceive：Learn 索引中未找到
+[跳过] I_RpcNsRaiseException：Learn 索引中未找到
+[跳过] I_RpcReBindBuffer：Learn 索引中未找到
+
+完成：处理 57，跳过(已存在) 0，索引缺失 4，失败 0

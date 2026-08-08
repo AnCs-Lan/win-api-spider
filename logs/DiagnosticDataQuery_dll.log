@@ -1,0 +1,40 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：35 个
+[写入] DdqCreateSession（4 条文档条目）
+[写入] DdqCloseSession（4 条文档条目）
+[写入] DdqGetSessionAccessLevel（4 条文档条目）
+[写入] DdqGetDiagnosticDataAccessLevelAllowed（4 条文档条目）
+[写入] DdqGetDiagnosticRecordStats（4 条文档条目）
+[写入] DdqGetDiagnosticRecordPayload（4 条文档条目）
+[写入] DdqGetDiagnosticRecordLocaleTags（5 条文档条目）
+[写入] DdqFreeDiagnosticRecordLocaleTags（5 条文档条目）
+[写入] DdqGetDiagnosticRecordLocaleTagAtIndex（4 条文档条目）
+[写入] DdqGetDiagnosticRecordLocaleTagCount（5 条文档条目）
+[写入] DdqGetDiagnosticRecordProducers（5 条文档条目）
+[写入] DdqFreeDiagnosticRecordProducers（5 条文档条目）
+[写入] DdqGetDiagnosticRecordProducerAtIndex（5 条文档条目）
+[写入] DdqGetDiagnosticRecordProducerCount（5 条文档条目）
+[写入] DdqGetDiagnosticRecordProducerCategories（5 条文档条目）
+[写入] DdqFreeDiagnosticRecordProducerCategories（5 条文档条目）
+[写入] DdqGetDiagnosticRecordCategoryAtIndex（5 条文档条目）
+[写入] DdqGetDiagnosticRecordCategoryCount（5 条文档条目）
+[写入] DdqIsDiagnosticRecordSampledIn（5 条文档条目）
+[写入] DdqGetDiagnosticRecordPage（4 条文档条目）
+[写入] DdqFreeDiagnosticRecordPage（5 条文档条目）
+[写入] DdqGetDiagnosticRecordAtIndex（4 条文档条目）
+[写入] DdqGetDiagnosticRecordCount（5 条文档条目）
+[写入] DdqGetDiagnosticReportStoreReportCount（4 条文档条目）
+[写入] DdqCancelDiagnosticRecordOperation（4 条文档条目）
+[写入] DdqGetDiagnosticReport（5 条文档条目）
+[写入] DdqFreeDiagnosticReport（5 条文档条目）
+[写入] DdqGetDiagnosticReportAtIndex（4 条文档条目）
+[写入] DdqGetDiagnosticReportCount（4 条文档条目）
+[写入] DdqExtractDiagnosticReport（5 条文档条目）
+[写入] DdqGetDiagnosticRecordTagDistribution（5 条文档条目）
+[写入] DdqGetDiagnosticRecordBinaryDistribution（4 条文档条目）
+[写入] DdqGetDiagnosticRecordSummary（4 条文档条目）
+[写入] DdqSetTranscriptConfiguration（4 条文档条目）
+[写入] DdqGetTranscriptConfiguration（4 条文档条目）
+
+完成：处理 35，跳过(已存在) 0，索引缺失 0，失败 0

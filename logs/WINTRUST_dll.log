@@ -1,0 +1,65 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：60 个
+[写入] CryptCATOpen（4 条文档条目）
+[写入] CryptCATClose（4 条文档条目）
+[写入] CryptCATStoreFromHandle（4 条文档条目）
+[写入] CryptCATHandleFromStore（4 条文档条目）
+[写入] CryptCATPersistStore（5 条文档条目）
+[跳过] CryptCATGetCatAttrInfo：Learn 索引中未找到
+[写入] CryptCATPutCatAttrInfo（4 条文档条目）
+[写入] CryptCATEnumerateCatAttr（5 条文档条目）
+[写入] CryptCATGetMemberInfo（5 条文档条目）
+[跳过] CryptCATAllocSortedMemberInfo：Learn 索引中未找到
+[跳过] CryptCATFreeSortedMemberInfo：Learn 索引中未找到
+[写入] CryptCATGetAttrInfo（4 条文档条目）
+[写入] CryptCATPutMemberInfo（4 条文档条目）
+[写入] CryptCATPutAttrInfo（4 条文档条目）
+[写入] CryptCATEnumerateMember（6 条文档条目）
+[写入] CryptCATEnumerateAttr（5 条文档条目）
+[写入] CryptCATCDFOpen（5 条文档条目）
+[写入] CryptCATCDFClose（5 条文档条目）
+[写入] CryptCATCDFEnumCatAttributes（6 条文档条目）
+[跳过] CryptCATCDFEnumMembers：Learn 索引中未找到
+[跳过] CryptCATCDFEnumAttributes：Learn 索引中未找到
+[写入] IsCatalogFile（4 条文档条目）
+[写入] CryptCATAdminAcquireContext（4 条文档条目）
+[写入] CryptCATAdminAcquireContext2（5 条文档条目）
+[写入] CryptCATAdminReleaseContext（4 条文档条目）
+[写入] CryptCATAdminReleaseCatalogContext（4 条文档条目）
+[写入] CryptCATAdminEnumCatalogFromHash（4 条文档条目）
+[写入] CryptCATAdminCalcHashFromFileHandle（4 条文档条目）
+[写入] CryptCATAdminCalcHashFromFileHandle2（5 条文档条目）
+[写入] CryptCATAdminAddCatalog（4 条文档条目）
+[写入] CryptCATAdminRemoveCatalog（4 条文档条目）
+[写入] CryptCATCatalogInfoFromContext（4 条文档条目）
+[写入] CryptCATAdminResolveCatalogPath（4 条文档条目）
+[跳过] CryptCATAdminPauseServiceForBackup：Learn 索引中未找到
+[写入] CryptSIPGetSignedDataMsg（5 条文档条目）
+[写入] CryptSIPPutSignedDataMsg（5 条文档条目）
+[写入] CryptSIPCreateIndirectData（5 条文档条目）
+[写入] CryptSIPVerifyIndirectData（5 条文档条目）
+[写入] CryptSIPRemoveSignedDataMsg（4 条文档条目）
+[写入] CryptSIPGetCaps（5 条文档条目）
+[跳过] CryptSIPGetSealedDigest：Learn 索引中未找到
+[跳过] FindCertsByIssuer：Learn 索引中未找到
+[写入] WinVerifyTrust（5 条文档条目）
+[写入] WinVerifyTrustEx（4 条文档条目）
+[写入] WintrustGetRegPolicyFlags（4 条文档条目）
+[写入] WintrustSetRegPolicyFlags（4 条文档条目）
+[写入] WintrustAddActionID（5 条文档条目）
+[写入] WintrustRemoveActionID（4 条文档条目）
+[写入] WintrustLoadFunctionPointers（4 条文档条目）
+[写入] WintrustAddDefaultForUsage（5 条文档条目）
+[写入] WintrustGetDefaultForUsage（5 条文档条目）
+[写入] WTHelperGetProvSignerFromChain（4 条文档条目）
+[写入] WTHelperGetProvCertFromChain（4 条文档条目）
+[写入] WTHelperProvDataFromStateData（4 条文档条目）
+[写入] WTHelperGetProvPrivateDataFromChain（4 条文档条目）
+[写入] WTHelperCertIsSelfSigned（4 条文档条目）
+[写入] WTHelperCertCheckValidSignature（4 条文档条目）
+[写入] OpenPersonalTrustDBDialogEx（4 条文档条目）
+[写入] OpenPersonalTrustDBDialog（4 条文档条目）
+[写入] WintrustSetDefaultIncludePEPageHashes（5 条文档条目）
+
+完成：处理 52，跳过(已存在) 0，索引缺失 8，失败 0

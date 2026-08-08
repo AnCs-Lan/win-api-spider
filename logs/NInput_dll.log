@@ -1,0 +1,35 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：30 个
+[跳过] CreateInteractionContext：Learn 索引中未找到
+[跳过] DestroyInteractionContext：Learn 索引中未找到
+[跳过] RegisterOutputCallbackInteractionContext：Learn 索引中未找到
+[跳过] RegisterOutputCallbackInteractionContext2：Learn 索引中未找到
+[跳过] SetInteractionConfigurationInteractionContext：Learn 索引中未找到
+[跳过] GetInteractionConfigurationInteractionContext：Learn 索引中未找到
+[跳过] SetPropertyInteractionContext：Learn 索引中未找到
+[跳过] GetPropertyInteractionContext：Learn 索引中未找到
+[跳过] SetInertiaParameterInteractionContext：Learn 索引中未找到
+[跳过] GetInertiaParameterInteractionContext：Learn 索引中未找到
+[跳过] SetCrossSlideParametersInteractionContext：Learn 索引中未找到
+[跳过] GetCrossSlideParameterInteractionContext：Learn 索引中未找到
+[跳过] SetTapParameterInteractionContext：Learn 索引中未找到
+[跳过] GetTapParameterInteractionContext：Learn 索引中未找到
+[跳过] SetHoldParameterInteractionContext：Learn 索引中未找到
+[跳过] GetHoldParameterInteractionContext：Learn 索引中未找到
+[跳过] SetTranslationParameterInteractionContext：Learn 索引中未找到
+[跳过] GetTranslationParameterInteractionContext：Learn 索引中未找到
+[跳过] SetMouseWheelParameterInteractionContext：Learn 索引中未找到
+[跳过] GetMouseWheelParameterInteractionContext：Learn 索引中未找到
+[跳过] ResetInteractionContext：Learn 索引中未找到
+[跳过] GetStateInteractionContext：Learn 索引中未找到
+[跳过] AddPointerInteractionContext：Learn 索引中未找到
+[跳过] RemovePointerInteractionContext：Learn 索引中未找到
+[跳过] ProcessPointerFramesInteractionContext：Learn 索引中未找到
+[跳过] BufferPointerPacketsInteractionContext：Learn 索引中未找到
+[跳过] ProcessBufferedPacketsInteractionContext：Learn 索引中未找到
+[跳过] ProcessInertiaInteractionContext：Learn 索引中未找到
+[跳过] StopInteractionContext：Learn 索引中未找到
+[跳过] SetPivotInteractionContext：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 30，失败 0

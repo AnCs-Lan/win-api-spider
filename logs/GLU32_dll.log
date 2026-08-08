@@ -1,0 +1,57 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：52 个
+[跳过] gluErrorString：Learn 索引中未找到
+[跳过] gluErrorUnicodeStringEXT：Learn 索引中未找到
+[跳过] gluGetString：Learn 索引中未找到
+[跳过] gluOrtho2D：Learn 索引中未找到
+[跳过] gluPerspective：Learn 索引中未找到
+[跳过] gluPickMatrix：Learn 索引中未找到
+[跳过] gluLookAt：Learn 索引中未找到
+[跳过] gluProject：Learn 索引中未找到
+[跳过] gluUnProject：Learn 索引中未找到
+[跳过] gluScaleImage：Learn 索引中未找到
+[跳过] gluBuild1DMipmaps：Learn 索引中未找到
+[跳过] gluBuild2DMipmaps：Learn 索引中未找到
+[跳过] gluNewQuadric：Learn 索引中未找到
+[跳过] gluDeleteQuadric：Learn 索引中未找到
+[跳过] gluQuadricNormals：Learn 索引中未找到
+[跳过] gluQuadricTexture：Learn 索引中未找到
+[跳过] gluQuadricOrientation：Learn 索引中未找到
+[跳过] gluQuadricDrawStyle：Learn 索引中未找到
+[跳过] gluCylinder：Learn 索引中未找到
+[跳过] gluDisk：Learn 索引中未找到
+[跳过] gluPartialDisk：Learn 索引中未找到
+[跳过] gluSphere：Learn 索引中未找到
+[跳过] gluQuadricCallback：Learn 索引中未找到
+[跳过] gluNewTess：Learn 索引中未找到
+[跳过] gluDeleteTess：Learn 索引中未找到
+[跳过] gluTessBeginPolygon：Learn 索引中未找到
+[跳过] gluTessBeginContour：Learn 索引中未找到
+[跳过] gluTessVertex：Learn 索引中未找到
+[跳过] gluTessEndContour：Learn 索引中未找到
+[跳过] gluTessEndPolygon：Learn 索引中未找到
+[跳过] gluTessProperty：Learn 索引中未找到
+[跳过] gluTessNormal：Learn 索引中未找到
+[跳过] gluTessCallback：Learn 索引中未找到
+[跳过] gluGetTessProperty：Learn 索引中未找到
+[跳过] gluNewNurbsRenderer：Learn 索引中未找到
+[跳过] gluDeleteNurbsRenderer：Learn 索引中未找到
+[跳过] gluBeginSurface：Learn 索引中未找到
+[跳过] gluBeginCurve：Learn 索引中未找到
+[跳过] gluEndCurve：Learn 索引中未找到
+[跳过] gluEndSurface：Learn 索引中未找到
+[跳过] gluBeginTrim：Learn 索引中未找到
+[跳过] gluEndTrim：Learn 索引中未找到
+[跳过] gluPwlCurve：Learn 索引中未找到
+[跳过] gluNurbsCurve：Learn 索引中未找到
+[跳过] gluNurbsSurface：Learn 索引中未找到
+[跳过] gluLoadSamplingMatrices：Learn 索引中未找到
+[跳过] gluNurbsProperty：Learn 索引中未找到
+[跳过] gluGetNurbsProperty：Learn 索引中未找到
+[跳过] gluNurbsCallback：Learn 索引中未找到
+[跳过] gluBeginPolygon：Learn 索引中未找到
+[跳过] gluNextContour：Learn 索引中未找到
+[跳过] gluEndPolygon：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 52，失败 0

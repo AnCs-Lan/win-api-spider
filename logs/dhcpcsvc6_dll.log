@@ -1,0 +1,11 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：6 个
+[跳过] Dhcpv6CApiInitialize：Learn 索引中未找到
+[跳过] Dhcpv6CApiCleanup：Learn 索引中未找到
+[跳过] Dhcpv6RequestParams：Learn 索引中未找到
+[跳过] Dhcpv6RequestPrefix：Learn 索引中未找到
+[跳过] Dhcpv6RenewPrefix：Learn 索引中未找到
+[跳过] Dhcpv6ReleasePrefix：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 6，失败 0

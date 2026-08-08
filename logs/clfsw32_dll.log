@@ -1,0 +1,64 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：59 个
+[跳过] LsnEqual：Learn 索引中未找到
+[跳过] LsnLess：Learn 索引中未找到
+[跳过] LsnGreater：Learn 索引中未找到
+[跳过] LsnNull：Learn 索引中未找到
+[写入] LsnContainer（4 条文档条目）
+[写入] LsnCreate（4 条文档条目）
+[写入] LsnBlockOffset（5 条文档条目）
+[写入] LsnRecordSequence（4 条文档条目）
+[跳过] LsnInvalid：Learn 索引中未找到
+[跳过] LsnIncrement：Learn 索引中未找到
+[写入] CreateLogFile（4 条文档条目）
+[写入] DeleteLogByHandle（4 条文档条目）
+[写入] DeleteLogFile（4 条文档条目）
+[写入] AddLogContainer（4 条文档条目）
+[写入] AddLogContainerSet（5 条文档条目）
+[写入] RemoveLogContainer（5 条文档条目）
+[写入] RemoveLogContainerSet（5 条文档条目）
+[写入] SetLogArchiveTail（5 条文档条目）
+[写入] SetEndOfLog（5 条文档条目）
+[写入] TruncateLog（5 条文档条目）
+[写入] CreateLogContainerScanContext（5 条文档条目）
+[写入] ScanLogContainers（5 条文档条目）
+[写入] AlignReservedLog（4 条文档条目）
+[写入] AllocReservedLog（4 条文档条目）
+[写入] FreeReservedLog（5 条文档条目）
+[写入] GetLogFileInformation（4 条文档条目）
+[写入] SetLogArchiveMode（4 条文档条目）
+[写入] ReadLogRestartArea（5 条文档条目）
+[写入] ReadPreviousLogRestartArea（5 条文档条目）
+[写入] WriteLogRestartArea（5 条文档条目）
+[跳过] GetLogReservationInfo：Learn 索引中未找到
+[写入] AdvanceLogBase（5 条文档条目）
+[写入] CloseAndResetLogFile（4 条文档条目）
+[写入] CreateLogMarshallingArea（4 条文档条目）
+[写入] DeleteLogMarshallingArea（4 条文档条目）
+[写入] ReserveAndAppendLog（5 条文档条目）
+[写入] ReserveAndAppendLogAligned（5 条文档条目）
+[写入] FlushLogBuffers（4 条文档条目）
+[写入] FlushLogToLsn（4 条文档条目）
+[写入] ReadLogRecord（5 条文档条目）
+[写入] ReadNextLogRecord（5 条文档条目）
+[写入] TerminateReadLog（5 条文档条目）
+[写入] PrepareLogArchive（5 条文档条目）
+[写入] ReadLogArchiveMetadata（4 条文档条目）
+[写入] GetNextLogArchiveExtent（4 条文档条目）
+[写入] TerminateLogArchive（5 条文档条目）
+[写入] ValidateLog（4 条文档条目）
+[写入] GetLogContainerName（4 条文档条目）
+[写入] GetLogIoStatistics（4 条文档条目）
+[写入] RegisterManageableLogClient（5 条文档条目）
+[写入] DeregisterManageableLogClient（4 条文档条目）
+[写入] ReadLogNotification（5 条文档条目）
+[写入] InstallLogPolicy（5 条文档条目）
+[写入] RemoveLogPolicy（4 条文档条目）
+[写入] QueryLogPolicy（4 条文档条目）
+[写入] SetLogFileSizeWithPolicy（5 条文档条目）
+[写入] HandleLogFull（5 条文档条目）
+[写入] LogTailAdvanceFailure（4 条文档条目）
+[写入] RegisterForLogWriteNotification（4 条文档条目）
+
+完成：处理 52，跳过(已存在) 0，索引缺失 7，失败 0

@@ -1,0 +1,16 @@
+从索引缓存读取（index_cache.tsv）
+清单：共 17148 个 API
+筛选后待处理：11 个
+[跳过] SrpCreateThreadNetworkContext：Learn 索引中未找到
+[跳过] SrpCloseThreadNetworkContext：Learn 索引中未找到
+[跳过] SrpSetTokenEnterpriseId：Learn 索引中未找到
+[跳过] SrpGetEnterpriseIds：Learn 索引中未找到
+[跳过] SrpEnablePermissiveModeFileEncryption：Learn 索引中未找到
+[跳过] SrpDisablePermissiveModeFileEncryption：Learn 索引中未找到
+[跳过] SrpGetEnterprisePolicy：Learn 索引中未找到
+[跳过] SrpIsTokenService：Learn 索引中未找到
+[跳过] SrpDoesPolicyAllowAppExecution：Learn 索引中未找到
+[跳过] SrpHostingInitialize：Learn 索引中未找到
+[跳过] SrpHostingTerminate：Learn 索引中未找到
+
+完成：处理 0，跳过(已存在) 0，索引缺失 11，失败 0
